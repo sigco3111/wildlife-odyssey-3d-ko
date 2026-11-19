@@ -38,7 +38,7 @@ export interface Settings {
 }
 
 export const DEFAULT_SETTINGS: Settings = {
-  language: 'vi',
+  language: 'ko',
   quality: 'medium',
   renderScale: 1,
   shadows: 'low',
@@ -67,7 +67,7 @@ export function loadSettings(): Settings {
     if (!raw) return { ...DEFAULT_SETTINGS };
     const parsed = JSON.parse(raw) as Partial<Settings>;
     const merged = { ...DEFAULT_SETTINGS, ...parsed };
-    if (merged.language !== 'vi' && merged.language !== 'en') merged.language = DEFAULT_SETTINGS.language;
+    if (merged.language !== 'vi' && merged.language !== 'en' && merged.language !== 'ko') merged.language = DEFAULT_SETTINGS.language;
     if (!(merged.quality in QUALITY_PRESETS)) merged.quality = DEFAULT_SETTINGS.quality;
     if (!(merged.drawDistance in QUALITY_PRESETS)) merged.drawDistance = DEFAULT_SETTINGS.drawDistance;
     return merged;

@@ -5,24 +5,80 @@
     "commonNameEn": "Sambar deer",
     "commonNameVi": "Nai",
     "scientificName": "Rusa unicolor",
-    "kingdom": "Animalia", "phylum": "Chordata", "className": "Mammalia", "order": "Artiodactyla", "family": "Cervidae", "genus": "Rusa",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "className": "Mammalia",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Rusa",
     "descriptionEn": "A large, dark-brown forest deer with a shaggy coat and a ruff of coarse hair on the neck. Stags carry rugged antlers that typically have three tines.",
     "descriptionVi": "Loài hươu nai rừng cỡ lớn, lông nâu sẫm, thô và có bờm cổ rậm. Con đực mang cặp gạc chắc khỏe, thường chia ba nhánh.",
-    "habitats": ["grassland", "rainforest", "freshwater"],
-    "diet": ["grasses", "leaves and shoots", "fallen fruit", "water plants"],
-    "dietVi": ["cỏ", "lá và chồi non", "quả rụng", "cây thủy sinh"],
-    "lifespan": "Around 20 years", "lifespanVi": "Khoảng 20 năm",
-    "size": "Shoulder height 1.0–1.6 m; 100–350 kg", "sizeVi": "Cao vai 1,0–1,6 m; nặng 100–350 kg",
+    "habitats": [
+      "grassland",
+      "rainforest",
+      "freshwater"
+    ],
+    "diet": [
+      "grasses",
+      "leaves and shoots",
+      "fallen fruit",
+      "water plants"
+    ],
+    "dietVi": [
+      "cỏ",
+      "lá và chồi non",
+      "quả rụng",
+      "cây thủy sinh"
+    ],
+    "lifespan": "Around 20 years",
+    "lifespanVi": "Khoảng 20 năm",
+    "size": "Shoulder height 1.0–1.6 m; 100–350 kg",
+    "sizeVi": "Cao vai 1,0–1,6 m; nặng 100–350 kg",
     "conservationStatus": "VU",
     "behaviorEn": "Most active at dusk, night and dawn. Feeds in clearings near cover, alone or in small groups, and seldom strays far from water. When alarmed it stamps a foreleg and gives a loud, ringing bark before bolting.",
     "behaviorVi": "Hoạt động mạnh nhất lúc chạng vạng, ban đêm và rạng sáng. Kiếm ăn ở trảng trống gần nơi ẩn nấp, đi lẻ hoặc theo nhóm nhỏ và hiếm khi rời xa nguồn nước. Khi báo động, nai giậm chân trước và kêu một tiếng vang lớn rồi bỏ chạy.",
-    "adaptationsEn": ["Large, rounded, mobile ears pick up faint sounds in dense forest", "Antlers are shed and regrown every year", "A strong swimmer that readily enters water to feed or escape"],
-    "adaptationsVi": ["Đôi tai to tròn, xoay linh hoạt giúp bắt được tiếng động nhỏ trong rừng rậm", "Gạc rụng và mọc lại mỗi năm", "Bơi giỏi, sẵn sàng xuống nước để kiếm ăn hoặc trốn chạy"],
+    "adaptationsEn": [
+      "Large, rounded, mobile ears pick up faint sounds in dense forest",
+      "Antlers are shed and regrown every year",
+      "A strong swimmer that readily enters water to feed or escape"
+    ],
+    "adaptationsVi": [
+      "Đôi tai to tròn, xoay linh hoạt giúp bắt được tiếng động nhỏ trong rừng rậm",
+      "Gạc rụng và mọc lại mỗi năm",
+      "Bơi giỏi, sẵn sàng xuống nước để kiếm ăn hoặc trốn chạy"
+    ],
     "ecologicalRoleEn": "A major browser and grazer that shapes forest undergrowth, and one of the most important prey animals for large predators in tropical Asia.",
     "ecologicalRoleVi": "Loài ăn cỏ và lá quan trọng, góp phần định hình tầng cây bụi của rừng, đồng thời là con mồi chủ chốt của các loài thú ăn thịt lớn ở châu Á nhiệt đới.",
-    "interestingFactsEn": ["The sambar is the largest deer native to Southeast Asia.", "It loves to wallow in mud, which helps it cool down and shed parasites."],
-    "interestingFactsVi": ["Nai là loài hươu nai bản địa lớn nhất Đông Nam Á.", "Nai rất thích đằm bùn để hạ nhiệt và loại bỏ ký sinh trùng."],
-    "model": "sambar"
+    "interestingFactsEn": [
+      "The sambar is the largest deer native to Southeast Asia.",
+      "It loves to wallow in mud, which helps it cool down and shed parasites."
+    ],
+    "interestingFactsVi": [
+      "Nai là loài hươu nai bản địa lớn nhất Đông Nam Á.",
+      "Nai rất thích đằm bùn để hạ nhiệt và loại bỏ ký sinh trùng."
+    ],
+    "model": "sambar",
+    "commonNameKo": "삼바사슴",
+    "descriptionKo": "짙은 갈색의 대형 숲사슴으로, 털이 거칠고 목에 굵은 갈기가 있습니다. 수컷은 보통 세 갈래로 갈라진 굵은 뿔을 지닙니다.",
+    "dietKo": [
+      "풀",
+      "잎과 새싹",
+      "떨어진 열매",
+      "수생 식물"
+    ],
+    "lifespanKo": "약 20년",
+    "sizeKo": "어깨높이 1.0–1.6m; 100–350kg",
+    "behaviorKo": "황혼, 밤, 새벽에 가장 활발합니다. 은신처 근처의 빈터에서 혼자 또는 작은 무리로 먹이를 먹고, 물에서 멀리 벗어나는 일이 드뭅니다. 놀라면 앞다리를 구르며 크고 울리는 소리로 짖은 뒤 달아납니다.",
+    "adaptationsKo": [
+      "크고 둥글며 자유롭게 움직이는 귀가 빽빽한 숲속의 작은 소리도 잡아냅니다",
+      "뿔은 매년 빠지고 다시 자랍니다",
+      "수영을 잘해 먹이를 찾거나 도망칠 때 기꺼이 물에 들어갑니다"
+    ],
+    "ecologicalRoleKo": "숲의 하층 식생을 다듬는 중요한 초식 동물이자, 열대 아시아 대형 포식자의 가장 중요한 먹잇감 중 하나입니다.",
+    "interestingFactsKo": [
+      "삼바사슴은 동남아시아 토착 사슴 중 가장 큽니다.",
+      "진흙 목욕을 좋아하는데, 체온을 낮추고 기생충을 떨어내는 데 도움이 됩니다."
+    ]
   },
   {
     "id": "muntiacus-vaginalis",
@@ -30,24 +86,79 @@
     "commonNameEn": "Northern red muntjac",
     "commonNameVi": "Hoẵng (Mang đỏ)",
     "scientificName": "Muntiacus vaginalis",
-    "kingdom": "Animalia", "phylum": "Chordata", "className": "Mammalia", "order": "Artiodactyla", "family": "Cervidae", "genus": "Muntiacus",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "className": "Mammalia",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Muntiacus",
     "descriptionEn": "A small, reddish-brown deer of the forest understorey. Bucks have short antlers set on long, fur-covered pedicels and small tusk-like upper canines.",
     "descriptionVi": "Loài hươu nhỏ lông nâu đỏ sống ở tầng thấp của rừng. Con đực có gạc ngắn mọc trên đế gạc dài phủ lông và răng nanh trên nhỏ, chìa ra như ngà.",
-    "habitats": ["rainforest", "ruins"],
-    "diet": ["fallen fruit", "shoots and leaves", "seeds", "occasionally eggs and small animals"],
-    "dietVi": ["quả rụng", "chồi và lá", "hạt", "đôi khi ăn trứng và động vật nhỏ"],
-    "lifespan": "About 10–15 years", "lifespanVi": "Khoảng 10–15 năm",
-    "size": "Shoulder height 40–65 cm; 15–30 kg", "sizeVi": "Cao vai 40–65 cm; nặng 15–30 kg",
+    "habitats": [
+      "rainforest",
+      "ruins"
+    ],
+    "diet": [
+      "fallen fruit",
+      "shoots and leaves",
+      "seeds",
+      "occasionally eggs and small animals"
+    ],
+    "dietVi": [
+      "quả rụng",
+      "chồi và lá",
+      "hạt",
+      "đôi khi ăn trứng và động vật nhỏ"
+    ],
+    "lifespan": "About 10–15 years",
+    "lifespanVi": "Khoảng 10–15 năm",
+    "size": "Shoulder height 40–65 cm; 15–30 kg",
+    "sizeVi": "Cao vai 40–65 cm; nặng 15–30 kg",
     "conservationStatus": "LC",
     "behaviorEn": "Solitary and territorial. It picks its way slowly through dense cover and, when it senses danger, gives a sharp dog-like bark that can be repeated for many minutes.",
     "behaviorVi": "Sống đơn độc và có lãnh thổ riêng. Hoẵng đi chậm rãi trong bụi rậm; khi thấy nguy hiểm, nó sủa những tiếng ngắn như chó và có thể lặp lại suốt nhiều phút.",
-    "adaptationsEn": ["Tusk-like canines are used by bucks when fighting rivals", "Large scent glands in front of the eyes mark territory", "A small, low body slips easily through thick undergrowth"],
-    "adaptationsVi": ["Con đực dùng răng nanh như ngà khi đánh nhau tranh lãnh thổ", "Tuyến mùi lớn trước mắt dùng để đánh dấu lãnh thổ", "Thân hình nhỏ, thấp giúp luồn lách dễ dàng trong bụi rậm"],
+    "adaptationsEn": [
+      "Tusk-like canines are used by bucks when fighting rivals",
+      "Large scent glands in front of the eyes mark territory",
+      "A small, low body slips easily through thick undergrowth"
+    ],
+    "adaptationsVi": [
+      "Con đực dùng răng nanh như ngà khi đánh nhau tranh lãnh thổ",
+      "Tuyến mùi lớn trước mắt dùng để đánh dấu lãnh thổ",
+      "Thân hình nhỏ, thấp giúp luồn lách dễ dàng trong bụi rậm"
+    ],
     "ecologicalRoleEn": "Disperses the seeds of forest fruits and is prey for leopards, dholes and large pythons.",
     "ecologicalRoleVi": "Phát tán hạt của nhiều loài quả rừng và là con mồi của báo, sói đỏ và trăn lớn.",
-    "interestingFactsEn": ["Its alarm call earned muntjacs the name 'barking deer'.", "Muntjacs are among the oldest known deer lineages."],
-    "interestingFactsVi": ["Tiếng kêu báo động khiến hoẵng còn được gọi là 'hươu sủa'.", "Hoẵng thuộc một trong những dòng hươu nai cổ xưa nhất còn tồn tại."],
-    "model": "muntjac"
+    "interestingFactsEn": [
+      "Its alarm call earned muntjacs the name 'barking deer'.",
+      "Muntjacs are among the oldest known deer lineages."
+    ],
+    "interestingFactsVi": [
+      "Tiếng kêu báo động khiến hoẵng còn được gọi là 'hươu sủa'.",
+      "Hoẵng thuộc một trong những dòng hươu nai cổ xưa nhất còn tồn tại."
+    ],
+    "model": "muntjac",
+    "commonNameKo": "붉은문착",
+    "descriptionKo": "숲 하층에 사는 작은 적갈색 사슴입니다. 수컷은 털 덮인 긴 각병 위에 짧은 뿔을 지니고, 작은 엄니 같은 위송곳니가 있습니다.",
+    "dietKo": [
+      "떨어진 열매",
+      "새싹과 잎",
+      "씨앗",
+      "가끔 알과 작은 동물"
+    ],
+    "lifespanKo": "약 10–15년",
+    "sizeKo": "어깨높이 40–65cm; 15–30kg",
+    "behaviorKo": "단독 생활을 하며 영역을 지킵니다. 빽빽한 덤불 속을 천천히 지나다니다가 위험을 감지하면 개 짖는 듯한 날카로운 소리를 내는데, 몇 분이고 반복하기도 합니다.",
+    "adaptationsKo": [
+      "수컷은 라이벌과 싸울 때 엄니 같은 송곳니를 사용합니다",
+      "눈앞의 큰 분비선으로 영역을 표시합니다",
+      "작고 낮은 몸으로 두꺼운 덤불 사이를 쉽게 빠져나갑니다"
+    ],
+    "ecologicalRoleKo": "숲 열매의 씨앗을 퍼뜨리고, 표범, 승냥이, 대형 비단뱀의 먹잇감이 됩니다.",
+    "interestingFactsKo": [
+      "경계 울음 때문에 문착은 '짖는 사슴'이라 불립니다.",
+      "문착은 알려진 사슴 계통 중 가장 오래된 축에 속합니다."
+    ]
   },
   {
     "id": "sus-scrofa",
@@ -55,24 +166,79 @@
     "commonNameEn": "Wild boar",
     "commonNameVi": "Lợn rừng",
     "scientificName": "Sus scrofa",
-    "kingdom": "Animalia", "phylum": "Chordata", "className": "Mammalia", "order": "Artiodactyla", "family": "Suidae", "genus": "Sus",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "className": "Mammalia",
+    "order": "Artiodactyla",
+    "family": "Suidae",
+    "genus": "Sus",
     "descriptionEn": "A stocky, bristly wild pig with a long wedge-shaped head, a tough mobile snout and, in males, curved tusks.",
     "descriptionVi": "Loài lợn hoang thân chắc nịch, lông cứng, đầu dài hình nêm, mõm khỏe và linh hoạt; con đực có nanh cong.",
-    "habitats": ["rainforest", "grassland"],
-    "diet": ["roots and tubers", "fallen fruit", "worms and insects", "small animals and carrion"],
-    "dietVi": ["rễ và củ", "quả rụng", "giun và côn trùng", "động vật nhỏ và xác thối"],
-    "lifespan": "About 10 years in the wild", "lifespanVi": "Khoảng 10 năm ngoài tự nhiên",
-    "size": "Body length 0.9–1.8 m; 40–200 kg", "sizeVi": "Thân dài 0,9–1,8 m; nặng 40–200 kg",
+    "habitats": [
+      "rainforest",
+      "grassland"
+    ],
+    "diet": [
+      "roots and tubers",
+      "fallen fruit",
+      "worms and insects",
+      "small animals and carrion"
+    ],
+    "dietVi": [
+      "rễ và củ",
+      "quả rụng",
+      "giun và côn trùng",
+      "động vật nhỏ và xác thối"
+    ],
+    "lifespan": "About 10 years in the wild",
+    "lifespanVi": "Khoảng 10 năm ngoài tự nhiên",
+    "size": "Body length 0.9–1.8 m; 40–200 kg",
+    "sizeVi": "Thân dài 0,9–1,8 m; nặng 40–200 kg",
     "conservationStatus": "LC",
     "behaviorEn": "Sows and young travel in groups called sounders, while adult boars are mostly solitary. They spend much of their time rooting through soil and leaf litter with the snout.",
     "behaviorVi": "Lợn cái và lợn con đi thành đàn, còn lợn đực trưởng thành thường sống đơn độc. Chúng dành phần lớn thời gian dũi đất và thảm lá bằng mõm để tìm thức ăn.",
-    "adaptationsEn": ["A disc of cartilage stiffens the snout for digging", "An excellent sense of smell finds food underground", "Striped piglets are camouflaged on the forest floor"],
-    "adaptationsVi": ["Đĩa sụn làm mõm cứng cáp để đào bới", "Khứu giác rất nhạy giúp tìm thức ăn dưới đất", "Lợn con có sọc để ngụy trang trên nền rừng"],
+    "adaptationsEn": [
+      "A disc of cartilage stiffens the snout for digging",
+      "An excellent sense of smell finds food underground",
+      "Striped piglets are camouflaged on the forest floor"
+    ],
+    "adaptationsVi": [
+      "Đĩa sụn làm mõm cứng cáp để đào bới",
+      "Khứu giác rất nhạy giúp tìm thức ăn dưới đất",
+      "Lợn con có sọc để ngụy trang trên nền rừng"
+    ],
     "ecologicalRoleEn": "By turning over the soil it mixes nutrients and buries seeds, acting as an ecosystem engineer; it is also prey for large carnivores.",
     "ecologicalRoleVi": "Việc dũi đất giúp trộn chất dinh dưỡng và vùi hạt giống, khiến lợn rừng trở thành 'kỹ sư hệ sinh thái'; chúng cũng là con mồi của thú ăn thịt lớn.",
-    "interestingFactsEn": ["The wild boar is the ancestor of most domestic pigs.", "It has one of the widest natural ranges of any land mammal."],
-    "interestingFactsVi": ["Lợn rừng là tổ tiên của hầu hết các giống lợn nhà.", "Đây là một trong những loài thú trên cạn có vùng phân bố tự nhiên rộng nhất."],
-    "model": "boar"
+    "interestingFactsEn": [
+      "The wild boar is the ancestor of most domestic pigs.",
+      "It has one of the widest natural ranges of any land mammal."
+    ],
+    "interestingFactsVi": [
+      "Lợn rừng là tổ tiên của hầu hết các giống lợn nhà.",
+      "Đây là một trong những loài thú trên cạn có vùng phân bố tự nhiên rộng nhất."
+    ],
+    "model": "boar",
+    "commonNameKo": "멧돼지",
+    "descriptionKo": "몸이 다부지고 강모가 난 야생 돼지로, 길고 쐐기 모양의 머리와 단단하고 움직이는 주둥이를 지녔고 수컷은 휘어진 엄니가 있습니다.",
+    "dietKo": [
+      "뿌리와 구근",
+      "떨어진 열매",
+      "벌레와 곤충",
+      "작은 동물과 동물 사체"
+    ],
+    "lifespanKo": "야생에서 약 10년",
+    "sizeKo": "몸길이 0.9–1.8m; 40–200kg",
+    "behaviorKo": "암컷과 새끼는 무리를 지어 다니고, 다 자란 수컷은 대체로 단독 생활을 합니다. 대부분의 시간을 주둥이로 흙과 낙엽을 뒤집는 데 씁니다.",
+    "adaptationsKo": [
+      "연골 원반이 주둥이를 단단하게 해 땅 파기에 유리합니다",
+      "뛰어난 후각으로 땅속 먹이를 찾아냅니다",
+      "줄무늬 새끼는 숲 바닥에서 위장됩니다"
+    ],
+    "ecologicalRoleKo": "흙을 뒤집어 양분을 섞고 씨앗을 묻는 생태계 공학자이며, 대형 육식동물의 먹잇감이기도 합니다.",
+    "interestingFactsKo": [
+      "멧돼지는 대부분의 집돼지의 조상입니다.",
+      "육상 포유류 중 자연 분포 범위가 가장 넓은 종 중 하나입니다."
+    ]
   },
   {
     "id": "lepus-peguensis",
@@ -80,23 +246,72 @@
     "commonNameEn": "Burmese hare",
     "commonNameVi": "Thỏ rừng (Thỏ nâu)",
     "scientificName": "Lepus peguensis",
-    "kingdom": "Animalia", "phylum": "Chordata", "className": "Mammalia", "order": "Lagomorpha", "family": "Leporidae", "genus": "Lepus",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "className": "Mammalia",
+    "order": "Lagomorpha",
+    "family": "Leporidae",
+    "genus": "Lepus",
     "descriptionEn": "A slender hare of open country in mainland Southeast Asia, with greyish-brown fur, a white belly and long ears tipped with black.",
     "descriptionVi": "Loài thỏ rừng thân thon sống ở vùng trống trải của Đông Nam Á lục địa, lông nâu xám, bụng trắng, tai dài có chóp đen.",
-    "habitats": ["grassland"],
-    "diet": ["grasses", "herbs", "bark and twigs"],
-    "dietVi": ["cỏ", "cây thân thảo", "vỏ cây và cành non"],
-    "size": "Head and body 36–50 cm; about 2–2.5 kg", "sizeVi": "Dài thân 36–50 cm; nặng khoảng 2–2,5 kg",
+    "habitats": [
+      "grassland"
+    ],
+    "diet": [
+      "grasses",
+      "herbs",
+      "bark and twigs"
+    ],
+    "dietVi": [
+      "cỏ",
+      "cây thân thảo",
+      "vỏ cây và cành non"
+    ],
+    "size": "Head and body 36–50 cm; about 2–2.5 kg",
+    "sizeVi": "Dài thân 36–50 cm; nặng khoảng 2–2,5 kg",
     "conservationStatus": "LC",
     "behaviorEn": "Active mainly at dusk and at night. By day it rests in a shallow scrape, called a form, under grass or bushes and relies on stillness and camouflage until a threat comes close.",
     "behaviorVi": "Hoạt động chủ yếu lúc chạng vạng và ban đêm. Ban ngày thỏ nằm nghỉ trong một hõm đất nông dưới cỏ hoặc bụi cây, nằm im và dựa vào màu lông ngụy trang cho tới khi kẻ thù đến gần.",
-    "adaptationsEn": ["Long hind legs give explosive acceleration and sharp turns", "Eyes set high on the sides of the head give almost all-round vision", "Long ears detect predators and help shed heat"],
-    "adaptationsVi": ["Chân sau dài cho khả năng bứt tốc và đổi hướng đột ngột", "Mắt nằm cao hai bên đầu cho tầm nhìn gần như toàn cảnh", "Tai dài giúp phát hiện kẻ thù và tỏa nhiệt"],
+    "adaptationsEn": [
+      "Long hind legs give explosive acceleration and sharp turns",
+      "Eyes set high on the sides of the head give almost all-round vision",
+      "Long ears detect predators and help shed heat"
+    ],
+    "adaptationsVi": [
+      "Chân sau dài cho khả năng bứt tốc và đổi hướng đột ngột",
+      "Mắt nằm cao hai bên đầu cho tầm nhìn gần như toàn cảnh",
+      "Tai dài giúp phát hiện kẻ thù và tỏa nhiệt"
+    ],
     "ecologicalRoleEn": "A grazer of grassland plants and an important food source for birds of prey and small carnivores.",
     "ecologicalRoleVi": "Loài gặm cỏ của đồng cỏ và là nguồn thức ăn quan trọng của chim săn mồi và thú ăn thịt nhỏ.",
-    "interestingFactsEn": ["Unlike rabbits, hares are born fully furred with their eyes open.", "Hares do not dig burrows; they live their whole lives above ground."],
-    "interestingFactsVi": ["Khác với thỏ hang, thỏ rừng con sinh ra đã có đủ lông và mở mắt.", "Thỏ rừng không đào hang mà sống hoàn toàn trên mặt đất."],
-    "model": "hare"
+    "interestingFactsEn": [
+      "Unlike rabbits, hares are born fully furred with their eyes open.",
+      "Hares do not dig burrows; they live their whole lives above ground."
+    ],
+    "interestingFactsVi": [
+      "Khác với thỏ hang, thỏ rừng con sinh ra đã có đủ lông và mở mắt.",
+      "Thỏ rừng không đào hang mà sống hoàn toàn trên mặt đất."
+    ],
+    "model": "hare",
+    "commonNameKo": "버마토끼",
+    "descriptionKo": "동남아시아 대륙부의 탁 트인 땅에 사는 날씬한 토끼로, 회갈색 털, 흰 배, 끝이 검은 긴 귀를 지녔습니다.",
+    "dietKo": [
+      "풀",
+      "풀잎 식물",
+      "나무껍질과 가지"
+    ],
+    "sizeKo": "몸길이 36–50cm; 약 2–2.5kg",
+    "behaviorKo": "주로 황혼과 밤에 활동합니다. 낮에는 풀이나 덤불 아래 얕은 웅덩이에 쉬며, 위협이 가까이 올 때까지 꼼짝 않고 위장에 의지합니다.",
+    "adaptationsKo": [
+      "긴 뒷다리로 폭발적인 가속과 급선회를 합니다",
+      "머리 양옆 높은 곳의 눈으로 거의 전방위를 봅니다",
+      "긴 귀가 포식자를 탐지하고 열을 발산합니다"
+    ],
+    "ecologicalRoleKo": "초원 식물을 뜯어 먹는 초식 동물이자 맹금류와 소형 육식동물의 중요한 먹이입니다.",
+    "interestingFactsKo": [
+      "집토끼와 달리 산토끼 새끼는 털이 다 나고 눈을 뜬 채 태어납니다.",
+      "산토끼는 굴을 파지 않고 평생 지상에서 삽니다."
+    ]
   },
   {
     "id": "callosciurus-erythraeus",
@@ -104,23 +319,76 @@
     "commonNameEn": "Pallas's squirrel",
     "commonNameVi": "Sóc bụng đỏ",
     "scientificName": "Callosciurus erythraeus",
-    "kingdom": "Animalia", "phylum": "Chordata", "className": "Mammalia", "order": "Rodentia", "family": "Sciuridae", "genus": "Callosciurus",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "className": "Mammalia",
+    "order": "Rodentia",
+    "family": "Sciuridae",
+    "genus": "Callosciurus",
     "descriptionEn": "A medium-sized tree squirrel with olive-brown upperparts, a reddish belly and a long bushy tail.",
     "descriptionVi": "Loài sóc cây cỡ trung bình, lưng nâu ô liu, bụng đỏ hung và đuôi dài, xù.",
-    "habitats": ["rainforest", "ruins"],
-    "diet": ["fruits and seeds", "flowers and leaves", "insects", "tree sap"],
-    "dietVi": ["quả và hạt", "hoa và lá", "côn trùng", "nhựa cây"],
-    "size": "Head and body 16–28 cm, with a tail of similar length", "sizeVi": "Dài thân 16–28 cm, đuôi dài tương đương",
+    "habitats": [
+      "rainforest",
+      "ruins"
+    ],
+    "diet": [
+      "fruits and seeds",
+      "flowers and leaves",
+      "insects",
+      "tree sap"
+    ],
+    "dietVi": [
+      "quả và hạt",
+      "hoa và lá",
+      "côn trùng",
+      "nhựa cây"
+    ],
+    "size": "Head and body 16–28 cm, with a tail of similar length",
+    "sizeVi": "Dài thân 16–28 cm, đuôi dài tương đương",
     "conservationStatus": "LC",
     "behaviorEn": "Active by day, mostly in trees, coming to the ground to forage. It gives loud chattering alarm calls when it spots a predator.",
     "behaviorVi": "Hoạt động ban ngày, chủ yếu trên cây và xuống đất để kiếm ăn. Khi phát hiện kẻ thù, sóc kêu báo động rất to và liên hồi.",
-    "adaptationsEn": ["The bushy tail acts as a balancing pole and rudder when leaping", "Sharp curved claws grip bark", "Ever-growing incisors crack hard seeds"],
-    "adaptationsVi": ["Đuôi xù giữ thăng bằng và lái hướng khi nhảy", "Móng cong sắc bám chắc vào vỏ cây", "Răng cửa mọc liên tục giúp cắn vỡ hạt cứng"],
+    "adaptationsEn": [
+      "The bushy tail acts as a balancing pole and rudder when leaping",
+      "Sharp curved claws grip bark",
+      "Ever-growing incisors crack hard seeds"
+    ],
+    "adaptationsVi": [
+      "Đuôi xù giữ thăng bằng và lái hướng khi nhảy",
+      "Móng cong sắc bám chắc vào vỏ cây",
+      "Răng cửa mọc liên tục giúp cắn vỡ hạt cứng"
+    ],
     "ecologicalRoleEn": "Both a seed predator and a seed disperser, because it carries off and forgets some of the seeds it stores.",
     "ecologicalRoleVi": "Vừa ăn hạt vừa phát tán hạt, vì sóc tha hạt đi cất và bỏ quên một phần.",
-    "interestingFactsEn": ["It is named after the German naturalist Peter Simon Pallas.", "Introduced populations have become invasive in parts of Europe, Japan and Argentina."],
-    "interestingFactsVi": ["Tên tiếng Anh của loài đặt theo nhà tự nhiên học người Đức Peter Simon Pallas.", "Các quần thể du nhập đã trở thành loài xâm hại ở một số nơi thuộc châu Âu, Nhật Bản và Argentina."],
-    "model": "squirrel"
+    "interestingFactsEn": [
+      "It is named after the German naturalist Peter Simon Pallas.",
+      "Introduced populations have become invasive in parts of Europe, Japan and Argentina."
+    ],
+    "interestingFactsVi": [
+      "Tên tiếng Anh của loài đặt theo nhà tự nhiên học người Đức Peter Simon Pallas.",
+      "Các quần thể du nhập đã trở thành loài xâm hại ở một số nơi thuộc châu Âu, Nhật Bản và Argentina."
+    ],
+    "model": "squirrel",
+    "commonNameKo": "붉은배다람쥐",
+    "descriptionKo": "올리브갈색 등, 붉은 배, 길고 풍성한 꼬리를 지닌 중간 크기의 나무다람쥐입니다.",
+    "dietKo": [
+      "열매와 씨앗",
+      "꽃과 잎",
+      "곤충",
+      "수액"
+    ],
+    "sizeKo": "몸길이 16–28cm, 꼬리도 비슷한 길이",
+    "behaviorKo": "낮에 활동하며 주로 나무 위에서 지내다가 먹이를 찾으러 땅으로 내려옵니다. 포식자를 발견하면 크고 시끄러운 경계 소리를 냅니다.",
+    "adaptationsKo": [
+      "풍성한 꼬리가 도약할 때 균형대와 방향타 역할을 합니다",
+      "날카롭게 휜 발톱이 나무껍질을 움켜쥡니다",
+      "평생 자라는 앞니로 단단한 씨앗을 깨뜨립니다"
+    ],
+    "ecologicalRoleKo": "씨앗을 저장하다가 일부를 잊어버리기 때문에 씨앗 포식자이자 전파자입니다.",
+    "interestingFactsKo": [
+      "독일의 자연학자 페터 지몬 팔라스의 이름을 따 지어졌습니다.",
+      "유럽, 일본, 아르헨티나 일부에 유입된 개체군이 외래종으로 번식하고 있습니다."
+    ]
   },
   {
     "id": "gallus-gallus",
@@ -128,23 +396,73 @@
     "commonNameEn": "Red junglefowl",
     "commonNameVi": "Gà rừng",
     "scientificName": "Gallus gallus",
-    "kingdom": "Animalia", "phylum": "Chordata", "className": "Aves", "order": "Galliformes", "family": "Phasianidae", "genus": "Gallus",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "className": "Aves",
+    "order": "Galliformes",
+    "family": "Phasianidae",
+    "genus": "Gallus",
     "descriptionEn": "A wild forest fowl. The cock has golden-orange neck hackles, a red comb and wattles and a glossy, arched dark tail; the hen is smaller and mottled brown.",
     "descriptionVi": "Loài gà hoang sống trong rừng. Gà trống có lông cổ vàng cam, mào và tích đỏ, đuôi sẫm bóng uốn cong; gà mái nhỏ hơn và có màu nâu lốm đốm.",
-    "habitats": ["rainforest", "grassland"],
-    "diet": ["seeds", "fallen fruit", "insects and other invertebrates"],
-    "dietVi": ["hạt", "quả rụng", "côn trùng và động vật không xương sống khác"],
-    "size": "Cock 65–75 cm; hen 42–46 cm", "sizeVi": "Gà trống dài 65–75 cm; gà mái 42–46 cm",
+    "habitats": [
+      "rainforest",
+      "grassland"
+    ],
+    "diet": [
+      "seeds",
+      "fallen fruit",
+      "insects and other invertebrates"
+    ],
+    "dietVi": [
+      "hạt",
+      "quả rụng",
+      "côn trùng và động vật không xương sống khác"
+    ],
+    "size": "Cock 65–75 cm; hen 42–46 cm",
+    "sizeVi": "Gà trống dài 65–75 cm; gà mái 42–46 cm",
     "conservationStatus": "LC",
     "behaviorEn": "Forages on the ground at forest edges in the morning and evening, scratching through leaf litter. It flies up into trees to roost, and cocks crow at dawn.",
     "behaviorVi": "Kiếm ăn trên mặt đất ở bìa rừng vào sáng sớm và chiều tối, bới thảm lá khô. Gà rừng bay lên cây để ngủ, và gà trống gáy lúc bình minh.",
-    "adaptationsEn": ["Strong legs and claws rake the soil for food", "Short rounded wings give a fast, near-vertical take-off", "Hens' mottled plumage hides them on the nest"],
-    "adaptationsVi": ["Chân và móng khỏe để bới đất tìm mồi", "Cánh ngắn, tròn giúp cất cánh nhanh gần như thẳng đứng", "Bộ lông lốm đốm của gà mái giúp ngụy trang khi ấp trứng"],
+    "adaptationsEn": [
+      "Strong legs and claws rake the soil for food",
+      "Short rounded wings give a fast, near-vertical take-off",
+      "Hens' mottled plumage hides them on the nest"
+    ],
+    "adaptationsVi": [
+      "Chân và móng khỏe để bới đất tìm mồi",
+      "Cánh ngắn, tròn giúp cất cánh nhanh gần như thẳng đứng",
+      "Bộ lông lốm đốm của gà mái giúp ngụy trang khi ấp trứng"
+    ],
     "ecologicalRoleEn": "Spreads seeds, eats large numbers of insects and is prey for many forest predators.",
     "ecologicalRoleVi": "Phát tán hạt, ăn nhiều côn trùng và là con mồi của nhiều loài săn mồi trong rừng.",
-    "interestingFactsEn": ["The red junglefowl is the main wild ancestor of the domestic chicken.", "After the breeding season the cock moults into a duller 'eclipse' plumage."],
-    "interestingFactsVi": ["Gà rừng là tổ tiên hoang dã chính của gà nhà.", "Sau mùa sinh sản, gà trống thay sang bộ lông xỉn màu hơn."],
-    "model": "junglefowl"
+    "interestingFactsEn": [
+      "The red junglefowl is the main wild ancestor of the domestic chicken.",
+      "After the breeding season the cock moults into a duller 'eclipse' plumage."
+    ],
+    "interestingFactsVi": [
+      "Gà rừng là tổ tiên hoang dã chính của gà nhà.",
+      "Sau mùa sinh sản, gà trống thay sang bộ lông xỉn màu hơn."
+    ],
+    "model": "junglefowl",
+    "commonNameKo": "붉은들닭",
+    "descriptionKo": "야생 숲닭입니다. 수탉은 금주황색 목 장식깃, 붉은 볏과 육수, 윤기 나는 활 모양의 어두운 꼬리를 지니고, 암탉은 더 작고 얼룩덜룩한 갈색입니다.",
+    "dietKo": [
+      "씨앗",
+      "떨어진 열매",
+      "곤충과 기타 무척추동물"
+    ],
+    "sizeKo": "수탉 65–75cm; 암탉 42–46cm",
+    "behaviorKo": "아침과 저녁에 숲 가장자리 땅에서 낙엽을 헤치며 먹이를 찾습니다. 나무 위로 날아가 잠을 자고, 수탉은 새벽에 울어요.",
+    "adaptationsKo": [
+      "튼튼한 다리와 발톱으로 흙을 긁어 먹이를 찾습니다",
+      "짧고 둥근 날개로 빠르고 거의 수직으로 이륙합니다",
+      "암탉의 얼룩 깃털이 둥지에서 몸을 숨겨줍니다"
+    ],
+    "ecologicalRoleKo": "씨앗을 퍼뜨리고 많은 곤충을 먹으며, 많은 숲 포식자의 먹잇감입니다.",
+    "interestingFactsKo": [
+      "붉은들닭은 집닭의 주된 야생 조상입니다.",
+      "번식기가 지나면 수탉은 단순한 '침묵의' 깃털로 갈아탑니다."
+    ]
   },
   {
     "id": "alcedo-atthis",
@@ -152,23 +470,72 @@
     "commonNameEn": "Common kingfisher",
     "commonNameVi": "Bồng chanh",
     "scientificName": "Alcedo atthis",
-    "kingdom": "Animalia", "phylum": "Chordata", "className": "Aves", "order": "Coraciiformes", "family": "Alcedinidae", "genus": "Alcedo",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "className": "Aves",
+    "order": "Coraciiformes",
+    "family": "Alcedinidae",
+    "genus": "Alcedo",
     "descriptionEn": "A sparrow-sized bird with brilliant blue upperparts, orange underparts and a long, dagger-shaped bill.",
     "descriptionVi": "Loài chim cỡ chim sẻ, lưng xanh lam rực rỡ, bụng màu cam và mỏ dài nhọn như dao găm.",
-    "habitats": ["freshwater"],
-    "diet": ["small fish", "aquatic insects", "small crustaceans"],
-    "dietVi": ["cá nhỏ", "côn trùng thủy sinh", "giáp xác nhỏ"],
-    "size": "About 16 cm long; 34–46 g", "sizeVi": "Dài khoảng 16 cm; nặng 34–46 g",
+    "habitats": [
+      "freshwater"
+    ],
+    "diet": [
+      "small fish",
+      "aquatic insects",
+      "small crustaceans"
+    ],
+    "dietVi": [
+      "cá nhỏ",
+      "côn trùng thủy sinh",
+      "giáp xác nhỏ"
+    ],
+    "size": "About 16 cm long; 34–46 g",
+    "sizeVi": "Dài khoảng 16 cm; nặng 34–46 g",
     "conservationStatus": "LC",
     "behaviorEn": "Watches from a low perch above clear, slow water, then plunges head-first to seize a fish. It flies low and fast over the surface with a sharp whistle.",
     "behaviorVi": "Đậu rình trên cành thấp sát mặt nước trong và chảy chậm, rồi lao đầu xuống bắt cá. Bồng chanh bay thấp và nhanh sát mặt nước, kèm tiếng huýt sắc.",
-    "adaptationsEn": ["A streamlined bill enters the water with very little splash", "A transparent third eyelid protects the eyes during a dive", "The blue is structural colour created by feather microstructure, not pigment"],
-    "adaptationsVi": ["Mỏ thuôn nhọn giúp lao xuống nước mà hầu như không bắn tóe", "Mí mắt thứ ba trong suốt bảo vệ mắt khi lặn", "Màu xanh lam là màu cấu trúc do vi cấu trúc của lông tạo ra, không phải sắc tố"],
+    "adaptationsEn": [
+      "A streamlined bill enters the water with very little splash",
+      "A transparent third eyelid protects the eyes during a dive",
+      "The blue is structural colour created by feather microstructure, not pigment"
+    ],
+    "adaptationsVi": [
+      "Mỏ thuôn nhọn giúp lao xuống nước mà hầu như không bắn tóe",
+      "Mí mắt thứ ba trong suốt bảo vệ mắt khi lặn",
+      "Màu xanh lam là màu cấu trúc do vi cấu trúc của lông tạo ra, không phải sắc tố"
+    ],
     "ecologicalRoleEn": "A predator of small fish and aquatic insects; its presence is a sign of clean water with healthy fish populations.",
     "ecologicalRoleVi": "Loài săn cá nhỏ và côn trùng thủy sinh; sự có mặt của bồng chanh cho thấy nguồn nước sạch và quần thể cá khỏe mạnh.",
-    "interestingFactsEn": ["It nests at the end of a tunnel dug into a riverbank.", "The shape of its bill inspired the nose of Japan's Shinkansen bullet trains."],
-    "interestingFactsVi": ["Bồng chanh làm tổ ở cuối một đường hầm đào vào bờ sông.", "Hình dáng chiếc mỏ đã truyền cảm hứng cho thiết kế mũi tàu cao tốc Shinkansen của Nhật Bản."],
-    "model": "kingfisher"
+    "interestingFactsEn": [
+      "It nests at the end of a tunnel dug into a riverbank.",
+      "The shape of its bill inspired the nose of Japan's Shinkansen bullet trains."
+    ],
+    "interestingFactsVi": [
+      "Bồng chanh làm tổ ở cuối một đường hầm đào vào bờ sông.",
+      "Hình dáng chiếc mỏ đã truyền cảm hứng cho thiết kế mũi tàu cao tốc Shinkansen của Nhật Bản."
+    ],
+    "model": "kingfisher",
+    "commonNameKo": "물총새",
+    "descriptionKo": "참새 크기의 새로, 선명한 파란색 등, 주황색 배, 길고 단검 모양의 부리를 지녔습니다.",
+    "dietKo": [
+      "작은 물고기",
+      "수생 곤충",
+      "작은 갑각류"
+    ],
+    "sizeKo": "길이 약 16cm; 34–46g",
+    "behaviorKo": "맑고 느리게 흐르는 물 위 낮은 가지에서 지켜보다가 머리부터 뛰어들어 물고기를 낚아챕니다. 수면 위를 낮고 빠르게 날며 날카로운 휘파람 소리를 냅니다.",
+    "adaptationsKo": [
+      "유선형 부리로 물보라를 거의 일으키지 않고 물에 들어갑니다",
+      "투명한 셋째 눈꺼풀이 잠수 중 눈을 보호합니다",
+      "파란색은 색소가 아니라 깃털 미세구조가 만드는 구조색입니다"
+    ],
+    "ecologicalRoleKo": "작은 물고기와 수생 곤충의 포식자로, 이 새의 존재는 깨끗한 물과 건강한 어류 개체군의 신호입니다.",
+    "interestingFactsKo": [
+      "강둑에 판 터널 끝에 둥지를 만듭니다.",
+      "부리 모양이 일본 신칸센 총알열차 앞부분 설계에 영감을 주었습니다."
+    ]
   },
   {
     "id": "egretta-garzetta",
@@ -176,23 +543,75 @@
     "commonNameEn": "Little egret",
     "commonNameVi": "Cò trắng",
     "scientificName": "Egretta garzetta",
-    "kingdom": "Animalia", "phylum": "Chordata", "className": "Aves", "order": "Pelecaniformes", "family": "Ardeidae", "genus": "Egretta",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "className": "Aves",
+    "order": "Pelecaniformes",
+    "family": "Ardeidae",
+    "genus": "Egretta",
     "descriptionEn": "A slender white heron with a black bill, long black legs and bright yellow feet.",
     "descriptionVi": "Loài diệc trắng thân mảnh, mỏ đen, chân dài màu đen và bàn chân vàng tươi.",
-    "habitats": ["freshwater"],
-    "diet": ["small fish", "frogs", "crustaceans", "aquatic insects"],
-    "dietVi": ["cá nhỏ", "ếch nhái", "giáp xác", "côn trùng thủy sinh"],
-    "size": "55–65 cm long; wingspan about 90–105 cm", "sizeVi": "Dài 55–65 cm; sải cánh khoảng 90–105 cm",
+    "habitats": [
+      "freshwater"
+    ],
+    "diet": [
+      "small fish",
+      "frogs",
+      "crustaceans",
+      "aquatic insects"
+    ],
+    "dietVi": [
+      "cá nhỏ",
+      "ếch nhái",
+      "giáp xác",
+      "côn trùng thủy sinh"
+    ],
+    "size": "55–65 cm long; wingspan about 90–105 cm",
+    "sizeVi": "Dài 55–65 cm; sải cánh khoảng 90–105 cm",
     "conservationStatus": "LC",
     "behaviorEn": "Wades through shallow water, walking, pausing and striking with a lightning thrust of the neck. It often shuffles a foot to flush hidden prey and roosts communally in trees.",
     "behaviorVi": "Lội trong vùng nước nông, vừa đi vừa dừng rồi phóng cổ mổ mồi nhanh như chớp. Cò thường khua chân để xua con mồi đang ẩn nấp và ngủ thành đàn trên cây.",
-    "adaptationsEn": ["Long legs keep the body dry while wading", "An S-shaped neck works like a spring for striking prey", "Yellow feet are stirred in the mud to disturb fish"],
-    "adaptationsVi": ["Chân dài giữ cho thân khô ráo khi lội nước", "Cổ hình chữ S hoạt động như lò xo khi mổ mồi", "Bàn chân vàng khua trong bùn để xua cá"],
+    "adaptationsEn": [
+      "Long legs keep the body dry while wading",
+      "An S-shaped neck works like a spring for striking prey",
+      "Yellow feet are stirred in the mud to disturb fish"
+    ],
+    "adaptationsVi": [
+      "Chân dài giữ cho thân khô ráo khi lội nước",
+      "Cổ hình chữ S hoạt động như lò xo khi mổ mồi",
+      "Bàn chân vàng khua trong bùn để xua cá"
+    ],
     "ecologicalRoleEn": "A wetland predator that helps regulate small fish, frogs and aquatic insects, and carries nutrients from water to its roost trees.",
     "ecologicalRoleVi": "Loài săn mồi ở đất ngập nước, giúp điều hòa số lượng cá nhỏ, ếch nhái và côn trùng thủy sinh, đồng thời mang dinh dưỡng từ nước về nơi đậu ngủ.",
-    "interestingFactsEn": ["In the 19th century its breeding plumes were so prized for hats that the species was heavily hunted.", "The white egret is a familiar image in Vietnamese folk poetry."],
-    "interestingFactsVi": ["Thế kỷ 19, lông trang trí mùa sinh sản của cò được chuộng làm mũ đến mức loài này bị săn bắt nặng nề.", "Hình ảnh con cò trắng rất quen thuộc trong ca dao Việt Nam."],
-    "model": "egret"
+    "interestingFactsEn": [
+      "In the 19th century its breeding plumes were so prized for hats that the species was heavily hunted.",
+      "The white egret is a familiar image in Vietnamese folk poetry."
+    ],
+    "interestingFactsVi": [
+      "Thế kỷ 19, lông trang trí mùa sinh sản của cò được chuộng làm mũ đến mức loài này bị săn bắt nặng nề.",
+      "Hình ảnh con cò trắng rất quen thuộc trong ca dao Việt Nam."
+    ],
+    "model": "egret",
+    "commonNameKo": "쇠백로",
+    "descriptionKo": "검은 부리, 긴 검은 다리, 밝은 노란 발을 지닌 날씬한 흰 왜가리입니다.",
+    "dietKo": [
+      "작은 물고기",
+      "개구리",
+      "갑각류",
+      "수생 곤충"
+    ],
+    "sizeKo": "길이 55–65cm; 날개 폭 약 90–105cm",
+    "behaviorKo": "얕은 물을 걸어 다니며 멈췄다가 목을 번개처럼 뻗어 먹이를 찌릅니다. 발을 휘저어 숨은 먹이를 몰아내기도 하고, 무리 지어 나무에서 잠을 잡니다.",
+    "adaptationsKo": [
+      "긴 다리로 물을 걸어도 몸이 젖지 않습니다",
+      "S자 목이 용수철처럼 먹이를 찌릅니다",
+      "노란 발을 진흙 속에서 휘저어 물고기를 놀라게 합니다"
+    ],
+    "ecologicalRoleKo": "습지의 포식자로 작은 물고기, 개구리, 수생 곤충 수를 조절하고, 양분을 물에서 둥지 나무로 옮깁니다.",
+    "interestingFactsKo": [
+      "19세기에 번식기 장식깃이 모자 장식으로 귀하게 여겨져 심하게 사냥당했습니다.",
+      "흰 백로는 베트남 민요에 익숙한 이미지로 등장합니다."
+    ]
   },
   {
     "id": "pycnonotus-jocosus",
@@ -200,23 +619,73 @@
     "commonNameEn": "Red-whiskered bulbul",
     "commonNameVi": "Chào mào",
     "scientificName": "Pycnonotus jocosus",
-    "kingdom": "Animalia", "phylum": "Chordata", "className": "Aves", "order": "Passeriformes", "family": "Pycnonotidae", "genus": "Pycnonotus",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "className": "Aves",
+    "order": "Passeriformes",
+    "family": "Pycnonotidae",
+    "genus": "Pycnonotus",
     "descriptionEn": "A lively songbird with a tall pointed black crest, a red patch behind the eye, white cheeks and red feathers under the tail.",
     "descriptionVi": "Loài chim hót hoạt bát với mào đen nhọn dựng cao, đốm đỏ sau mắt, má trắng và lông dưới đuôi màu đỏ.",
-    "habitats": ["grassland", "rainforest"],
-    "diet": ["fruits and berries", "nectar", "insects"],
-    "dietVi": ["quả mọng", "mật hoa", "côn trùng"],
-    "size": "About 20 cm long", "sizeVi": "Dài khoảng 20 cm",
+    "habitats": [
+      "grassland",
+      "rainforest"
+    ],
+    "diet": [
+      "fruits and berries",
+      "nectar",
+      "insects"
+    ],
+    "dietVi": [
+      "quả mọng",
+      "mật hoa",
+      "côn trùng"
+    ],
+    "size": "About 20 cm long",
+    "sizeVi": "Dài khoảng 20 cm",
     "conservationStatus": "LC",
     "behaviorEn": "Perches conspicuously on treetops and bushes, calling loudly. It moves in pairs or small parties between fruiting trees.",
     "behaviorVi": "Thường đậu nổi bật trên ngọn cây, bụi cây và hót vang. Chào mào đi theo đôi hoặc nhóm nhỏ giữa các cây đang có quả.",
-    "adaptationsEn": ["A varied diet lets it thrive at forest edges and in gardens", "The crest is raised and lowered as a social signal", "A short, strong bill handles both fruit and insects"],
-    "adaptationsVi": ["Chế độ ăn đa dạng giúp sống tốt ở bìa rừng và vườn cây", "Mào dựng lên, hạ xuống để giao tiếp với đồng loại", "Mỏ ngắn, khỏe ăn được cả quả lẫn côn trùng"],
+    "adaptationsEn": [
+      "A varied diet lets it thrive at forest edges and in gardens",
+      "The crest is raised and lowered as a social signal",
+      "A short, strong bill handles both fruit and insects"
+    ],
+    "adaptationsVi": [
+      "Chế độ ăn đa dạng giúp sống tốt ở bìa rừng và vườn cây",
+      "Mào dựng lên, hạ xuống để giao tiếp với đồng loại",
+      "Mỏ ngắn, khỏe ăn được cả quả lẫn côn trùng"
+    ],
     "ecologicalRoleEn": "An effective seed disperser for many shrubs and trees with small fruits.",
     "ecologicalRoleVi": "Loài phát tán hạt hiệu quả cho nhiều cây bụi và cây gỗ có quả nhỏ.",
-    "interestingFactsEn": ["It is one of the most popular song birds kept in Vietnam.", "Where introduced outside Asia it has become an invasive species."],
-    "interestingFactsVi": ["Chào mào là một trong những loài chim cảnh hót được ưa chuộng nhất ở Việt Nam.", "Ở những nơi được du nhập ngoài châu Á, chào mào đã trở thành loài xâm hại."],
-    "model": "bulbul"
+    "interestingFactsEn": [
+      "It is one of the most popular song birds kept in Vietnam.",
+      "Where introduced outside Asia it has become an invasive species."
+    ],
+    "interestingFactsVi": [
+      "Chào mào là một trong những loài chim cảnh hót được ưa chuộng nhất ở Việt Nam.",
+      "Ở những nơi được du nhập ngoài châu Á, chào mào đã trở thành loài xâm hại."
+    ],
+    "model": "bulbul",
+    "commonNameKo": "붉은귀불불",
+    "descriptionKo": "높고 뾰족한 검은 볏, 눈 뒤의 붉은 반점, 흰 볼, 꼬리 아래 붉은 깃털을 지닌 활기찬 명금입니다.",
+    "dietKo": [
+      "열매와 장과",
+      "꽃꿀",
+      "곤충"
+    ],
+    "sizeKo": "길이 약 20cm",
+    "behaviorKo": "나무 꼭대기와 덤불에 눈에 띄게 앉아 크게 웁니다. 열매 맺은 나무 사이를 쌍이나 작은 무리로 이동합니다.",
+    "adaptationsKo": [
+      "다양한 식성 덕에 숲 가장자리와 정원에서도 잘 삽니다",
+      "볏을 올렸다 내렸다 해 사회적 신호로 씁니다",
+      "짧고 튼튼한 부리로 열매와 곤충 모두를 다룹니다"
+    ],
+    "ecologicalRoleKo": "작은 열매를 맺는 여러 관목과 교목의 효과적인 씨앗 전파자입니다.",
+    "interestingFactsKo": [
+      "베트남에서 가장 인기 있는 애완 명금 중 하나입니다.",
+      "아시아 밖에 유입된 곳에서는 외래종이 되었습니다."
+    ]
   },
   {
     "id": "buceros-bicornis",
@@ -224,24 +693,76 @@
     "commonNameEn": "Great hornbill",
     "commonNameVi": "Hồng hoàng",
     "scientificName": "Buceros bicornis",
-    "kingdom": "Animalia", "phylum": "Chordata", "className": "Aves", "order": "Bucerotiformes", "family": "Bucerotidae", "genus": "Buceros",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "className": "Aves",
+    "order": "Bucerotiformes",
+    "family": "Bucerotidae",
+    "genus": "Buceros",
     "descriptionEn": "A huge black-and-white forest bird with a massive yellow bill topped by a hollow casque, and a white tail crossed by a black band.",
     "descriptionVi": "Loài chim rừng đen trắng rất lớn, mỏ vàng đồ sộ có mũ mỏ rỗng phía trên, đuôi trắng với một dải đen vắt ngang.",
-    "habitats": ["rainforest", "ruins"],
-    "diet": ["figs and other fruits", "small mammals, reptiles and birds", "large insects"],
-    "dietVi": ["quả sung và các loại quả khác", "thú nhỏ, bò sát và chim", "côn trùng lớn"],
-    "lifespan": "Up to about 50 years in captivity", "lifespanVi": "Tới khoảng 50 năm trong điều kiện nuôi",
-    "size": "95–130 cm long; wingspan about 1.5 m; 2–4 kg", "sizeVi": "Dài 95–130 cm; sải cánh khoảng 1,5 m; nặng 2–4 kg",
+    "habitats": [
+      "rainforest",
+      "ruins"
+    ],
+    "diet": [
+      "figs and other fruits",
+      "small mammals, reptiles and birds",
+      "large insects"
+    ],
+    "dietVi": [
+      "quả sung và các loại quả khác",
+      "thú nhỏ, bò sát và chim",
+      "côn trùng lớn"
+    ],
+    "lifespan": "Up to about 50 years in captivity",
+    "lifespanVi": "Tới khoảng 50 năm trong điều kiện nuôi",
+    "size": "95–130 cm long; wingspan about 1.5 m; 2–4 kg",
+    "sizeVi": "Dài 95–130 cm; sải cánh khoảng 1,5 m; nặng 2–4 kg",
     "conservationStatus": "VU",
     "behaviorEn": "Lives in pairs or small groups in the canopy of tall forest. Its wingbeats make a loud whooshing that can be heard from far away. The female seals herself inside a tree hollow to nest and is fed by the male through a narrow slit.",
     "behaviorVi": "Sống theo đôi hoặc nhóm nhỏ trên tán rừng cao. Tiếng vỗ cánh phành phạch rất to, có thể nghe thấy từ xa. Chim mái tự bịt kín mình trong hốc cây để ấp trứng và được chim trống mớm mồi qua một khe hẹp.",
-    "adaptationsEn": ["The hollow casque is thought to amplify calls and signal age and sex", "A long bill plucks fruit from thin branch tips", "Eyelash-like feathers protect the eyes"],
-    "adaptationsVi": ["Mũ mỏ rỗng được cho là giúp khuếch đại tiếng kêu và thể hiện tuổi, giới tính", "Mỏ dài hái được quả ở đầu những cành mảnh", "Lông giống lông mi bảo vệ mắt"],
+    "adaptationsEn": [
+      "The hollow casque is thought to amplify calls and signal age and sex",
+      "A long bill plucks fruit from thin branch tips",
+      "Eyelash-like feathers protect the eyes"
+    ],
+    "adaptationsVi": [
+      "Mũ mỏ rỗng được cho là giúp khuếch đại tiếng kêu và thể hiện tuổi, giới tính",
+      "Mỏ dài hái được quả ở đầu những cành mảnh",
+      "Lông giống lông mi bảo vệ mắt"
+    ],
     "ecologicalRoleEn": "One of the most important long-distance seed dispersers of large-fruited forest trees, especially figs.",
     "ecologicalRoleVi": "Một trong những loài phát tán hạt đường dài quan trọng nhất cho các cây rừng quả lớn, đặc biệt là sung, đa.",
-    "interestingFactsEn": ["Hornbills are often called the 'farmers of the forest' for the seeds they spread.", "It needs very large old trees with natural hollows in order to breed."],
-    "interestingFactsVi": ["Các loài hồng hoàng thường được gọi là 'người nông dân của rừng' vì phát tán hạt giống.", "Loài này cần những cây cổ thụ rất lớn có hốc tự nhiên để làm tổ."],
-    "model": "hornbill"
+    "interestingFactsEn": [
+      "Hornbills are often called the 'farmers of the forest' for the seeds they spread.",
+      "It needs very large old trees with natural hollows in order to breed."
+    ],
+    "interestingFactsVi": [
+      "Các loài hồng hoàng thường được gọi là 'người nông dân của rừng' vì phát tán hạt giống.",
+      "Loài này cần những cây cổ thụ rất lớn có hốc tự nhiên để làm tổ."
+    ],
+    "model": "hornbill",
+    "commonNameKo": "큰코뿔새",
+    "descriptionKo": "속이 빈 투구를 얹은 거대한 노란 부리와 검은 띠가 가로지르는 흰 꼬리를 지닌 거대한 흑백의 숲새입니다.",
+    "dietKo": [
+      "무화과와 기타 열매",
+      "작은 포유류, 파충류, 새",
+      "대형 곤충"
+    ],
+    "lifespanKo": "사육 상태에서 최대 약 50년",
+    "sizeKo": "길이 95–130cm; 날개 폭 약 1.5m; 2–4kg",
+    "behaviorKo": "높은 숲의 수관에서 쌍이나 작은 무리로 삽니다. 날갯짓 소리가 커서 멀리서도 들립니다. 암컷은 나무 구멍 속에 스스로를 봉인해 둥지를 틀고, 수컷이 좁은 틈으로 먹이를 줍니다.",
+    "adaptationsKo": [
+      "속이 빈 투구는 울음을 증폭하고 나이와 성별을 나타낸다고 여겨집니다",
+      "긴 부리로 가는 가지 끝의 열매를 따냅니다",
+      "속눈썹 같은 깃털이 눈을 보호합니다"
+    ],
+    "ecologicalRoleKo": "특히 무화과나무 같은 대형 열매 숲나무의 가장 중요한 장거리 씨앗 전파자 중 하나입니다.",
+    "interestingFactsKo": [
+      "코뿔새는 퍼뜨리는 씨앗 때문에 '숲의 농부'로 불립니다.",
+      "번식하려면 자연 구멍이 있는 아주 큰 고목이 필요합니다."
+    ]
   },
   {
     "id": "spilornis-cheela",
@@ -249,23 +770,76 @@
     "commonNameEn": "Crested serpent eagle",
     "commonNameVi": "Diều hoa Miến Điện",
     "scientificName": "Spilornis cheela",
-    "kingdom": "Animalia", "phylum": "Chordata", "className": "Aves", "order": "Accipitriformes", "family": "Accipitridae", "genus": "Spilornis",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "className": "Aves",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Spilornis",
     "descriptionEn": "A dark brown forest eagle with a short, full crest, bare yellow skin on the face, white-spotted underparts and a broad white band across wings and tail that shows clearly in flight.",
     "descriptionVi": "Loài đại bàng rừng nâu sẫm có mào ngắn và rậm, da mặt trần màu vàng, bụng lốm đốm trắng và một dải trắng rộng trên cánh và đuôi, thấy rõ khi bay.",
-    "habitats": ["mountain", "rainforest"],
-    "diet": ["snakes", "lizards", "frogs", "small mammals"],
-    "dietVi": ["rắn", "thằn lằn", "ếch nhái", "thú nhỏ"],
-    "size": "55–75 cm long", "sizeVi": "Dài 55–75 cm",
+    "habitats": [
+      "mountain",
+      "rainforest"
+    ],
+    "diet": [
+      "snakes",
+      "lizards",
+      "frogs",
+      "small mammals"
+    ],
+    "dietVi": [
+      "rắn",
+      "thằn lằn",
+      "ếch nhái",
+      "thú nhỏ"
+    ],
+    "size": "55–75 cm long",
+    "sizeVi": "Dài 55–75 cm",
     "conservationStatus": "LC",
     "behaviorEn": "Soars in wide circles over forested hills on warm rising air, giving a ringing, far-carrying whistle. It also hunts by watching quietly from a perch.",
     "behaviorVi": "Bay lượn thành những vòng rộng trên đồi rừng nhờ luồng khí nóng bốc lên, kèm tiếng huýt vang xa. Chim cũng săn mồi bằng cách đậu yên quan sát từ cành cây.",
-    "adaptationsEn": ["Broad wings let it soar for long periods with little effort", "Legs covered in thick scales give some protection against snake bites", "Sharp eyesight spots reptiles from high above"],
-    "adaptationsVi": ["Cánh rộng giúp bay lượn lâu mà tốn ít sức", "Chân phủ vảy dày phần nào chống lại vết rắn cắn", "Thị lực sắc bén phát hiện bò sát từ trên cao"],
+    "adaptationsEn": [
+      "Broad wings let it soar for long periods with little effort",
+      "Legs covered in thick scales give some protection against snake bites",
+      "Sharp eyesight spots reptiles from high above"
+    ],
+    "adaptationsVi": [
+      "Cánh rộng giúp bay lượn lâu mà tốn ít sức",
+      "Chân phủ vảy dày phần nào chống lại vết rắn cắn",
+      "Thị lực sắc bén phát hiện bò sát từ trên cao"
+    ],
     "ecologicalRoleEn": "A specialist predator that helps regulate snakes and other reptiles.",
     "ecologicalRoleVi": "Loài săn mồi chuyên biệt, giúp điều hòa số lượng rắn và các loài bò sát khác.",
-    "interestingFactsEn": ["Its loud call is one of the characteristic sounds of Asian hill forests.", "The crest fans out when the bird is alarmed, making the head look much larger."],
-    "interestingFactsVi": ["Tiếng kêu vang của nó là một trong những âm thanh đặc trưng của rừng đồi núi châu Á.", "Khi bị kích động, mào xòe ra khiến đầu chim trông to hơn hẳn."],
-    "model": "eagle"
+    "interestingFactsEn": [
+      "Its loud call is one of the characteristic sounds of Asian hill forests.",
+      "The crest fans out when the bird is alarmed, making the head look much larger."
+    ],
+    "interestingFactsVi": [
+      "Tiếng kêu vang của nó là một trong những âm thanh đặc trưng của rừng đồi núi châu Á.",
+      "Khi bị kích động, mào xòe ra khiến đầu chim trông to hơn hẳn."
+    ],
+    "model": "eagle",
+    "commonNameKo": "큰구렁이독수리",
+    "descriptionKo": "짧고 풍성한 볏, 노란 맨얼굴, 흰 반점이 있는 배, 비행 시 선명하게 보이는 날개와 꼬리의 넓은 흰 띠를 지닌 짙은 갈색의 숲독수리입니다.",
+    "dietKo": [
+      "뱀",
+      "도마뱀",
+      "개구리",
+      "작은 포유류"
+    ],
+    "sizeKo": "길이 55–75cm",
+    "behaviorKo": "숲 덮인 언덕 위 따뜻한 상승 기류를 타고 넓은 원을 그리며 활공하고, 울리는 듯 멀리 퍼지는 휘파람 소리를 냅니다. 가지에 조용히 앉아 지켜보며 사냥하기도 합니다.",
+    "adaptationsKo": [
+      "넓은 날개로 오래 힘들이지 않고 활공합니다",
+      "두꺼운 비늘 덮인 다리가 뱀 이빨로부터 어느 정도 보호합니다",
+      "예리한 시력으로 높은 곳에서 파충류를 발견합니다"
+    ],
+    "ecologicalRoleKo": "뱀과 다른 파충류 수를 조절하는 전문 포식자입니다.",
+    "interestingFactsKo": [
+      "큰 울음소리는 아시아 산지 숲의 특징적인 소리 중 하나입니다.",
+      "놀라면 볏이 부채처럼 펼쳐져 머리가 훨씬 커 보입니다."
+    ]
   },
   {
     "id": "channa-striata",
@@ -273,23 +847,75 @@
     "commonNameEn": "Striped snakehead",
     "commonNameVi": "Cá lóc (Cá quả)",
     "scientificName": "Channa striata",
-    "kingdom": "Animalia", "phylum": "Chordata", "className": "Actinopterygii", "order": "Anabantiformes", "family": "Channidae", "genus": "Channa",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "className": "Actinopterygii",
+    "order": "Anabantiformes",
+    "family": "Channidae",
+    "genus": "Channa",
     "descriptionEn": "A long, cylindrical predatory fish with a flattened snake-like head, dark back and long dorsal and anal fins.",
     "descriptionVi": "Loài cá săn mồi thân dài hình trụ, đầu dẹt giống đầu rắn, lưng sẫm màu, vây lưng và vây hậu môn dài.",
-    "habitats": ["freshwater"],
-    "diet": ["fish", "frogs", "crustaceans", "aquatic insects"],
-    "dietVi": ["cá", "ếch nhái", "giáp xác", "côn trùng thủy sinh"],
-    "size": "Commonly 30–60 cm; up to about 1 m", "sizeVi": "Thường dài 30–60 cm; tối đa khoảng 1 m",
+    "habitats": [
+      "freshwater"
+    ],
+    "diet": [
+      "fish",
+      "frogs",
+      "crustaceans",
+      "aquatic insects"
+    ],
+    "dietVi": [
+      "cá",
+      "ếch nhái",
+      "giáp xác",
+      "côn trùng thủy sinh"
+    ],
+    "size": "Commonly 30–60 cm; up to about 1 m",
+    "sizeVi": "Thường dài 30–60 cm; tối đa khoảng 1 m",
     "conservationStatus": "LC",
     "behaviorEn": "An ambush hunter that lies still among water plants and lunges at passing prey. It regularly rises to gulp air, and both parents guard their cloud of young.",
     "behaviorVi": "Loài săn mồi phục kích, nằm im giữa đám cây thủy sinh rồi lao tới đớp con mồi bơi qua. Cá thường ngoi lên đớp không khí; cả cá bố và cá mẹ cùng canh giữ đàn con.",
-    "adaptationsEn": ["An air-breathing organ above the gills lets it live in stagnant, oxygen-poor water", "It can survive dry periods buried in mud and wriggle short distances over wet ground", "A large mouth with sharp teeth holds slippery prey"],
-    "adaptationsVi": ["Cơ quan hô hấp phụ phía trên mang giúp sống được ở nước tù, nghèo ôxy", "Có thể vùi mình trong bùn qua mùa khô và trườn một quãng ngắn trên đất ướt", "Miệng rộng, răng sắc giữ chặt con mồi trơn tuột"],
+    "adaptationsEn": [
+      "An air-breathing organ above the gills lets it live in stagnant, oxygen-poor water",
+      "It can survive dry periods buried in mud and wriggle short distances over wet ground",
+      "A large mouth with sharp teeth holds slippery prey"
+    ],
+    "adaptationsVi": [
+      "Cơ quan hô hấp phụ phía trên mang giúp sống được ở nước tù, nghèo ôxy",
+      "Có thể vùi mình trong bùn qua mùa khô và trườn một quãng ngắn trên đất ướt",
+      "Miệng rộng, răng sắc giữ chặt con mồi trơn tuột"
+    ],
     "ecologicalRoleEn": "A top predator of ponds, rice fields and slow rivers, and an important food fish across Southeast Asia.",
     "ecologicalRoleVi": "Loài săn mồi đầu bảng ở ao, ruộng lúa và sông chảy chậm, đồng thời là loài cá thực phẩm quan trọng khắp Đông Nam Á.",
-    "interestingFactsEn": ["Grilled snakehead (cá lóc nướng trui) is a famous dish of southern Vietnam.", "Fry swim in a tight ball at the surface while a parent patrols underneath."],
-    "interestingFactsVi": ["Cá lóc nướng trui là món ăn nổi tiếng của miền Nam Việt Nam.", "Cá con bơi thành một khối dày ở mặt nước trong khi cá bố mẹ tuần tra bên dưới."],
-    "model": "snakehead"
+    "interestingFactsEn": [
+      "Grilled snakehead (cá lóc nướng trui) is a famous dish of southern Vietnam.",
+      "Fry swim in a tight ball at the surface while a parent patrols underneath."
+    ],
+    "interestingFactsVi": [
+      "Cá lóc nướng trui là món ăn nổi tiếng của miền Nam Việt Nam.",
+      "Cá con bơi thành một khối dày ở mặt nước trong khi cá bố mẹ tuần tra bên dưới."
+    ],
+    "model": "snakehead",
+    "commonNameKo": "가물치",
+    "descriptionKo": "납작한 뱀 모양의 머리, 어두운 등, 긴 등지느러미와 뒷지느러미를 지닌 길고 원통형의 육식 물고기입니다.",
+    "dietKo": [
+      "물고기",
+      "개구리",
+      "갑각류",
+      "수생 곤충"
+    ],
+    "sizeKo": "보통 30–60cm; 최대 약 1m",
+    "behaviorKo": "수생 식물 사이에 가만히 엎드려 지나가는 먹이를 덮치는 매복 사냥꾼입니다. 규칙적으로 수면으로 올라와 공기를 삼키고, 부모가 함께 새끼 떼를 지킵니다.",
+    "adaptationsKo": [
+      "아가미 위의 공기 호흡 기관으로 고인 산소 부족 물에서도 삽니다",
+      "진흙에 파묻혀 건기를 견디고 젖은 땅을 짧게 기어갈 수 있습니다",
+      "날카로운 이빨이 달린 큰 입으로 미끄러운 먹이를 붙듭니다"
+    ],
+    "ecologicalRoleKo": "연못, 논, 느린 강의 최상위 포식자이자 동남아시아 전역의 중요한 식용어입니다.",
+    "interestingFactsKo": [
+      "구운 가물치는 베트남 남부의 유명한 요리입니다.",
+      "치어는 수면에 조밀한 떼를 이루고 부모가 아래에서 순찰합니다."
+    ]
   },
   {
     "id": "barbonymus-gonionotus",
@@ -297,23 +923,72 @@
     "commonNameEn": "Silver barb",
     "commonNameVi": "Cá mè vinh",
     "scientificName": "Barbonymus gonionotus",
-    "kingdom": "Animalia", "phylum": "Chordata", "className": "Actinopterygii", "order": "Cypriniformes", "family": "Cyprinidae", "genus": "Barbonymus",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "className": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "genus": "Barbonymus",
     "descriptionEn": "A deep-bodied, strongly compressed silvery carp relative with a small head and yellowish to reddish fins.",
     "descriptionVi": "Loài cá họ chép thân cao, dẹp bên rõ rệt, màu trắng bạc, đầu nhỏ, vây có màu vàng nhạt đến đỏ nhạt.",
-    "habitats": ["freshwater"],
-    "diet": ["aquatic plants and leaves", "algae", "small invertebrates"],
-    "dietVi": ["cây thủy sinh và lá", "tảo", "động vật không xương sống nhỏ"],
-    "size": "Usually 20–30 cm; up to about 40 cm", "sizeVi": "Thường dài 20–30 cm; tối đa khoảng 40 cm",
+    "habitats": [
+      "freshwater"
+    ],
+    "diet": [
+      "aquatic plants and leaves",
+      "algae",
+      "small invertebrates"
+    ],
+    "dietVi": [
+      "cây thủy sinh và lá",
+      "tảo",
+      "động vật không xương sống nhỏ"
+    ],
+    "size": "Usually 20–30 cm; up to about 40 cm",
+    "sizeVi": "Thường dài 20–30 cm; tối đa khoảng 40 cm",
     "conservationStatus": "LC",
     "behaviorEn": "Swims in schools in the middle and lower water of rivers, streams and floodplains. In the rainy season it moves from the main river into flooded ground to feed.",
     "behaviorVi": "Bơi thành đàn ở tầng giữa và tầng đáy của sông, suối và vùng ngập. Vào mùa mưa, cá di chuyển từ dòng chính vào vùng đất ngập nước để kiếm ăn.",
-    "adaptationsEn": ["Reflective silver scales make a turning school hard for predators to track", "A flattened body gives quick, agile turns", "Throat teeth grind tough plant material"],
-    "adaptationsVi": ["Vảy bạc phản chiếu khiến kẻ săn mồi khó bám theo đàn cá đang đổi hướng", "Thân dẹp giúp xoay trở nhanh nhẹn", "Răng hầu nghiền được thức ăn thực vật dai"],
+    "adaptationsEn": [
+      "Reflective silver scales make a turning school hard for predators to track",
+      "A flattened body gives quick, agile turns",
+      "Throat teeth grind tough plant material"
+    ],
+    "adaptationsVi": [
+      "Vảy bạc phản chiếu khiến kẻ săn mồi khó bám theo đàn cá đang đổi hướng",
+      "Thân dẹp giúp xoay trở nhanh nhẹn",
+      "Răng hầu nghiền được thức ăn thực vật dai"
+    ],
     "ecologicalRoleEn": "A plant-eating fish that keeps aquatic vegetation in check and is food for larger fish and fishing birds.",
     "ecologicalRoleVi": "Loài cá ăn thực vật giúp kiểm soát cây thủy sinh, đồng thời là thức ăn của cá lớn và chim ăn cá.",
-    "interestingFactsEn": ["It is one of the most widely farmed freshwater fish in mainland Southeast Asia.", "Farmers sometimes stock it in ponds to control water weeds."],
-    "interestingFactsVi": ["Đây là một trong những loài cá nước ngọt được nuôi phổ biến nhất ở Đông Nam Á lục địa.", "Người nuôi đôi khi thả cá mè vinh trong ao để kiểm soát cỏ nước."],
-    "model": "barb"
+    "interestingFactsEn": [
+      "It is one of the most widely farmed freshwater fish in mainland Southeast Asia.",
+      "Farmers sometimes stock it in ponds to control water weeds."
+    ],
+    "interestingFactsVi": [
+      "Đây là một trong những loài cá nước ngọt được nuôi phổ biến nhất ở Đông Nam Á lục địa.",
+      "Người nuôi đôi khi thả cá mè vinh trong ao để kiểm soát cỏ nước."
+    ],
+    "model": "barb",
+    "commonNameKo": "은빛미늘창어",
+    "descriptionKo": "몸이 깊고 옆으로 납작한 은백색 잉어과 물고기로, 머리가 작고 지느러미가 노란빛에서 붉은빛을 띱니다.",
+    "dietKo": [
+      "수생 식물과 잎",
+      "조류",
+      "작은 무척추동물"
+    ],
+    "sizeKo": "보통 20–30cm; 최대 약 40cm",
+    "behaviorKo": "강, 개울, 범람원의 중층과 하층에서 무리 지어 헤엄칩니다. 우기에는 본류에서 물에 잠긴 땅으로 이동해 먹이를 먹습니다.",
+    "adaptationsKo": [
+      "반사되는 은색 비늘 덕에 방향을 바꾸는 떼를 포식자가 따라가기 어렵습니다",
+      "납작한 몸으로 빠르고 민첩하게 방향을 바꿉니다",
+      "인두치가 질긴 식물 조직을 갈아냅니다"
+    ],
+    "ecologicalRoleKo": "수생 식물을 조절하는 초식 물고기이자 큰 물고기와 물새의 먹이입니다.",
+    "interestingFactsKo": [
+      "동남아시아 대륙부에서 가장 널리 양식되는 담수어 중 하나입니다.",
+      "농부들이 연못의 수초를 조절하려고 풀어놓기도 합니다."
+    ]
   },
   {
     "id": "trichopodus-trichopterus",
@@ -321,23 +996,75 @@
     "commonNameEn": "Three spot gourami",
     "commonNameVi": "Cá sặc bướm",
     "scientificName": "Trichopodus trichopterus",
-    "kingdom": "Animalia", "phylum": "Chordata", "className": "Actinopterygii", "order": "Anabantiformes", "family": "Osphronemidae", "genus": "Trichopodus",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "className": "Actinopterygii",
+    "order": "Anabantiformes",
+    "family": "Osphronemidae",
+    "genus": "Trichopodus",
     "descriptionEn": "A small, oval, bluish-silver fish with two dark spots along each side and long thread-like pelvic fins.",
     "descriptionVi": "Loài cá nhỏ thân hình bầu dục, màu bạc ánh xanh, có hai chấm sẫm dọc mỗi bên thân và đôi vây bụng kéo dài thành sợi.",
-    "habitats": ["freshwater"],
-    "diet": ["insect larvae", "zooplankton", "small crustaceans", "algae"],
-    "dietVi": ["ấu trùng côn trùng", "động vật phù du", "giáp xác nhỏ", "tảo"],
-    "size": "Up to about 15 cm", "sizeVi": "Tối đa khoảng 15 cm",
+    "habitats": [
+      "freshwater"
+    ],
+    "diet": [
+      "insect larvae",
+      "zooplankton",
+      "small crustaceans",
+      "algae"
+    ],
+    "dietVi": [
+      "ấu trùng côn trùng",
+      "động vật phù du",
+      "giáp xác nhỏ",
+      "tảo"
+    ],
+    "size": "Up to about 15 cm",
+    "sizeVi": "Tối đa khoảng 15 cm",
     "conservationStatus": "LC",
     "behaviorEn": "Lives among dense vegetation in still or slow water and rises often to take a breath at the surface. The male builds a floating nest of bubbles and guards the eggs.",
     "behaviorVi": "Sống giữa thảm thực vật dày ở vùng nước tĩnh hoặc chảy chậm và thường ngoi lên mặt nước để thở. Cá đực xây tổ bọt nổi và canh giữ trứng.",
-    "adaptationsEn": ["The labyrinth organ lets it breathe air in warm, low-oxygen water", "Thread-like pelvic fins carry touch and taste sensors for feeling its way", "The bubble nest keeps eggs in oxygen-rich surface water"],
-    "adaptationsVi": ["Cơ quan mê lộ giúp thở không khí trong nước ấm, nghèo ôxy", "Vây bụng dạng sợi có cơ quan cảm nhận xúc giác và vị giác để dò đường", "Tổ bọt giữ trứng ở lớp nước mặt giàu ôxy"],
+    "adaptationsEn": [
+      "The labyrinth organ lets it breathe air in warm, low-oxygen water",
+      "Thread-like pelvic fins carry touch and taste sensors for feeling its way",
+      "The bubble nest keeps eggs in oxygen-rich surface water"
+    ],
+    "adaptationsVi": [
+      "Cơ quan mê lộ giúp thở không khí trong nước ấm, nghèo ôxy",
+      "Vây bụng dạng sợi có cơ quan cảm nhận xúc giác và vị giác để dò đường",
+      "Tổ bọt giữ trứng ở lớp nước mặt giàu ôxy"
+    ],
     "ecologicalRoleEn": "Feeds heavily on mosquito larvae and other small invertebrates, and is prey for larger fish and water birds.",
     "ecologicalRoleVi": "Ăn nhiều bọ gậy và động vật không xương sống nhỏ khác, đồng thời là con mồi của cá lớn và chim nước.",
-    "interestingFactsEn": ["The 'third spot' in its name is the eye.", "Blue, gold and opaline aquarium gouramis are colour forms of this species."],
-    "interestingFactsVi": ["'Chấm thứ ba' trong tên tiếng Anh của loài chính là con mắt.", "Các dòng cá sặc cảnh màu xanh, vàng và cẩm thạch là biến thể màu của loài này."],
-    "model": "gourami"
+    "interestingFactsEn": [
+      "The 'third spot' in its name is the eye.",
+      "Blue, gold and opaline aquarium gouramis are colour forms of this species."
+    ],
+    "interestingFactsVi": [
+      "'Chấm thứ ba' trong tên tiếng Anh của loài chính là con mắt.",
+      "Các dòng cá sặc cảnh màu xanh, vàng và cẩm thạch là biến thể màu của loài này."
+    ],
+    "model": "gourami",
+    "commonNameKo": "세점구라미",
+    "descriptionKo": "옆면에 두 개의 어두운 점과 길고 실 같은 복지느러미를 지닌 작고 타원형의 푸른빛 은색 물고기입니다.",
+    "dietKo": [
+      "곤충 유충",
+      "동물성 플랑크톤",
+      "작은 갑각류",
+      "조류"
+    ],
+    "sizeKo": "최대 약 15cm",
+    "behaviorKo": "고이거나 느리게 흐르는 물의 빽빽한 식생 사이에서 살며 자주 수면으로 올라와 숨을 쉽니다. 수컷은 거품 둥지를 짓고 알을 지킵니다.",
+    "adaptationsKo": [
+      "미로 기관으로 따뜻하고 산소가 적은 물에서 공기 호흡을 합니다",
+      "실 같은 복지느러미의 촉각과 미각 센서로 길을 더듬습니다",
+      "거품 둥지가 알을 산소가 풍부한 수면 근처에 둡니다"
+    ],
+    "ecologicalRoleKo": "모기 유충과 작은 무척추동물을 많이 먹고, 큰 물고기와 물새의 먹잇감입니다.",
+    "interestingFactsKo": [
+      "이름의 '세 번째 점'은 바로 눈입니다.",
+      "파랑, 금색, 오팔린 관상용 구라미는 이 종의 색 변이입니다."
+    ]
   },
   {
     "id": "calotes-versicolor",
@@ -345,23 +1072,74 @@
     "commonNameEn": "Oriental garden lizard",
     "commonNameVi": "Nhông xanh",
     "scientificName": "Calotes versicolor",
-    "kingdom": "Animalia", "phylum": "Chordata", "className": "Reptilia", "order": "Squamata", "family": "Agamidae", "genus": "Calotes",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "className": "Reptilia",
+    "order": "Squamata",
+    "family": "Agamidae",
+    "genus": "Calotes",
     "descriptionEn": "A slender agamid lizard with a spiny crest along the neck and back and a very long, thin tail. Its colour ranges from pale brown to olive.",
     "descriptionVi": "Loài nhông thân thon, có hàng gai dọc gáy và lưng, đuôi rất dài và mảnh. Màu thân thay đổi từ nâu nhạt đến xanh ô liu.",
-    "habitats": ["grassland", "ruins", "rainforest"],
-    "diet": ["insects", "spiders", "occasionally small vertebrates"],
-    "dietVi": ["côn trùng", "nhện", "đôi khi ăn động vật có xương sống nhỏ"],
-    "size": "Total length up to about 37 cm, most of it tail", "sizeVi": "Dài cả đuôi tới khoảng 37 cm, phần lớn là đuôi",
+    "habitats": [
+      "grassland",
+      "ruins",
+      "rainforest"
+    ],
+    "diet": [
+      "insects",
+      "spiders",
+      "occasionally small vertebrates"
+    ],
+    "dietVi": [
+      "côn trùng",
+      "nhện",
+      "đôi khi ăn động vật có xương sống nhỏ"
+    ],
+    "size": "Total length up to about 37 cm, most of it tail",
+    "sizeVi": "Dài cả đuôi tới khoảng 37 cm, phần lớn là đuôi",
     "conservationStatus": "LC",
     "behaviorEn": "Basks on fence posts, rocks and tree trunks in the morning sun and sits upright to watch its surroundings. Displaying males bob their heads and do push-ups.",
     "behaviorVi": "Phơi nắng buổi sáng trên cọc rào, tảng đá và thân cây, ngồi thẳng để quan sát xung quanh. Con đực gật đầu và 'chống đẩy' để phô trương.",
-    "adaptationsEn": ["In the breeding season the male's head and shoulders flush bright red", "Unlike many lizards it cannot shed its tail to escape", "Long toes and claws make it an agile climber"],
-    "adaptationsVi": ["Vào mùa sinh sản, đầu và vai con đực chuyển màu đỏ tươi", "Khác với nhiều loài thằn lằn, nó không thể tự rụng đuôi để thoát thân", "Ngón dài và móng sắc giúp leo trèo nhanh nhẹn"],
+    "adaptationsEn": [
+      "In the breeding season the male's head and shoulders flush bright red",
+      "Unlike many lizards it cannot shed its tail to escape",
+      "Long toes and claws make it an agile climber"
+    ],
+    "adaptationsVi": [
+      "Vào mùa sinh sản, đầu và vai con đực chuyển màu đỏ tươi",
+      "Khác với nhiều loài thằn lằn, nó không thể tự rụng đuôi để thoát thân",
+      "Ngón dài và móng sắc giúp leo trèo nhanh nhẹn"
+    ],
     "ecologicalRoleEn": "Eats large numbers of insects and is itself food for snakes and birds of prey.",
     "ecologicalRoleVi": "Ăn rất nhiều côn trùng và cũng là thức ăn của rắn và chim săn mồi.",
-    "interestingFactsEn": ["The male's red head earned it the misleading nickname 'bloodsucker'; it is harmless.", "The species name versicolor refers to its changeable colours."],
-    "interestingFactsVi": ["Cái đầu đỏ của con đực khiến loài này bị gọi nhầm là 'kẻ hút máu' dù hoàn toàn vô hại.", "Tên loài versicolor có nghĩa là 'nhiều màu', chỉ khả năng đổi màu của nó."],
-    "model": "gardenLizard"
+    "interestingFactsEn": [
+      "The male's red head earned it the misleading nickname 'bloodsucker'; it is harmless.",
+      "The species name versicolor refers to its changeable colours."
+    ],
+    "interestingFactsVi": [
+      "Cái đầu đỏ của con đực khiến loài này bị gọi nhầm là 'kẻ hút máu' dù hoàn toàn vô hại.",
+      "Tên loài versicolor có nghĩa là 'nhiều màu', chỉ khả năng đổi màu của nó."
+    ],
+    "model": "gardenLizard",
+    "commonNameKo": "동양정원도마뱀",
+    "descriptionKo": "목과 등을 따라 가시 볏이 있고 꼬리가 아주 길고 가느다란 아가마과 도마뱀입니다. 몸 색은 옅은 갈색에서 올리브색까지 다양합니다.",
+    "dietKo": [
+      "곤충",
+      "거미",
+      "가끔 작은 척추동물"
+    ],
+    "sizeKo": "총 길이 최대 약 37cm, 대부분이 꼬리",
+    "behaviorKo": "아침 햇살에 울타리 기둥, 바위, 나무줄기에서 일광욕을 하고 꼿꼿이 앉아 주위를 살핍니다. 구애하는 수컷은 머리를 까딱이고 팔굽혀펴기를 합니다.",
+    "adaptationsKo": [
+      "번식기 수컷은 머리와 어깨가 선명한 붉은색으로 물듭니다",
+      "많은 도마뱀과 달리 꼬리를 떼어 도망치지 못합니다",
+      "긴 발가락과 발톱으로 민첩하게 오릅니다"
+    ],
+    "ecologicalRoleKo": "많은 곤충을 먹고, 뱀과 맹금류의 먹이가 됩니다.",
+    "interestingFactsKo": [
+      "수컷의 붉은 머리 때문에 '피 빠는 도마뱀'이라는 그럴듯하지 않은 별명이 붙었지만 무해합니다.",
+      "학명 versicolor는 변하는 색을 뜻합니다."
+    ]
   },
   {
     "id": "physignathus-cocincinus",
@@ -369,24 +1147,79 @@
     "commonNameEn": "Chinese water dragon",
     "commonNameVi": "Rồng đất",
     "scientificName": "Physignathus cocincinus",
-    "kingdom": "Animalia", "phylum": "Chordata", "className": "Reptilia", "order": "Squamata", "family": "Agamidae", "genus": "Physignathus",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "className": "Reptilia",
+    "order": "Squamata",
+    "family": "Agamidae",
+    "genus": "Physignathus",
     "descriptionEn": "A large, bright green lizard with a crest running from head to tail and a long banded tail flattened from side to side.",
     "descriptionVi": "Loài thằn lằn lớn màu xanh lục tươi, có mào chạy từ đầu đến đuôi; đuôi dài có khoang và dẹp hai bên.",
-    "habitats": ["freshwater", "rainforest"],
-    "diet": ["insects", "small fish", "small vertebrates", "some leaves and fruit"],
-    "dietVi": ["côn trùng", "cá nhỏ", "động vật có xương sống nhỏ", "một ít lá và quả"],
-    "lifespan": "About 10–15 years", "lifespanVi": "Khoảng 10–15 năm",
-    "size": "Total length up to about 90 cm", "sizeVi": "Dài cả đuôi tới khoảng 90 cm",
+    "habitats": [
+      "freshwater",
+      "rainforest"
+    ],
+    "diet": [
+      "insects",
+      "small fish",
+      "small vertebrates",
+      "some leaves and fruit"
+    ],
+    "dietVi": [
+      "côn trùng",
+      "cá nhỏ",
+      "động vật có xương sống nhỏ",
+      "một ít lá và quả"
+    ],
+    "lifespan": "About 10–15 years",
+    "lifespanVi": "Khoảng 10–15 năm",
+    "size": "Total length up to about 90 cm",
+    "sizeVi": "Dài cả đuôi tới khoảng 90 cm",
     "conservationStatus": "VU",
     "behaviorEn": "Spends the day in trees and on rocks overhanging forest streams. When threatened it drops into the water and swims away or stays submerged for many minutes.",
     "behaviorVi": "Ban ngày ở trên cây và tảng đá nhô ra trên suối rừng. Khi bị đe dọa, rồng đất thả mình xuống nước rồi bơi đi hoặc lặn nhiều phút liền.",
-    "adaptationsEn": ["The flattened tail works as a paddle when swimming", "A light-sensitive spot on top of the head, the parietal eye, helps detect shadows from above", "It can sprint on its hind legs"],
-    "adaptationsVi": ["Đuôi dẹp hoạt động như mái chèo khi bơi", "Một điểm cảm quang trên đỉnh đầu, gọi là mắt đỉnh, giúp phát hiện bóng đen từ phía trên", "Có thể chạy nước rút bằng hai chân sau"],
+    "adaptationsEn": [
+      "The flattened tail works as a paddle when swimming",
+      "A light-sensitive spot on top of the head, the parietal eye, helps detect shadows from above",
+      "It can sprint on its hind legs"
+    ],
+    "adaptationsVi": [
+      "Đuôi dẹp hoạt động như mái chèo khi bơi",
+      "Một điểm cảm quang trên đỉnh đầu, gọi là mắt đỉnh, giúp phát hiện bóng đen từ phía trên",
+      "Có thể chạy nước rút bằng hai chân sau"
+    ],
     "ecologicalRoleEn": "A streamside predator of insects and small animals, and a sign of intact riverside forest.",
     "ecologicalRoleVi": "Loài săn côn trùng và động vật nhỏ ven suối, đồng thời là dấu hiệu của rừng ven sông còn nguyên vẹn.",
-    "interestingFactsEn": ["Wild populations have declined because of collection for food and the pet trade.", "Females can occasionally reproduce without a male, a process called parthenogenesis."],
-    "interestingFactsVi": ["Quần thể hoang dã suy giảm do bị săn bắt làm thực phẩm và buôn bán làm vật nuôi.", "Con cái đôi khi có thể sinh sản không cần con đực, gọi là trinh sản."],
-    "model": "waterDragon"
+    "interestingFactsEn": [
+      "Wild populations have declined because of collection for food and the pet trade.",
+      "Females can occasionally reproduce without a male, a process called parthenogenesis."
+    ],
+    "interestingFactsVi": [
+      "Quần thể hoang dã suy giảm do bị săn bắt làm thực phẩm và buôn bán làm vật nuôi.",
+      "Con cái đôi khi có thể sinh sản không cần con đực, gọi là trinh sản."
+    ],
+    "model": "waterDragon",
+    "commonNameKo": "중국물도마뱀",
+    "descriptionKo": "머리에서 꼬리까지 볏이 이어지고 옆으로 납작한 긴 줄무늬 꼬리를 지닌 크고 밝은 녹색의 도마뱀입니다.",
+    "dietKo": [
+      "곤충",
+      "작은 물고기",
+      "작은 척추동물",
+      "약간의 잎과 열매"
+    ],
+    "lifespanKo": "약 10–15년",
+    "sizeKo": "총 길이 최대 약 90cm",
+    "behaviorKo": "낮에는 숲 개울 위에 드리운 나무와 바위에서 지냅니다. 위협받으면 물에 뛰어들어 헤엄쳐 도망가거나 몇 분 동안 잠수합니다.",
+    "adaptationsKo": [
+      "납작한 꼬리가 수영할 때 노 역할을 합니다",
+      "정수리의 감광점인 두정안이 위에서 오는 그림자를 감지합니다",
+      "뒷다리로 달릴 수 있습니다"
+    ],
+    "ecologicalRoleKo": "개울가의 곤충과 작은 동물을 잡아먹는 포식자이자 온전한 강변 숲의 신호입니다.",
+    "interestingFactsKo": [
+      "식용과 애완동물 거래를 위한 포획으로 야생 개체군이 감소했습니다.",
+      "암컷이 가끔 수컷 없이 단성생식으로 번식하기도 합니다."
+    ]
   },
   {
     "id": "duttaphrynus-melanostictus",
@@ -394,23 +1227,75 @@
     "commonNameEn": "Asian common toad",
     "commonNameVi": "Cóc nhà",
     "scientificName": "Duttaphrynus melanostictus",
-    "kingdom": "Animalia", "phylum": "Chordata", "className": "Amphibia", "order": "Anura", "family": "Bufonidae", "genus": "Duttaphrynus",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "className": "Amphibia",
+    "order": "Anura",
+    "family": "Bufonidae",
+    "genus": "Duttaphrynus",
     "descriptionEn": "A stout toad with dry, warty skin, dark-tipped warts and black bony ridges around the eyes.",
     "descriptionVi": "Loài cóc thân mập, da khô sần sùi, mụn có chóp sẫm màu và các gờ xương màu đen quanh mắt.",
-    "habitats": ["grassland", "rainforest", "ruins", "freshwater"],
-    "diet": ["ants and termites", "beetles", "other small invertebrates"],
-    "dietVi": ["kiến và mối", "bọ cánh cứng", "động vật không xương sống nhỏ khác"],
-    "size": "Usually 6–15 cm long", "sizeVi": "Thường dài 6–15 cm",
+    "habitats": [
+      "grassland",
+      "rainforest",
+      "ruins",
+      "freshwater"
+    ],
+    "diet": [
+      "ants and termites",
+      "beetles",
+      "other small invertebrates"
+    ],
+    "dietVi": [
+      "kiến và mối",
+      "bọ cánh cứng",
+      "động vật không xương sống nhỏ khác"
+    ],
+    "size": "Usually 6–15 cm long",
+    "sizeVi": "Thường dài 6–15 cm",
     "conservationStatus": "LC",
     "behaviorEn": "Hides under logs, stones and leaf litter by day and comes out to hunt at night, often gathering beneath lamps. It breeds in still water after heavy rain.",
     "behaviorVi": "Ban ngày ẩn dưới khúc gỗ, hòn đá và lá mục, ban đêm ra săn mồi và thường tụ tập dưới ánh đèn. Cóc sinh sản ở vùng nước tĩnh sau những trận mưa lớn.",
-    "adaptationsEn": ["Large parotoid glands behind the eyes ooze a milky toxin that deters predators", "Thick, dry skin slows water loss away from ponds", "A sticky tongue flicks out to catch insects"],
-    "adaptationsVi": ["Tuyến mang tai lớn sau mắt tiết nhựa độc màu trắng sữa để xua kẻ săn mồi", "Da dày, khô hạn chế mất nước khi ở xa ao hồ", "Lưỡi dính phóng ra bắt côn trùng"],
+    "adaptationsEn": [
+      "Large parotoid glands behind the eyes ooze a milky toxin that deters predators",
+      "Thick, dry skin slows water loss away from ponds",
+      "A sticky tongue flicks out to catch insects"
+    ],
+    "adaptationsVi": [
+      "Tuyến mang tai lớn sau mắt tiết nhựa độc màu trắng sữa để xua kẻ săn mồi",
+      "Da dày, khô hạn chế mất nước khi ở xa ao hồ",
+      "Lưỡi dính phóng ra bắt côn trùng"
+    ],
     "ecologicalRoleEn": "Eats huge numbers of ants, termites and crop pests.",
     "ecologicalRoleVi": "Ăn một lượng rất lớn kiến, mối và sâu bọ hại cây trồng.",
-    "interestingFactsEn": ["Tadpoles are black and swim in dense shoals.", "Accidentally introduced to Madagascar, it is now a serious invasive species there."],
-    "interestingFactsVi": ["Nòng nọc màu đen và bơi thành đàn dày đặc.", "Sau khi vô tình bị đưa tới Madagascar, cóc nhà đã trở thành loài xâm hại nghiêm trọng ở đó."],
-    "model": "toad"
+    "interestingFactsEn": [
+      "Tadpoles are black and swim in dense shoals.",
+      "Accidentally introduced to Madagascar, it is now a serious invasive species there."
+    ],
+    "interestingFactsVi": [
+      "Nòng nọc màu đen và bơi thành đàn dày đặc.",
+      "Sau khi vô tình bị đưa tới Madagascar, cóc nhà đã trở thành loài xâm hại nghiêm trọng ở đó."
+    ],
+    "model": "toad",
+    "commonNameKo": "아시아두꺼비",
+    "descriptionKo": "마르고 사마귀가 돋은 피부, 끝이 검은 사마귀, 눈 주변의 검은 뼈 능선을 지닌 몸집 큰 두꺼비입니다.",
+    "dietKo": [
+      "개미와 흰개미",
+      "딱정벌레",
+      "기타 작은 무척추동물"
+    ],
+    "sizeKo": "보통 6–15cm",
+    "behaviorKo": "낮에는 통나무, 돌, 낙엽 아래에 숨어 있다가 밤에 사냥하러 나오고, 종종 등불 아래에 모입니다. 큰비가 내린 뒤 고인 물에서 번식합니다.",
+    "adaptationsKo": [
+      "눈 뒤의 큰 이선에서 뿜어 나오는 우유빛 독액이 포식자를 쫓아냅니다",
+      "두껍고 마른 피부가 연못에서 멀어져도 수분 손실을 늦춥니다",
+      "끈적한 혀를 튕겨 곤충을 잡습니다"
+    ],
+    "ecologicalRoleKo": "엄청난 수의 개미, 흰개미, 작물 해충을 먹어 치웁니다.",
+    "interestingFactsKo": [
+      "올챙이는 검고 조밀한 떼를 이루어 헤엄칩니다.",
+      "마다가스카르에 우연히 유입된 뒤 그곳에서 심각한 침입종이 되었습니다."
+    ]
   },
   {
     "id": "papilio-demoleus",
@@ -418,22 +1303,69 @@
     "commonNameEn": "Lime butterfly",
     "commonNameVi": "Bướm phượng chanh",
     "scientificName": "Papilio demoleus",
-    "kingdom": "Animalia", "phylum": "Arthropoda", "className": "Insecta", "order": "Lepidoptera", "family": "Papilionidae", "genus": "Papilio",
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "className": "Insecta",
+    "order": "Lepidoptera",
+    "family": "Papilionidae",
+    "genus": "Papilio",
     "descriptionEn": "A black swallowtail butterfly boldly patterned with pale yellow spots and bands. Unlike most swallowtails it has no tails on the hindwings.",
     "descriptionVi": "Loài bướm phượng nền đen với các đốm và dải vàng nhạt nổi bật. Khác với phần lớn bướm phượng, cánh sau của nó không có đuôi.",
-    "habitats": ["grassland", "freshwater"],
-    "diet": ["flower nectar (adults)", "leaves of the citrus family (caterpillars)"],
-    "dietVi": ["mật hoa (bướm trưởng thành)", "lá cây họ Cam (sâu non)"],
-    "size": "Wingspan 80–100 mm", "sizeVi": "Sải cánh 80–100 mm",
+    "habitats": [
+      "grassland",
+      "freshwater"
+    ],
+    "diet": [
+      "flower nectar (adults)",
+      "leaves of the citrus family (caterpillars)"
+    ],
+    "dietVi": [
+      "mật hoa (bướm trưởng thành)",
+      "lá cây họ Cam (sâu non)"
+    ],
+    "size": "Wingspan 80–100 mm",
+    "sizeVi": "Sải cánh 80–100 mm",
     "behaviorEn": "A fast, restless flier of sunny open ground. It visits flowers with fluttering wings and gathers at damp mud to drink dissolved minerals.",
     "behaviorVi": "Bay nhanh và không ngừng nghỉ ở nơi trống trải nhiều nắng. Bướm vừa đập cánh vừa hút mật hoa và tụ tập ở bùn ẩm để hút khoáng chất.",
-    "adaptationsEn": ["Young caterpillars look like bird droppings", "Older caterpillars turn green to match leaves", "When disturbed, the caterpillar everts a forked, foul-smelling organ called the osmeterium"],
-    "adaptationsVi": ["Sâu non tuổi nhỏ trông giống phân chim", "Sâu lớn chuyển màu xanh lục giống lá cây", "Khi bị quấy rầy, sâu thò ra một cơ quan chẻ đôi có mùi hôi, gọi là osmeterium"],
+    "adaptationsEn": [
+      "Young caterpillars look like bird droppings",
+      "Older caterpillars turn green to match leaves",
+      "When disturbed, the caterpillar everts a forked, foul-smelling organ called the osmeterium"
+    ],
+    "adaptationsVi": [
+      "Sâu non tuổi nhỏ trông giống phân chim",
+      "Sâu lớn chuyển màu xanh lục giống lá cây",
+      "Khi bị quấy rầy, sâu thò ra một cơ quan chẻ đôi có mùi hôi, gọi là osmeterium"
+    ],
     "ecologicalRoleEn": "A pollinator of many open-country flowers; its caterpillars are food for birds and wasps.",
     "ecologicalRoleVi": "Loài thụ phấn cho nhiều loài hoa ở nơi trống trải; sâu non là thức ăn của chim và ong bắp cày.",
-    "interestingFactsEn": ["It is one of the most widespread swallowtails in the world.", "Its caterpillars can be a pest of citrus orchards."],
-    "interestingFactsVi": ["Đây là một trong những loài bướm phượng phân bố rộng nhất thế giới.", "Sâu non có thể gây hại cho vườn cam chanh."],
-    "model": "limeButterfly"
+    "interestingFactsEn": [
+      "It is one of the most widespread swallowtails in the world.",
+      "Its caterpillars can be a pest of citrus orchards."
+    ],
+    "interestingFactsVi": [
+      "Đây là một trong những loài bướm phượng phân bố rộng nhất thế giới.",
+      "Sâu non có thể gây hại cho vườn cam chanh."
+    ],
+    "model": "limeButterfly",
+    "commonNameKo": "라임제비나비",
+    "descriptionKo": "옅은 노란 반점과 띠가 선명하게 어우러진 검은 제비나비입니다. 대부분의 제비나비와 달리 뒷날개에 꼬리가 없습니다.",
+    "dietKo": [
+      "꽃꿀 (성충)",
+      "귤과 식물의 잎 (애벌레)"
+    ],
+    "sizeKo": "날개 폭 80–100mm",
+    "behaviorKo": "햇볕이 잘 드는 탁 트인 땅에서 빠르고 쉴 새 없이 날아다닙니다. 날개를 파닥이며 꽃을 찾고, 젖은 진흙에 모여 녹은 무기질을 마십니다.",
+    "adaptationsKo": [
+      "어린 애벌레는 새의 배설물처럼 보입니다",
+      "자란 애벌레는 잎과 비슷한 녹색으로 변합니다",
+      "방해받으면 애벌레가 오스메테리움이라는 갈라지고 악취 나는 기관을 내밉니다"
+    ],
+    "ecologicalRoleKo": "탁 트인 땅의 여러 꽃의 수분 매개자이며, 애벌레는 새와 말벌의 먹이입니다.",
+    "interestingFactsKo": [
+      "세계에서 가장 널리 분포하는 제비나비 중 하나입니다.",
+      "애벌레가 감귤 과수원의 해충이 되기도 합니다."
+    ]
   },
   {
     "id": "danaus-genutia",
@@ -441,22 +1373,69 @@
     "commonNameEn": "Common tiger",
     "commonNameVi": "Bướm hổ vằn",
     "scientificName": "Danaus genutia",
-    "kingdom": "Animalia", "phylum": "Arthropoda", "className": "Insecta", "order": "Lepidoptera", "family": "Nymphalidae", "genus": "Danaus",
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "className": "Insecta",
+    "order": "Lepidoptera",
+    "family": "Nymphalidae",
+    "genus": "Danaus",
     "descriptionEn": "An orange butterfly with broad black veins and black wing margins dotted with white, closely resembling its relative the monarch.",
     "descriptionVi": "Loài bướm màu cam với gân cánh đen đậm và viền cánh đen điểm chấm trắng, rất giống loài bướm vua họ hàng.",
-    "habitats": ["grassland", "mountain"],
-    "diet": ["flower nectar (adults)", "milkweed-family plants (caterpillars)"],
-    "dietVi": ["mật hoa (bướm trưởng thành)", "cây thuộc nhóm bông tai, thiên lý (sâu non)"],
-    "size": "Wingspan 70–95 mm", "sizeVi": "Sải cánh 70–95 mm",
+    "habitats": [
+      "grassland",
+      "mountain"
+    ],
+    "diet": [
+      "flower nectar (adults)",
+      "milkweed-family plants (caterpillars)"
+    ],
+    "dietVi": [
+      "mật hoa (bướm trưởng thành)",
+      "cây thuộc nhóm bông tai, thiên lý (sâu non)"
+    ],
+    "size": "Wingspan 70–95 mm",
+    "sizeVi": "Sải cánh 70–95 mm",
     "behaviorEn": "Flies slowly and unhurriedly in the open, gliding between flowers. It can afford to be conspicuous because predators learn to avoid it.",
     "behaviorVi": "Bay chậm rãi, thong thả ở nơi trống và lượn giữa các khóm hoa. Bướm có thể phô mình lộ liễu vì kẻ săn mồi đã học được cách tránh nó.",
-    "adaptationsEn": ["Caterpillars store toxins from their food plants, making the adults distasteful", "Bright orange and black act as a warning signal", "A tough, leathery body often survives a first peck from a bird"],
-    "adaptationsVi": ["Sâu non tích trữ chất độc từ cây chủ, khiến bướm trưởng thành có vị khó ăn", "Màu cam và đen rực rỡ là tín hiệu cảnh báo", "Thân dai, bền thường chịu được cú mổ đầu tiên của chim"],
+    "adaptationsEn": [
+      "Caterpillars store toxins from their food plants, making the adults distasteful",
+      "Bright orange and black act as a warning signal",
+      "A tough, leathery body often survives a first peck from a bird"
+    ],
+    "adaptationsVi": [
+      "Sâu non tích trữ chất độc từ cây chủ, khiến bướm trưởng thành có vị khó ăn",
+      "Màu cam và đen rực rỡ là tín hiệu cảnh báo",
+      "Thân dai, bền thường chịu được cú mổ đầu tiên của chim"
+    ],
     "ecologicalRoleEn": "A pollinator, and a model that several harmless butterflies imitate for protection.",
     "ecologicalRoleVi": "Loài thụ phấn, đồng thời là hình mẫu để một số loài bướm vô hại bắt chước nhằm tự vệ.",
-    "interestingFactsEn": ["It belongs to the same genus as the migratory monarch butterfly.", "Males have a scent pouch on each hindwing used during courtship."],
-    "interestingFactsVi": ["Loài này cùng chi với bướm vua di cư nổi tiếng.", "Con đực có một túi mùi trên mỗi cánh sau, dùng khi tán tỉnh."],
-    "model": "tigerButterfly"
+    "interestingFactsEn": [
+      "It belongs to the same genus as the migratory monarch butterfly.",
+      "Males have a scent pouch on each hindwing used during courtship."
+    ],
+    "interestingFactsVi": [
+      "Loài này cùng chi với bướm vua di cư nổi tiếng.",
+      "Con đực có một túi mùi trên mỗi cánh sau, dùng khi tán tỉnh."
+    ],
+    "model": "tigerButterfly",
+    "commonNameKo": "호랑왕나비",
+    "descriptionKo": "굵은 검은 맥과 흰 점이 박힌 검은 날개 가장자리를 지닌 주황색 나비로, 친척인 왕나비와 매우 닮았습니다.",
+    "dietKo": [
+      "꽃꿀 (성충)",
+      "박주가리과 식물 (애벌레)"
+    ],
+    "sizeKo": "날개 폭 70–95mm",
+    "behaviorKo": "탁 트인 곳에서 천천히 느긋하게 날며 꽃 사이를 활공합니다. 포식자가 피하는 법을 배웠기 때문에 눈에 띄어도 괜찮습니다.",
+    "adaptationsKo": [
+      "애벌레가 먹이 식물의 독소를 저장해 성충이 맛없게 만듭니다",
+      "선명한 주황과 검정은 경고 신호입니다",
+      "질기고 가죽 같은 몸은 새의 첫 쪼기를 견디는 경우가 많습니다"
+    ],
+    "ecologicalRoleKo": "수분 매개자이자, 여러 무해한 나비가 보호를 위해 흉내 내는 모델입니다.",
+    "interestingFactsKo": [
+      "철새인 왕나비와 같은 속에 속합니다.",
+      "수컷은 구애할 때 쓰는 향기 주머니를 각 뒷날개에 지녔습니다."
+    ]
   },
   {
     "id": "apis-cerana",
@@ -464,22 +1443,70 @@
     "commonNameEn": "Asian honey bee",
     "commonNameVi": "Ong mật châu Á (Ong nội)",
     "scientificName": "Apis cerana",
-    "kingdom": "Animalia", "phylum": "Arthropoda", "className": "Insecta", "order": "Hymenoptera", "family": "Apidae", "genus": "Apis",
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "className": "Insecta",
+    "order": "Hymenoptera",
+    "family": "Apidae",
+    "genus": "Apis",
     "descriptionEn": "A small honey bee with a banded yellow-brown and black abdomen that nests in tree hollows and other cavities.",
     "descriptionVi": "Loài ong mật nhỏ, bụng có khoang vàng nâu và đen, làm tổ trong hốc cây và các khoang kín khác.",
-    "habitats": ["grassland", "rainforest", "mountain"],
-    "diet": ["nectar", "pollen"],
-    "dietVi": ["mật hoa", "phấn hoa"],
-    "size": "Workers about 10–11 mm long", "sizeVi": "Ong thợ dài khoảng 10–11 mm",
+    "habitats": [
+      "grassland",
+      "rainforest",
+      "mountain"
+    ],
+    "diet": [
+      "nectar",
+      "pollen"
+    ],
+    "dietVi": [
+      "mật hoa",
+      "phấn hoa"
+    ],
+    "size": "Workers about 10–11 mm long",
+    "sizeVi": "Ong thợ dài khoảng 10–11 mm",
     "behaviorEn": "Lives in colonies of thousands with a single queen. Foragers move from flower to flower and tell nestmates where food is with a waggle dance.",
     "behaviorVi": "Sống thành đàn hàng nghìn con với một ong chúa. Ong thợ bay từ hoa này sang hoa khác và báo cho đồng loại vị trí nguồn thức ăn bằng điệu múa lắc bụng.",
-    "adaptationsEn": ["Workers can surround an attacking hornet in a tight ball and overheat it", "Pollen baskets on the hind legs carry pollen home", "Branched body hairs trap pollen grains"],
-    "adaptationsVi": ["Ong thợ có thể vây kín ong bắp cày tấn công thành một khối và làm nó chết vì quá nóng", "Giỏ phấn ở chân sau dùng để mang phấn hoa về tổ", "Lông phân nhánh trên thân giữ các hạt phấn"],
+    "adaptationsEn": [
+      "Workers can surround an attacking hornet in a tight ball and overheat it",
+      "Pollen baskets on the hind legs carry pollen home",
+      "Branched body hairs trap pollen grains"
+    ],
+    "adaptationsVi": [
+      "Ong thợ có thể vây kín ong bắp cày tấn công thành một khối và làm nó chết vì quá nóng",
+      "Giỏ phấn ở chân sau dùng để mang phấn hoa về tổ",
+      "Lông phân nhánh trên thân giữ các hạt phấn"
+    ],
     "ecologicalRoleEn": "A key pollinator of wild plants and crops throughout tropical and temperate Asia.",
     "ecologicalRoleVi": "Loài thụ phấn chủ chốt cho cây hoang dại và cây trồng khắp vùng nhiệt đới và ôn đới châu Á.",
-    "interestingFactsEn": ["It has been kept in hives for honey in Asia for many centuries.", "It copes with the Varroa mite far better than the western honey bee does."],
-    "interestingFactsVi": ["Loài ong này đã được nuôi lấy mật ở châu Á từ nhiều thế kỷ.", "Ong nội chống chịu ve Varroa tốt hơn nhiều so với ong mật phương Tây."],
-    "model": "bee"
+    "interestingFactsEn": [
+      "It has been kept in hives for honey in Asia for many centuries.",
+      "It copes with the Varroa mite far better than the western honey bee does."
+    ],
+    "interestingFactsVi": [
+      "Loài ong này đã được nuôi lấy mật ở châu Á từ nhiều thế kỷ.",
+      "Ong nội chống chịu ve Varroa tốt hơn nhiều so với ong mật phương Tây."
+    ],
+    "model": "bee",
+    "commonNameKo": "토종꿀벌",
+    "descriptionKo": "황갈색과 검은 줄무늬 배를 지닌 작은 꿀벌로, 나무 구멍이나 다른 빈 공간에 둥지를 틉니다.",
+    "dietKo": [
+      "꽃꿀",
+      "꽃가루"
+    ],
+    "sizeKo": "일벌 길이 약 10–11mm",
+    "behaviorKo": "한 마리 여왕벌과 수천 마리가 군집을 이룹니다. 채집벌은 꽃에서 꽃으로 옮겨 다니며 꼬리 흔들기 춤으로 먹이 위치를 동료에게 알립니다.",
+    "adaptationsKo": [
+      "일벌들이 공격하는 장수말벌을 조밀한 공 모양으로 에워싸 과열시킵니다",
+      "뒷다리의 꽃가루 바구니로 꽃가루를 집으로 나릅니다",
+      "갈라진 몸털이 꽃가루 알갱이를 잡아둡니다"
+    ],
+    "ecologicalRoleKo": "열대와 온대 아시아 전역의 야생 식물과 작물의 핵심 수분 매개자입니다.",
+    "interestingFactsKo": [
+      "아시아에서 수세기 동안 벌통에서 꿀을 얻어 왔습니다.",
+      "서양꿀벌보다 바로아 진드기에 훨씬 잘 견딥니다."
+    ]
   },
   {
     "id": "crocothemis-servilia",
@@ -487,23 +1514,70 @@
     "commonNameEn": "Scarlet skimmer",
     "commonNameVi": "Chuồn chuồn ớt",
     "scientificName": "Crocothemis servilia",
-    "kingdom": "Animalia", "phylum": "Arthropoda", "className": "Insecta", "order": "Odonata", "family": "Libellulidae", "genus": "Crocothemis",
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "className": "Insecta",
+    "order": "Odonata",
+    "family": "Libellulidae",
+    "genus": "Crocothemis",
     "descriptionEn": "A medium-sized dragonfly. Mature males are bright red all over; females and young males are yellowish-brown.",
     "descriptionVi": "Loài chuồn chuồn cỡ trung bình. Con đực trưởng thành đỏ rực toàn thân; con cái và con đực non có màu nâu vàng.",
-    "habitats": ["freshwater", "grassland"],
-    "diet": ["mosquitoes and midges", "other small flying insects"],
-    "dietVi": ["muỗi và ruồi nhỏ", "côn trùng bay nhỏ khác"],
-    "size": "Body about 4 cm long", "sizeVi": "Thân dài khoảng 4 cm",
+    "habitats": [
+      "freshwater",
+      "grassland"
+    ],
+    "diet": [
+      "mosquitoes and midges",
+      "other small flying insects"
+    ],
+    "dietVi": [
+      "muỗi và ruồi nhỏ",
+      "côn trùng bay nhỏ khác"
+    ],
+    "size": "Body about 4 cm long",
+    "sizeVi": "Thân dài khoảng 4 cm",
     "conservationStatus": "LC",
     "behaviorEn": "Males perch on plant stems at the water's edge and dart out to chase rivals and catch prey, returning again and again to the same perch.",
     "behaviorVi": "Con đực đậu trên thân cây sát mép nước, lao ra đuổi đối thủ và bắt mồi rồi quay lại đúng chỗ đậu cũ nhiều lần.",
-    "adaptationsEn": ["Huge compound eyes give almost all-round vision", "Four independently driven wings allow hovering and instant changes of direction", "The aquatic larva shoots out a hinged lower lip to grab prey"],
-    "adaptationsVi": ["Cặp mắt kép rất lớn cho tầm nhìn gần như toàn cảnh", "Bốn cánh vận động độc lập cho phép bay treo và đổi hướng tức thì", "Ấu trùng sống dưới nước phóng môi dưới có khớp ra để chộp mồi"],
+    "adaptationsEn": [
+      "Huge compound eyes give almost all-round vision",
+      "Four independently driven wings allow hovering and instant changes of direction",
+      "The aquatic larva shoots out a hinged lower lip to grab prey"
+    ],
+    "adaptationsVi": [
+      "Cặp mắt kép rất lớn cho tầm nhìn gần như toàn cảnh",
+      "Bốn cánh vận động độc lập cho phép bay treo và đổi hướng tức thì",
+      "Ấu trùng sống dưới nước phóng môi dưới có khớp ra để chộp mồi"
+    ],
     "ecologicalRoleEn": "Both adults and larvae are predators of mosquitoes and other small insects.",
     "ecologicalRoleVi": "Cả con trưởng thành lẫn ấu trùng đều là loài săn muỗi và côn trùng nhỏ khác.",
-    "interestingFactsEn": ["Dragonfly larvae live under water for months before the adult emerges.", "In Vietnam, low-flying dragonflies are a folk sign that rain is coming."],
-    "interestingFactsVi": ["Ấu trùng chuồn chuồn sống dưới nước nhiều tháng trước khi lột xác thành con trưởng thành.", "Ca dao Việt Nam có câu: 'Chuồn chuồn bay thấp thì mưa'."],
-    "model": "dragonfly"
+    "interestingFactsEn": [
+      "Dragonfly larvae live under water for months before the adult emerges.",
+      "In Vietnam, low-flying dragonflies are a folk sign that rain is coming."
+    ],
+    "interestingFactsVi": [
+      "Ấu trùng chuồn chuồn sống dưới nước nhiều tháng trước khi lột xác thành con trưởng thành.",
+      "Ca dao Việt Nam có câu: 'Chuồn chuồn bay thấp thì mưa'."
+    ],
+    "model": "dragonfly",
+    "commonNameKo": "고추잠자리",
+    "descriptionKo": "중간 크기의 잠자리입니다. 다 자란 수컷은 온몸이 선명한 붉은색이고, 암컷과 어린 수컷은 황갈색입니다.",
+    "dietKo": [
+      "모기와 작은 파리",
+      "기타 작은 날 곤충"
+    ],
+    "sizeKo": "몸길이 약 4cm",
+    "behaviorKo": "수컷이 물가의 식물 줄기에 앉아 있다가 라이벌을 쫓고 먹이를 잡으러 튀어 나갔다가 같은 자리로 계속 돌아옵니다.",
+    "adaptationsKo": [
+      "거대한 겹눈으로 거의 전방위를 봅니다",
+      "독립적으로 움직이는 네 날개로 정지 비행과 즉각적인 방향 전환을 합니다",
+      "수생 유충은 경첩 달린 아랫입술을 쏘아 먹이를 낚아챕니다"
+    ],
+    "ecologicalRoleKo": "성충과 유충 모두 모기와 다른 작은 곤충의 포식자입니다.",
+    "interestingFactsKo": [
+      "잠자리 유충은 성충이 되기 전 몇 달 동안 물속에서 삽니다.",
+      "베트남에서는 낮게 나는 잠자리가 비를 예고하는 민간 징조입니다."
+    ]
   },
   {
     "id": "xylotrupes-gideon",
@@ -511,21 +1585,68 @@
     "commonNameEn": "Brown rhinoceros beetle",
     "commonNameVi": "Kiến vương hai sừng",
     "scientificName": "Xylotrupes gideon",
-    "kingdom": "Animalia", "phylum": "Arthropoda", "className": "Insecta", "order": "Coleoptera", "family": "Scarabaeidae", "genus": "Xylotrupes",
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "className": "Insecta",
+    "order": "Coleoptera",
+    "family": "Scarabaeidae",
+    "genus": "Xylotrupes",
     "descriptionEn": "A large, glossy reddish-brown to black beetle. Males carry two forked horns, one on the head and one on the thorax, that close like pincers.",
     "descriptionVi": "Loài bọ cánh cứng lớn, bóng, màu nâu đỏ đến đen. Con đực mang hai sừng chẻ đôi, một trên đầu và một trên ngực, khép lại như gọng kìm.",
-    "habitats": ["rainforest", "ruins"],
-    "diet": ["tree sap and rotting fruit (adults)", "decaying wood and compost (larvae)"],
-    "dietVi": ["nhựa cây và quả chín rữa (con trưởng thành)", "gỗ mục và mùn (ấu trùng)"],
-    "size": "Males 3.5–7 cm long", "sizeVi": "Con đực dài 3,5–7 cm",
+    "habitats": [
+      "rainforest",
+      "ruins"
+    ],
+    "diet": [
+      "tree sap and rotting fruit (adults)",
+      "decaying wood and compost (larvae)"
+    ],
+    "dietVi": [
+      "nhựa cây và quả chín rữa (con trưởng thành)",
+      "gỗ mục và mùn (ấu trùng)"
+    ],
+    "size": "Males 3.5–7 cm long",
+    "sizeVi": "Con đực dài 3,5–7 cm",
     "behaviorEn": "Active at night and attracted to lights. Males use their horns to lever rivals off branches in contests over feeding sites and females.",
     "behaviorVi": "Hoạt động ban đêm và bị ánh đèn thu hút. Con đực dùng sừng bẩy đối thủ khỏi cành cây khi tranh giành chỗ ăn và con cái.",
-    "adaptationsEn": ["Horn size depends on how well the larva was fed", "It hisses by rubbing the abdomen against the wing cases when disturbed", "Hooked claws grip bark tightly"],
-    "adaptationsVi": ["Kích thước sừng phụ thuộc vào lượng dinh dưỡng ấu trùng nhận được", "Khi bị quấy rầy, nó phát tiếng rít bằng cách cọ bụng vào cánh cứng", "Móng có móc bám chặt vào vỏ cây"],
+    "adaptationsEn": [
+      "Horn size depends on how well the larva was fed",
+      "It hisses by rubbing the abdomen against the wing cases when disturbed",
+      "Hooked claws grip bark tightly"
+    ],
+    "adaptationsVi": [
+      "Kích thước sừng phụ thuộc vào lượng dinh dưỡng ấu trùng nhận được",
+      "Khi bị quấy rầy, nó phát tiếng rít bằng cách cọ bụng vào cánh cứng",
+      "Móng có móc bám chặt vào vỏ cây"
+    ],
     "ecologicalRoleEn": "Its larvae break down dead wood and return nutrients to the forest soil.",
     "ecologicalRoleVi": "Ấu trùng phân hủy gỗ mục và trả lại chất dinh dưỡng cho đất rừng.",
-    "interestingFactsEn": ["Beetle-fighting contests using this group of beetles are a traditional pastime in northern Thailand.", "Rhinoceros beetles can lift many times their own weight."],
-    "interestingFactsVi": ["Chọi kiến vương là thú chơi truyền thống ở miền Bắc Thái Lan.", "Kiến vương có thể nâng vật nặng gấp nhiều lần trọng lượng cơ thể."],
-    "model": "rhinoBeetle"
+    "interestingFactsEn": [
+      "Beetle-fighting contests using this group of beetles are a traditional pastime in northern Thailand.",
+      "Rhinoceros beetles can lift many times their own weight."
+    ],
+    "interestingFactsVi": [
+      "Chọi kiến vương là thú chơi truyền thống ở miền Bắc Thái Lan.",
+      "Kiến vương có thể nâng vật nặng gấp nhiều lần trọng lượng cơ thể."
+    ],
+    "model": "rhinoBeetle",
+    "commonNameKo": "두뿔코뿔소풍뎅이",
+    "descriptionKo": "크고 윤기 나는 적갈색에서 검은색의 딱정벌레입니다. 수컷은 머리와 가슴에 하나씩, 집게처럼 맞물리는 갈라진 뿔 두 개를 지녔습니다.",
+    "dietKo": [
+      "수액과 썩은 열매 (성충)",
+      "썩은 나무와 퇴비 (유충)"
+    ],
+    "sizeKo": "수컷 3.5–7cm",
+    "behaviorKo": "밤에 활동하며 불빛에 끌립니다. 수컷은 먹이 자리와 암컷을 두고 뿔로 라이벌을 가지에서 들어 올려 밀어냅니다.",
+    "adaptationsKo": [
+      "뿔 크기는 유충이 얼마나 잘 먹었는지에 따라 달라집니다",
+      "방해받으면 배를 날개덮개에 문질러 쉿쉿 소리를 냅니다",
+      "갈고리 발톱이 나무껍질을 단단히 움켜쥡니다"
+    ],
+    "ecologicalRoleKo": "유충이 죽은 나무를 분해해 양분을 숲 흙으로 돌려보냅니다.",
+    "interestingFactsKo": [
+      "이 무리 딱정벌레를 이용한 벌레 싸움은 태국 북부의 전통 놀이입니다.",
+      "코뿔소풍뎅이는 자기 몸무게의 몇 배를 들어 올릴 수 있습니다."
+    ]
   }
 ]

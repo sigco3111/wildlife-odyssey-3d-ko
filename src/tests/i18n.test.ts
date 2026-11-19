@@ -6,6 +6,7 @@ import { BEHAVIORS } from '../entities/wildlife/types';
 import { en } from '../i18n/en';
 import { directionKey, isTextKey, translate, translateDynamic } from '../i18n/translate';
 import { vi } from '../i18n/vi';
+import { ko } from '../i18n/ko';
 import { INTERACTABLES } from '../world/structures/structures';
 import { LANDMARKS } from '../world/terrain/layout';
 
@@ -16,11 +17,17 @@ describe('localisation', () => {
     expect(Object.keys(vi).sort()).toEqual(Object.keys(en).sort());
   });
 
+  it('has identical key sets in Korean and English', () => {
+    expect(Object.keys(ko).sort()).toEqual(Object.keys(en).sort());
+  });
+
   it('has no empty strings and matching placeholders', () => {
     for (const key of Object.keys(en) as (keyof typeof en)[]) {
       expect(en[key].trim(), key).not.toBe('');
       expect(vi[key].trim(), key).not.toBe('');
       expect(placeholders(vi[key]), key).toEqual(placeholders(en[key]));
+      expect(ko[key].trim(), key).not.toBe('');
+      expect(placeholders(ko[key]), key).toEqual(placeholders(en[key]));
     }
   });
 
@@ -34,6 +41,7 @@ describe('localisation', () => {
   it('interpolates parameters', () => {
     expect(translate('en', 'hud.waypoint', { n: 42 })).toBe('Waypoint 42 m');
     expect(translate('vi', 'journal.discovered', { n: 3, total: 36 })).toBe('Đã khám phá 3 trên 36 loài');
+    expect(translate('ko', 'journal.discovered', { n: 3, total: 36 })).toBe('36종 중 3종 발견');
   });
 
   it('covers every dynamically built key', () => {

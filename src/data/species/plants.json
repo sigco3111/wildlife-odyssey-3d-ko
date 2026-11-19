@@ -5,21 +5,58 @@
     "commonNameEn": "Resin tree (Yang)",
     "commonNameVi": "Dầu rái",
     "scientificName": "Dipterocarpus alatus",
-    "kingdom": "Plantae", "phylum": "Tracheophyta", "className": "Magnoliopsida", "order": "Malvales", "family": "Dipterocarpaceae", "genus": "Dipterocarpus",
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "className": "Magnoliopsida",
+    "order": "Malvales",
+    "family": "Dipterocarpaceae",
+    "genus": "Dipterocarpus",
     "descriptionEn": "A towering rainforest tree with a straight, cylindrical grey trunk that rises unbranched to a high crown of large leathery leaves.",
     "descriptionVi": "Cây gỗ rừng mưa cao lớn, thân thẳng hình trụ màu xám, không phân cành cho tới tán lá cao gồm những lá to, dai.",
-    "habitats": ["rainforest", "ruins"],
-    "size": "Commonly 30–40 m tall", "sizeVi": "Thường cao 30–40 m",
+    "habitats": [
+      "rainforest",
+      "ruins"
+    ],
+    "size": "Commonly 30–40 m tall",
+    "sizeVi": "Thường cao 30–40 m",
     "conservationStatus": "VU",
     "behaviorEn": "Evergreen. It often grows along rivers and on deep, moist soils, where its crown rises above the surrounding canopy.",
     "behaviorVi": "Cây thường xanh. Dầu rái hay mọc ven sông và trên đất sâu, ẩm, nơi tán của nó vươn cao hơn tầng tán xung quanh.",
-    "adaptationsEn": ["Each fruit has two long wings and spins like a helicopter as it falls, carrying the seed away from the parent", "A tall, branch-free trunk lifts the leaves into full sunlight", "Wounds ooze an oily resin that seals the bark against insects and fungi"],
-    "adaptationsVi": ["Mỗi quả có hai cánh dài, xoay tròn như chong chóng khi rơi và mang hạt ra xa cây mẹ", "Thân cao không cành đưa lá lên nơi có đủ ánh nắng", "Vết thương tiết ra nhựa dầu bịt kín vỏ cây chống côn trùng và nấm"],
+    "adaptationsEn": [
+      "Each fruit has two long wings and spins like a helicopter as it falls, carrying the seed away from the parent",
+      "A tall, branch-free trunk lifts the leaves into full sunlight",
+      "Wounds ooze an oily resin that seals the bark against insects and fungi"
+    ],
+    "adaptationsVi": [
+      "Mỗi quả có hai cánh dài, xoay tròn như chong chóng khi rơi và mang hạt ra xa cây mẹ",
+      "Thân cao không cành đưa lá lên nơi có đủ ánh nắng",
+      "Vết thương tiết ra nhựa dầu bịt kín vỏ cây chống côn trùng và nấm"
+    ],
     "ecologicalRoleEn": "An emergent tree that forms the framework of lowland forest and provides nest sites and food for canopy animals.",
     "ecologicalRoleVi": "Cây vượt tán tạo nên bộ khung của rừng đất thấp, là nơi làm tổ và nguồn thức ăn cho động vật sống trên tán.",
-    "interestingFactsEn": ["Its resin was traditionally tapped to waterproof boats and baskets.", "The genus name Dipterocarpus means 'two-winged fruit'."],
-    "interestingFactsVi": ["Nhựa dầu rái xưa được khai thác để trét thuyền và thúng cho kín nước.", "Tên chi Dipterocarpus có nghĩa là 'quả hai cánh'."],
-    "model": "dipterocarpus-alatus"
+    "interestingFactsEn": [
+      "Its resin was traditionally tapped to waterproof boats and baskets.",
+      "The genus name Dipterocarpus means 'two-winged fruit'."
+    ],
+    "interestingFactsVi": [
+      "Nhựa dầu rái xưa được khai thác để trét thuyền và thúng cho kín nước.",
+      "Tên chi Dipterocarpus có nghĩa là 'quả hai cánh'."
+    ],
+    "model": "dipterocarpus-alatus",
+    "commonNameKo": "수지나무 (양나무)",
+    "descriptionKo": "곧고 원통형의 회색 줄기가 가지를 치지 않은 채 크고 가죽 같은 잎의 높은 수관까지 솟아오르는 웅장한 열대 우림 나무입니다.",
+    "sizeKo": "보통 높이 30–40m",
+    "behaviorKo": "상록수입니다. 강변과 깊고 축축한 토양에서 자라며, 수관이 주변 숲 지붕 위로 솟아오릅니다.",
+    "adaptationsKo": [
+      "열매마다 두 개의 긴 날개가 있어 떨어질 때 헬리콥터처럼 회전하며 씨앗을 어미에서 멀리 나릅니다",
+      "가지 없는 높은 줄기가 잎을 햇빛 가득한 곳으로 올려줍니다",
+      "상처에서 나오는 기름진 수지가 껍질을 봉해 곤충과 곰팡이를 막습니다"
+    ],
+    "ecologicalRoleKo": "저지대 숲의 골격을 이루는 우세목으로, 수관 동물에게 둥지 자리와 먹이를 제공합니다.",
+    "interestingFactsKo": [
+      "수지는 전통적으로 배와 바구니를 방수하는 데 캐내어 썼습니다.",
+      "속명 Dipterocarpus는 '두 날개 달린 열매'라는 뜻입니다."
+    ]
   },
   {
     "id": "caryota-mitis",
@@ -27,20 +64,58 @@
     "commonNameEn": "Clustering fishtail palm",
     "commonNameVi": "Đủng đỉnh",
     "scientificName": "Caryota mitis",
-    "kingdom": "Plantae", "phylum": "Tracheophyta", "className": "Liliopsida", "order": "Arecales", "family": "Arecaceae", "genus": "Caryota",
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "className": "Liliopsida",
+    "order": "Arecales",
+    "family": "Arecaceae",
+    "genus": "Caryota",
     "descriptionEn": "A clumping understorey palm with several slender stems and twice-divided leaves whose ragged, wedge-shaped leaflets look like fish tails.",
     "descriptionVi": "Loài cau dừa mọc thành bụi dưới tán rừng, có nhiều thân mảnh và lá kép hai lần với các lá chét hình nêm, mép rách trông như đuôi cá.",
-    "habitats": ["rainforest", "ruins", "freshwater"],
-    "size": "Stems 3–10 m tall", "sizeVi": "Thân cao 3–10 m",
+    "habitats": [
+      "rainforest",
+      "ruins",
+      "freshwater"
+    ],
+    "size": "Stems 3–10 m tall",
+    "sizeVi": "Thân cao 3–10 m",
     "behaviorEn": "Each stem flowers only once: flower clusters open from the top of the stem downwards over several years, and then that stem dies while new suckers replace it.",
     "behaviorVi": "Mỗi thân chỉ ra hoa một lần: các buồng hoa nở lần lượt từ ngọn xuống gốc trong vài năm, rồi thân đó chết đi và chồi mới mọc lên thay thế.",
-    "adaptationsEn": ["Suckers from the base keep the clump alive after individual stems die", "Twice-divided leaves are unique to fishtail palms among the palm family", "Needle-like crystals in the fruit irritate the mouths of animals that chew it"],
-    "adaptationsVi": ["Chồi từ gốc giúp bụi cây sống tiếp sau khi từng thân chết đi", "Lá kép hai lần là đặc điểm chỉ có ở nhóm đủng đỉnh trong họ Cau", "Tinh thể hình kim trong quả gây ngứa rát cho động vật nhai phải"],
+    "adaptationsEn": [
+      "Suckers from the base keep the clump alive after individual stems die",
+      "Twice-divided leaves are unique to fishtail palms among the palm family",
+      "Needle-like crystals in the fruit irritate the mouths of animals that chew it"
+    ],
+    "adaptationsVi": [
+      "Chồi từ gốc giúp bụi cây sống tiếp sau khi từng thân chết đi",
+      "Lá kép hai lần là đặc điểm chỉ có ở nhóm đủng đỉnh trong họ Cau",
+      "Tinh thể hình kim trong quả gây ngứa rát cho động vật nhai phải"
+    ],
     "ecologicalRoleEn": "Its fruits are eaten and dispersed by civets and birds, and the dense clumps shelter small animals.",
     "ecologicalRoleVi": "Quả được cầy và chim ăn rồi phát tán; bụi cây rậm là nơi trú ẩn của động vật nhỏ.",
-    "interestingFactsEn": ["Fresh fruit pulp can cause intense itching if handled.", "In Vietnam its leaves are often used to decorate wedding gateways."],
-    "interestingFactsVi": ["Thịt quả tươi có thể gây ngứa dữ dội khi chạm vào.", "Ở Việt Nam, lá đủng đỉnh thường được dùng trang trí cổng cưới."],
-    "model": "caryota-mitis"
+    "interestingFactsEn": [
+      "Fresh fruit pulp can cause intense itching if handled.",
+      "In Vietnam its leaves are often used to decorate wedding gateways."
+    ],
+    "interestingFactsVi": [
+      "Thịt quả tươi có thể gây ngứa dữ dội khi chạm vào.",
+      "Ở Việt Nam, lá đủng đỉnh thường được dùng trang trí cổng cưới."
+    ],
+    "model": "caryota-mitis",
+    "commonNameKo": "군생어유야자",
+    "descriptionKo": "여러 개의 가는 줄기를 지닌 덤불 모양의 하층 야자로, 두 번 갈라진 잎의 쐐기 모양, 헝클어진 소엽이 물고기 꼬리처럼 보입니다.",
+    "sizeKo": "줄기 높이 3–10m",
+    "behaviorKo": "각 줄기는 한 번만 꽃을 피웁니다. 꽃송이가 몇 년에 걸쳐 줄기 꼭대기부터 아래로 피고, 그 줄기는 죽고 새 빨판이 대신 자랍니다.",
+    "adaptationsKo": [
+      "밑동의 빨판이 개별 줄기가 죽은 뒤에도 덤불을 살려둡니다",
+      "두 번 갈라진 잎은 야자과에서 어유야자 무리에만 있는 특징입니다",
+      "열매 속 바늘 모양 결정이 씹어 먹는 동물의 입을 자극합니다"
+    ],
+    "ecologicalRoleKo": "열매가 사향고양이와 새에 의해 먹히고 퍼지며, 빽빽한 덤불이 작은 동물의 은신처가 됩니다.",
+    "interestingFactsKo": [
+      "생 열매 과육을 만지면 심한 가려움을 유발할 수 있습니다.",
+      "베트남에서는 잎을 혼례 문 장식에 자주 씁니다."
+    ]
   },
   {
     "id": "bambusa-vulgaris",
@@ -48,20 +123,57 @@
     "commonNameEn": "Common bamboo",
     "commonNameVi": "Tre mỡ",
     "scientificName": "Bambusa vulgaris",
-    "kingdom": "Plantae", "phylum": "Tracheophyta", "className": "Liliopsida", "order": "Poales", "family": "Poaceae", "genus": "Bambusa",
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "className": "Liliopsida",
+    "order": "Poales",
+    "family": "Poaceae",
+    "genus": "Bambusa",
     "descriptionEn": "A giant grass that grows in open clumps of thick, jointed, hollow culms that arch outwards at the top.",
     "descriptionVi": "Một loài cỏ khổng lồ mọc thành bụi thưa gồm những thân rỗng, có đốt, to và cong rủ ra ngoài ở ngọn.",
-    "habitats": ["freshwater", "rainforest"],
-    "size": "Culms 10–20 m tall and 4–10 cm thick", "sizeVi": "Thân cao 10–20 m, đường kính 4–10 cm",
+    "habitats": [
+      "freshwater",
+      "rainforest"
+    ],
+    "size": "Culms 10–20 m tall and 4–10 cm thick",
+    "sizeVi": "Thân cao 10–20 m, đường kính 4–10 cm",
     "behaviorEn": "New shoots emerge at full thickness and grow extremely fast in the rainy season, reaching their final height within a few months.",
     "behaviorVi": "Măng mọc lên đã có đường kính tối đa và lớn rất nhanh trong mùa mưa, đạt chiều cao cuối cùng chỉ sau vài tháng.",
-    "adaptationsEn": ["Hollow, jointed stems are light yet strong and bend in the wind without breaking", "Short, thick underground stems keep the plant in a tight clump", "Silica in the tissues makes the culms hard and tough"],
-    "adaptationsVi": ["Thân rỗng có đốt vừa nhẹ vừa bền, uốn theo gió mà không gãy", "Thân ngầm ngắn, mập giữ cho cây mọc thành bụi gọn", "Silic trong mô làm thân cứng và dai"],
+    "adaptationsEn": [
+      "Hollow, jointed stems are light yet strong and bend in the wind without breaking",
+      "Short, thick underground stems keep the plant in a tight clump",
+      "Silica in the tissues makes the culms hard and tough"
+    ],
+    "adaptationsVi": [
+      "Thân rỗng có đốt vừa nhẹ vừa bền, uốn theo gió mà không gãy",
+      "Thân ngầm ngắn, mập giữ cho cây mọc thành bụi gọn",
+      "Silic trong mô làm thân cứng và dai"
+    ],
     "ecologicalRoleEn": "Its dense roots hold river banks together and its clumps give cover to birds and small mammals.",
     "ecologicalRoleVi": "Bộ rễ dày giữ đất bờ sông, bụi tre là nơi trú ẩn của chim và thú nhỏ.",
-    "interestingFactsEn": ["Bamboos are grasses, not trees.", "This species flowers very rarely and almost never sets seed; it spreads by cuttings and offsets."],
-    "interestingFactsVi": ["Tre là cỏ chứ không phải cây gỗ.", "Loài này rất hiếm khi ra hoa và hầu như không kết hạt; nó nhân giống bằng hom và chồi gốc."],
-    "model": "bambusa-vulgaris"
+    "interestingFactsEn": [
+      "Bamboos are grasses, not trees.",
+      "This species flowers very rarely and almost never sets seed; it spreads by cuttings and offsets."
+    ],
+    "interestingFactsVi": [
+      "Tre là cỏ chứ không phải cây gỗ.",
+      "Loài này rất hiếm khi ra hoa và hầu như không kết hạt; nó nhân giống bằng hom và chồi gốc."
+    ],
+    "model": "bambusa-vulgaris",
+    "commonNameKo": "보통대나무",
+    "descriptionKo": "굵고 마디가 있으며 속이 빈 줄기가 위로 갈수록 바깥으로 휘어지는 열린 포기로 자라는 거대한 풀입니다.",
+    "sizeKo": "줄기 높이 10–20m, 굵기 4–10cm",
+    "behaviorKo": "새싹이 처음부터 다 자란 굵기로 나와 우기에 극도로 빨리 자라 몇 달 안에 최종 높이에 도달합니다.",
+    "adaptationsKo": [
+      "속이 비고 마디진 줄기는 가볍지만 튼튼해 바람에 구부러져도 부러지지 않습니다",
+      "짧고 굵은 지하 줄기가 식물을 조밀한 포기로 유지합니다",
+      "조직 속 규소가 줄기를 단단하고 질기게 만듭니다"
+    ],
+    "ecologicalRoleKo": "빽빽한 뿌리가 강둑을 묶어주고, 포기가 새와 작은 포유류에게 은신처가 됩니다.",
+    "interestingFactsKo": [
+      "대나무는 나무가 아니라 풀입니다.",
+      "이 종은 꽃을 아주 드물게 피우고 거의 씨를 맺지 않아 삽목과 포기 나누기로 번식합니다."
+    ]
   },
   {
     "id": "ficus-religiosa",
@@ -69,20 +181,56 @@
     "commonNameEn": "Sacred fig (Bodhi tree)",
     "commonNameVi": "Bồ đề",
     "scientificName": "Ficus religiosa",
-    "kingdom": "Plantae", "phylum": "Tracheophyta", "className": "Magnoliopsida", "order": "Rosales", "family": "Moraceae", "genus": "Ficus",
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "className": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Moraceae",
+    "genus": "Ficus",
     "descriptionEn": "A large fig tree with a fluted trunk and broad crown. Its heart-shaped leaves end in a long, slender tip and tremble in the lightest breeze.",
     "descriptionVi": "Cây đa sung lớn có thân nổi múi và tán rộng. Lá hình tim, đầu lá kéo dài thành mũi nhọn mảnh và rung rinh trước làn gió nhẹ nhất.",
-    "habitats": ["ruins"],
-    "size": "Up to about 30 m tall", "sizeVi": "Cao tới khoảng 30 m",
+    "habitats": [
+      "ruins"
+    ],
+    "size": "Up to about 30 m tall",
+    "sizeVi": "Cao tới khoảng 30 m",
     "behaviorEn": "Seeds dropped by birds often germinate in cracks of walls or on other trees. The young fig sends roots down to the ground and, over decades, can envelop and split the stonework it grows on.",
     "behaviorVi": "Hạt do chim thải ra thường nảy mầm trong kẽ tường hoặc trên cây khác. Cây non thả rễ xuống đất và qua nhiều thập kỷ có thể ôm trùm, làm nứt vỡ khối đá nơi nó mọc.",
-    "adaptationsEn": ["The long 'drip tip' sheds rainwater quickly from the leaf", "It can start life as an epiphyte, high up in the light", "Each fig is pollinated by tiny wasps that breed inside the fruit"],
-    "adaptationsVi": ["'Mũi nhỏ giọt' dài giúp lá thoát nước mưa nhanh", "Có thể bắt đầu cuộc sống như cây phụ sinh ở trên cao, nơi nhiều ánh sáng", "Mỗi quả được thụ phấn nhờ những con ong sung tí hon sinh sản bên trong quả"],
+    "adaptationsEn": [
+      "The long 'drip tip' sheds rainwater quickly from the leaf",
+      "It can start life as an epiphyte, high up in the light",
+      "Each fig is pollinated by tiny wasps that breed inside the fruit"
+    ],
+    "adaptationsVi": [
+      "'Mũi nhỏ giọt' dài giúp lá thoát nước mưa nhanh",
+      "Có thể bắt đầu cuộc sống như cây phụ sinh ở trên cao, nơi nhiều ánh sáng",
+      "Mỗi quả được thụ phấn nhờ những con ong sung tí hon sinh sản bên trong quả"
+    ],
     "ecologicalRoleEn": "Its figs feed hornbills, bulbuls, squirrels and many other animals, making figs a keystone food source in tropical forests.",
     "ecologicalRoleVi": "Quả là thức ăn của hồng hoàng, chào mào, sóc và nhiều loài khác, khiến các loài sung đa trở thành nguồn thức ăn then chốt của rừng nhiệt đới.",
-    "interestingFactsEn": ["It is revered in Buddhism as the tree under which the Buddha attained enlightenment.", "Individual sacred figs are known to have lived for well over a thousand years."],
-    "interestingFactsVi": ["Trong Phật giáo, đây là loài cây mà Đức Phật đã ngồi thiền và giác ngộ dưới gốc.", "Có những cây bồ đề được ghi nhận sống hơn một nghìn năm."],
-    "model": "ficus-religiosa"
+    "interestingFactsEn": [
+      "It is revered in Buddhism as the tree under which the Buddha attained enlightenment.",
+      "Individual sacred figs are known to have lived for well over a thousand years."
+    ],
+    "interestingFactsVi": [
+      "Trong Phật giáo, đây là loài cây mà Đức Phật đã ngồi thiền và giác ngộ dưới gốc.",
+      "Có những cây bồ đề được ghi nhận sống hơn một nghìn năm."
+    ],
+    "model": "ficus-religiosa",
+    "commonNameKo": "보리수 (인도보리수)",
+    "descriptionKo": "홈이 파인 줄기와 넓은 수관을 지닌 큰 무화과나무입니다. 하트 모양 잎은 길고 가는 끝으로 이어지고 가장 가벼운 바람에도 떨립니다.",
+    "sizeKo": "높이 최대 약 30m",
+    "behaviorKo": "새가 떨어뜨린 씨앗이 벽 틈이나 다른 나무에서 싹틉니다. 어린 보리수는 뿌리를 땅으로 내려보내고, 수십 년에 걸쳐 자라는 석조물을 감싸고 갈라뜨릴 수 있습니다.",
+    "adaptationsKo": [
+      "긴 '물방울 끝'이 빗물을 잎에서 빠르게 흘려보냅니다",
+      "빛이 드는 높은 곳에서 착생 식물로 생을 시작할 수 있습니다",
+      "각 무화과는 열매 안에서 번식하는 작은 벌에 의해 수분됩니다"
+    ],
+    "ecologicalRoleKo": "무화과가 코뿔새, 불불, 다람쥐 등 많은 동물을 먹여 살려 열대 숲의 핵심 먹이원이 됩니다.",
+    "interestingFactsKo": [
+      "불교에서 부처가 깨달음을 얻은 나무로 숭상됩니다.",
+      "천 년 이상 산 보리수 개체가 알려져 있습니다."
+    ]
   },
   {
     "id": "pinus-kesiya",
@@ -90,21 +238,57 @@
     "commonNameEn": "Khasi pine",
     "commonNameVi": "Thông ba lá",
     "scientificName": "Pinus kesiya",
-    "kingdom": "Plantae", "phylum": "Tracheophyta", "className": "Pinopsida", "order": "Pinales", "family": "Pinaceae", "genus": "Pinus",
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "className": "Pinopsida",
+    "order": "Pinales",
+    "family": "Pinaceae",
+    "genus": "Pinus",
     "descriptionEn": "A tall pine with thick, deeply cracked reddish-brown bark and slender needles carried in bundles of three.",
     "descriptionVi": "Loài thông cao, vỏ dày nứt sâu màu nâu đỏ, lá kim mảnh mọc thành cụm ba lá.",
-    "habitats": ["mountain"],
-    "size": "Up to 30–35 m tall", "sizeVi": "Cao tới 30–35 m",
+    "habitats": [
+      "mountain"
+    ],
+    "size": "Up to 30–35 m tall",
+    "sizeVi": "Cao tới 30–35 m",
     "conservationStatus": "LC",
     "behaviorEn": "Forms open, sunlit stands on hills and mountain slopes with a seasonal dry period. In the real world it grows at higher altitudes than this reserve's compressed mountain.",
     "behaviorVi": "Mọc thành rừng thưa, nhiều nắng trên đồi và sườn núi có mùa khô. Ngoài thực tế, loài này sống ở độ cao lớn hơn so với ngọn núi thu nhỏ của khu bảo tồn trong trò chơi.",
-    "adaptationsEn": ["Thick bark protects the living tissue from ground fires", "Needle leaves with a waxy coating lose little water", "Winged seeds are carried away from the parent by wind"],
-    "adaptationsVi": ["Vỏ dày bảo vệ mô sống khỏi lửa cháy mặt đất", "Lá kim phủ sáp giúp giảm mất nước", "Hạt có cánh được gió mang đi xa cây mẹ"],
+    "adaptationsEn": [
+      "Thick bark protects the living tissue from ground fires",
+      "Needle leaves with a waxy coating lose little water",
+      "Winged seeds are carried away from the parent by wind"
+    ],
+    "adaptationsVi": [
+      "Vỏ dày bảo vệ mô sống khỏi lửa cháy mặt đất",
+      "Lá kim phủ sáp giúp giảm mất nước",
+      "Hạt có cánh được gió mang đi xa cây mẹ"
+    ],
     "ecologicalRoleEn": "A pioneer that colonises open, burnt or eroded slopes and stabilises thin mountain soils.",
     "ecologicalRoleVi": "Cây tiên phong chiếm lĩnh các sườn dốc trống, bị cháy hoặc xói mòn và giữ lớp đất mỏng trên núi.",
-    "interestingFactsEn": ["The Vietnamese name means 'three-needle pine'.", "It is the pine of the famous forests around Đà Lạt."],
-    "interestingFactsVi": ["Tên gọi 'thông ba lá' xuất phát từ việc lá mọc thành cụm ba chiếc.", "Đây là loài thông của những cánh rừng nổi tiếng quanh Đà Lạt."],
-    "model": "pinus-kesiya"
+    "interestingFactsEn": [
+      "The Vietnamese name means 'three-needle pine'.",
+      "It is the pine of the famous forests around Đà Lạt."
+    ],
+    "interestingFactsVi": [
+      "Tên gọi 'thông ba lá' xuất phát từ việc lá mọc thành cụm ba chiếc.",
+      "Đây là loài thông của những cánh rừng nổi tiếng quanh Đà Lạt."
+    ],
+    "model": "pinus-kesiya",
+    "commonNameKo": "카시소나무",
+    "descriptionKo": "두껍고 깊게 갈라진 적갈색 껍질과 세 개씩 묶여 나는 가는 바늘잎을 지닌 키 큰 소나무입니다.",
+    "sizeKo": "높이 최대 30–35m",
+    "behaviorKo": "계절적 건기가 있는 언덕과 산비탈에 햇빛이 잘 드는 성글게 자란 숲을 이룹니다. 실제로는 이 보호구의 압축된 산보다 훨씬 높은 고도에서 자랍니다.",
+    "adaptationsKo": [
+      "두꺼운 껍질이 지표 화재로부터 살아있는 조직을 보호합니다",
+      "왁스층이 있는 바늘잎이 수분 손실을 줄입니다",
+      "날개 달린 씨앗이 바람에 어미에서 멀리 날아갑니다"
+    ],
+    "ecologicalRoleKo": "탁 트이거나 불에 타거나 침식된 비탈을 개척하고 얇은 산지 토양을 안정시키는 선구 식물입니다.",
+    "interestingFactsKo": [
+      "베트남어 이름은 '세 바늘 소나무'라는 뜻입니다.",
+      "달랏 주변의 유명한 소나무숲을 이루는 소나무입니다."
+    ]
   },
   {
     "id": "bombax-ceiba",
@@ -112,20 +296,56 @@
     "commonNameEn": "Red silk-cotton tree",
     "commonNameVi": "Cây gạo (Mộc miên)",
     "scientificName": "Bombax ceiba",
-    "kingdom": "Plantae", "phylum": "Tracheophyta", "className": "Magnoliopsida", "order": "Malvales", "family": "Malvaceae", "genus": "Bombax",
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "className": "Magnoliopsida",
+    "order": "Malvales",
+    "family": "Malvaceae",
+    "genus": "Bombax",
     "descriptionEn": "A tall deciduous tree with a straight grey trunk, branches held in horizontal tiers and large, fleshy red flowers.",
     "descriptionVi": "Cây gỗ lớn rụng lá, thân thẳng màu xám, cành xếp thành tầng ngang và hoa đỏ to, dày cánh.",
-    "habitats": ["grassland"],
-    "size": "Commonly 20–25 m tall", "sizeVi": "Thường cao 20–25 m",
+    "habitats": [
+      "grassland"
+    ],
+    "size": "Commonly 20–25 m tall",
+    "sizeVi": "Thường cao 20–25 m",
     "behaviorEn": "Drops its leaves in the dry season and then flowers on bare branches in late winter and spring, before the new leaves appear.",
     "behaviorVi": "Rụng lá vào mùa khô rồi nở hoa trên cành trụi lá vào cuối đông và mùa xuân, trước khi lá non xuất hiện.",
-    "adaptationsEn": ["Young trunks are armed with stout conical spines", "Flowering while leafless makes the red blooms visible to birds from far away", "Seeds are wrapped in light cottony fibre that floats on the wind"],
-    "adaptationsVi": ["Thân non có gai hình nón cứng", "Ra hoa khi trụi lá giúp chim nhìn thấy hoa đỏ từ rất xa", "Hạt bọc trong lớp sợi bông nhẹ, bay theo gió"],
+    "adaptationsEn": [
+      "Young trunks are armed with stout conical spines",
+      "Flowering while leafless makes the red blooms visible to birds from far away",
+      "Seeds are wrapped in light cottony fibre that floats on the wind"
+    ],
+    "adaptationsVi": [
+      "Thân non có gai hình nón cứng",
+      "Ra hoa khi trụi lá giúp chim nhìn thấy hoa đỏ từ rất xa",
+      "Hạt bọc trong lớp sợi bông nhẹ, bay theo gió"
+    ],
     "ecologicalRoleEn": "Its nectar-rich flowers are a seasonal feast for birds, squirrels and bees when little else is in bloom.",
     "ecologicalRoleVi": "Hoa nhiều mật là bữa tiệc theo mùa cho chim, sóc và ong khi ít loài cây khác nở hoa.",
-    "interestingFactsEn": ["In northern Vietnam the red blossom is a well-loved sign of March.", "The silky fibre from its pods was traditionally used to stuff pillows."],
-    "interestingFactsVi": ["Ở miền Bắc Việt Nam, hoa gạo đỏ là hình ảnh thân thuộc của tháng Ba.", "Sợi bông trong quả xưa được dùng để nhồi gối."],
-    "model": "bombax-ceiba"
+    "interestingFactsEn": [
+      "In northern Vietnam the red blossom is a well-loved sign of March.",
+      "The silky fibre from its pods was traditionally used to stuff pillows."
+    ],
+    "interestingFactsVi": [
+      "Ở miền Bắc Việt Nam, hoa gạo đỏ là hình ảnh thân thuộc của tháng Ba.",
+      "Sợi bông trong quả xưa được dùng để nhồi gối."
+    ],
+    "model": "bombax-ceiba",
+    "commonNameKo": "붉은목면화나무",
+    "descriptionKo": "곧은 회색 줄기, 수평으로 층을 이루는 가지, 크고 두툼한 붉은 꽃을 지닌 키 큰 낙엽수입니다.",
+    "sizeKo": "보통 높이 20–25m",
+    "behaviorKo": "건기에 잎을 떨어뜨리고 늦겨울과 봄에 잎이 없는 가지에서 꽃을 피운 뒤 새잎이 돋습니다.",
+    "adaptationsKo": [
+      "어린 줄기에는 굵은 원뿔 모양 가시가 있습니다",
+      "잎이 없을 때 꽃을 피워 붉은 꽃이 멀리서 새에게 보입니다",
+      "씨앗은 바람에 떠다니는 가벼운 솜털 섬유에 싸여 있습니다"
+    ],
+    "ecologicalRoleKo": "꽃꿀이 풍부한 꽃이 다른 꽃이 드문 시기에 새, 다람쥐, 벌에게 계절의 잔치를 베풉니다.",
+    "interestingFactsKo": [
+      "베트남 북부에서 붉은 꽃은 3월의 사랑받는 신호입니다.",
+      "꼬투리의 비단 섬유는 전통적으로 베개를 채우는 데 쓰였습니다."
+    ]
   },
   {
     "id": "nelumbo-nucifera",
@@ -133,20 +353,56 @@
     "commonNameEn": "Sacred lotus",
     "commonNameVi": "Sen",
     "scientificName": "Nelumbo nucifera",
-    "kingdom": "Plantae", "phylum": "Tracheophyta", "className": "Magnoliopsida", "order": "Proteales", "family": "Nelumbonaceae", "genus": "Nelumbo",
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "className": "Magnoliopsida",
+    "order": "Proteales",
+    "family": "Nelumbonaceae",
+    "genus": "Nelumbo",
     "descriptionEn": "An aquatic plant rooted in mud, with large round leaves that float or stand above the water and big pink flowers on long stalks.",
     "descriptionVi": "Cây thủy sinh bám rễ trong bùn, lá tròn lớn nổi trên mặt nước hoặc vươn cao khỏi mặt nước, hoa hồng to trên cuống dài.",
-    "habitats": ["freshwater"],
-    "size": "Leaves up to 60–80 cm across; flowers 10–25 cm", "sizeVi": "Lá rộng tới 60–80 cm; hoa 10–25 cm",
+    "habitats": [
+      "freshwater"
+    ],
+    "size": "Leaves up to 60–80 cm across; flowers 10–25 cm",
+    "sizeVi": "Lá rộng tới 60–80 cm; hoa 10–25 cm",
     "behaviorEn": "Grows in the shallow margins of lakes and ponds. The flowers open in the morning and close again later in the day, each lasting only a few days.",
     "behaviorVi": "Mọc ở vùng nước nông ven hồ, ao. Hoa nở vào buổi sáng rồi khép lại trong ngày, mỗi bông chỉ tồn tại vài ngày.",
-    "adaptationsEn": ["The leaf surface is covered in microscopic waxy bumps, so water beads up and rolls off, taking dirt with it", "Air channels in the stalks carry oxygen down to roots buried in airless mud", "The flower can warm itself, which helps attract pollinating insects"],
-    "adaptationsVi": ["Mặt lá phủ những mấu sáp cực nhỏ khiến nước vo thành giọt và lăn đi, cuốn theo bụi bẩn", "Các ống khí trong cuống dẫn ôxy xuống rễ vùi trong bùn yếm khí", "Hoa có thể tự làm ấm, giúp thu hút côn trùng thụ phấn"],
+    "adaptationsEn": [
+      "The leaf surface is covered in microscopic waxy bumps, so water beads up and rolls off, taking dirt with it",
+      "Air channels in the stalks carry oxygen down to roots buried in airless mud",
+      "The flower can warm itself, which helps attract pollinating insects"
+    ],
+    "adaptationsVi": [
+      "Mặt lá phủ những mấu sáp cực nhỏ khiến nước vo thành giọt và lăn đi, cuốn theo bụi bẩn",
+      "Các ống khí trong cuống dẫn ôxy xuống rễ vùi trong bùn yếm khí",
+      "Hoa có thể tự làm ấm, giúp thu hút côn trùng thụ phấn"
+    ],
     "ecologicalRoleEn": "Its leaves shade and shelter fish, frogs and aquatic insects, and its flowers feed bees and beetles.",
     "ecologicalRoleVi": "Lá che bóng và làm nơi trú ẩn cho cá, ếch nhái và côn trùng thủy sinh; hoa là nguồn thức ăn của ong và bọ cánh cứng.",
-    "interestingFactsEn": ["Lotus seeds over a thousand years old have been germinated successfully.", "The lotus is widely regarded as the national flower of Vietnam."],
-    "interestingFactsVi": ["Hạt sen hơn một nghìn năm tuổi đã từng được ươm nảy mầm thành công.", "Hoa sen được xem là quốc hoa của Việt Nam."],
-    "model": "nelumbo-nucifera"
+    "interestingFactsEn": [
+      "Lotus seeds over a thousand years old have been germinated successfully.",
+      "The lotus is widely regarded as the national flower of Vietnam."
+    ],
+    "interestingFactsVi": [
+      "Hạt sen hơn một nghìn năm tuổi đã từng được ươm nảy mầm thành công.",
+      "Hoa sen được xem là quốc hoa của Việt Nam."
+    ],
+    "model": "nelumbo-nucifera",
+    "commonNameKo": "연꽃",
+    "descriptionKo": "진흙에 뿌리를 내린 수생 식물로, 크고 둥근 잎이 물 위에 떠 있거나 물 위로 솟아 있고, 긴 꽃자루에 큰 분홍 꽃이 핍니다.",
+    "sizeKo": "잎 지름 최대 60–80cm; 꽃 10–25cm",
+    "behaviorKo": "호수와 연못의 얕은 가장자리에서 자랍니다. 꽃은 아침에 피고 그날 늦게 다시 오므라들며, 한 송이는 며칠밖에 지속되지 않습니다.",
+    "adaptationsKo": [
+      "잎 표면이 현미경적 왁스 돌기로 덮여 물이 방울져 흘러내리며 먼지를 씻어냅니다",
+      "꽃자루의 공기 통로가 산소를 산소 없는 진흙 속 뿌리로 보냅니다",
+      "꽃이 스스로 온도를 높여 수분 곤충을 끌어들입니다"
+    ],
+    "ecologicalRoleKo": "잎이 물고기, 개구리, 수생 곤충에게 그늘과 은신처를 주고, 꽃이 벌과 딱정벌레를 먹입니다.",
+    "interestingFactsKo": [
+      "천 년이 넘은 연꽃 씨앗이 성공적으로 발아된 적이 있습니다.",
+      "연꽃은 베트남의 국화로 널리 여겨집니다."
+    ]
   },
   {
     "id": "rhododendron-simsii",
@@ -154,20 +410,56 @@
     "commonNameEn": "Sims's azalea",
     "commonNameVi": "Đỗ quyên",
     "scientificName": "Rhododendron simsii",
-    "kingdom": "Plantae", "phylum": "Tracheophyta", "className": "Magnoliopsida", "order": "Ericales", "family": "Ericaceae", "genus": "Rhododendron",
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "className": "Magnoliopsida",
+    "order": "Ericales",
+    "family": "Ericaceae",
+    "genus": "Rhododendron",
     "descriptionEn": "A twiggy shrub of hill slopes with small hairy leaves and clusters of funnel-shaped red to rose-pink flowers.",
     "descriptionVi": "Cây bụi nhiều cành nhỏ trên sườn đồi núi, lá nhỏ có lông và hoa hình phễu màu đỏ đến hồng mọc thành chùm.",
-    "habitats": ["mountain"],
-    "size": "Usually 1–2 m tall", "sizeVi": "Thường cao 1–2 m",
+    "habitats": [
+      "mountain"
+    ],
+    "size": "Usually 1–2 m tall",
+    "sizeVi": "Thường cao 1–2 m",
     "behaviorEn": "Grows on open, rocky slopes with acidic soil and flowers in spring, covering hillsides in colour.",
     "behaviorVi": "Mọc trên sườn dốc trống, nhiều đá, đất chua và nở hoa vào mùa xuân, phủ màu rực rỡ lên triền đồi.",
-    "adaptationsEn": ["Fine roots partner with specialised fungi to draw nutrients from poor, acidic soil", "Leaves and nectar contain toxins that deter grazing animals", "Hairy leaves reduce water loss on exposed slopes"],
-    "adaptationsVi": ["Rễ mảnh cộng sinh với nấm chuyên biệt để hút dinh dưỡng từ đất chua, nghèo", "Lá và mật hoa chứa độc tố khiến động vật ăn cỏ tránh xa", "Lá có lông giúp giảm mất nước trên sườn dốc lộ thiên"],
+    "adaptationsEn": [
+      "Fine roots partner with specialised fungi to draw nutrients from poor, acidic soil",
+      "Leaves and nectar contain toxins that deter grazing animals",
+      "Hairy leaves reduce water loss on exposed slopes"
+    ],
+    "adaptationsVi": [
+      "Rễ mảnh cộng sinh với nấm chuyên biệt để hút dinh dưỡng từ đất chua, nghèo",
+      "Lá và mật hoa chứa độc tố khiến động vật ăn cỏ tránh xa",
+      "Lá có lông giúp giảm mất nước trên sườn dốc lộ thiên"
+    ],
     "ecologicalRoleEn": "An early nectar source for butterflies and bees on mountain slopes, and its roots help hold thin soil in place.",
     "ecologicalRoleVi": "Nguồn mật đầu mùa cho bướm và ong trên sườn núi; bộ rễ giúp giữ lớp đất mỏng.",
-    "interestingFactsEn": ["Many of the potted azaleas sold around the world were bred from this species.", "Honey made mostly from rhododendron nectar can be poisonous to people."],
-    "interestingFactsVi": ["Nhiều giống đỗ quyên trồng chậu bán khắp thế giới được lai tạo từ loài này.", "Mật ong làm chủ yếu từ mật hoa đỗ quyên có thể gây ngộ độc cho người."],
-    "model": "rhododendron-simsii"
+    "interestingFactsEn": [
+      "Many of the potted azaleas sold around the world were bred from this species.",
+      "Honey made mostly from rhododendron nectar can be poisonous to people."
+    ],
+    "interestingFactsVi": [
+      "Nhiều giống đỗ quyên trồng chậu bán khắp thế giới được lai tạo từ loài này.",
+      "Mật ong làm chủ yếu từ mật hoa đỗ quyên có thể gây ngộ độc cho người."
+    ],
+    "model": "rhododendron-simsii",
+    "commonNameKo": "심스철쭉",
+    "descriptionKo": "작고 털이 난 잎과 깔때기 모양의 붉은색에서 장밋빛 꽃송이를 지닌 언덕 비탈의 잔가지 많은 관목입니다.",
+    "sizeKo": "보통 높이 1–2m",
+    "behaviorKo": "산성 토양의 탁 트인 바위 비탈에서 자라며 봄에 꽃을 피워 언덕을 색으로 뒤덮습니다.",
+    "adaptationsKo": [
+      "가는 뿌리가 전문 곰팡이와 공생해 척박한 산성 토양에서 양분을 끌어냅니다",
+      "잎과 꽃꿀의 독소가 풀을 뜯는 동물을 멀리합니다",
+      "털 난 잎이 노출된 비탈에서 수분 손실을 줄입니다"
+    ],
+    "ecologicalRoleKo": "산비탈에서 나비와 벌에게 이른 계절의 꽃꿀 공급원이며, 뿌리가 얇은 토양을 붙잡아 줍니다.",
+    "interestingFactsKo": [
+      "전 세계에서 팔리는 화분 철쭉 대부분이 이 종에서 육성되었습니다.",
+      "철쭉 꽃꿀로 만든 꿀은 사람에게 독이 될 수 있습니다."
+    ]
   },
   {
     "id": "melastoma-malabathricum",
@@ -175,20 +467,57 @@
     "commonNameEn": "Malabar melastome",
     "commonNameVi": "Mua",
     "scientificName": "Melastoma malabathricum",
-    "kingdom": "Plantae", "phylum": "Tracheophyta", "className": "Magnoliopsida", "order": "Myrtales", "family": "Melastomataceae", "genus": "Melastoma",
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "className": "Magnoliopsida",
+    "order": "Myrtales",
+    "family": "Melastomataceae",
+    "genus": "Melastoma",
     "descriptionEn": "A bushy shrub with rough leaves marked by several strong veins running from base to tip, and showy five-petalled magenta flowers.",
     "descriptionVi": "Cây bụi rậm, lá ráp với vài gân nổi rõ chạy từ gốc đến ngọn lá, hoa năm cánh màu tím hồng nổi bật.",
-    "habitats": ["grassland", "rainforest"],
-    "size": "1–3 m tall", "sizeVi": "Cao 1–3 m",
+    "habitats": [
+      "grassland",
+      "rainforest"
+    ],
+    "size": "1–3 m tall",
+    "sizeVi": "Cao 1–3 m",
     "behaviorEn": "A sun-loving pioneer of clearings, roadsides and forest edges that flowers and fruits for most of the year.",
     "behaviorVi": "Cây tiên phong ưa sáng ở trảng trống, ven đường và bìa rừng, ra hoa kết quả gần như quanh năm.",
-    "adaptationsEn": ["The flower has two kinds of stamens: one set feeds visiting bees while the other dusts them with pollen", "Pollen is released only when a bee vibrates the flower", "It tolerates acidic soils rich in aluminium that poison many other plants"],
-    "adaptationsVi": ["Hoa có hai kiểu nhị: một bộ nuôi ong đến thăm, bộ còn lại rắc phấn lên mình ong", "Phấn hoa chỉ được giải phóng khi ong rung bông hoa", "Chịu được đất chua giàu nhôm vốn gây độc cho nhiều loài cây khác"],
+    "adaptationsEn": [
+      "The flower has two kinds of stamens: one set feeds visiting bees while the other dusts them with pollen",
+      "Pollen is released only when a bee vibrates the flower",
+      "It tolerates acidic soils rich in aluminium that poison many other plants"
+    ],
+    "adaptationsVi": [
+      "Hoa có hai kiểu nhị: một bộ nuôi ong đến thăm, bộ còn lại rắc phấn lên mình ong",
+      "Phấn hoa chỉ được giải phóng khi ong rung bông hoa",
+      "Chịu được đất chua giàu nhôm vốn gây độc cho nhiều loài cây khác"
+    ],
     "ecologicalRoleEn": "Feeds bees with pollen and birds with berries, and helps bare ground recover after disturbance.",
     "ecologicalRoleVi": "Cung cấp phấn hoa cho ong, quả mọng cho chim và giúp đất trống phục hồi sau khi bị xáo trộn.",
-    "interestingFactsEn": ["The ripe berries stain the mouth dark; the name Melastoma means 'black mouth'.", "It is sometimes used as an indicator of acidic soil."],
-    "interestingFactsVi": ["Quả chín làm miệng nhuộm màu sẫm; tên Melastoma có nghĩa là 'miệng đen'.", "Cây mua đôi khi được dùng làm cây chỉ thị đất chua."],
-    "model": "melastoma-malabathricum"
+    "interestingFactsEn": [
+      "The ripe berries stain the mouth dark; the name Melastoma means 'black mouth'.",
+      "It is sometimes used as an indicator of acidic soil."
+    ],
+    "interestingFactsVi": [
+      "Quả chín làm miệng nhuộm màu sẫm; tên Melastoma có nghĩa là 'miệng đen'.",
+      "Cây mua đôi khi được dùng làm cây chỉ thị đất chua."
+    ],
+    "model": "melastoma-malabathricum",
+    "commonNameKo": "말라바멜라스토마",
+    "descriptionKo": "밑에서 끝까지 이어지는 여러 개의 굵은 맥이 있는 거친 잎과 화려한 다섯 장의 자주색 꽃을 지닌 빽빽한 관목입니다.",
+    "sizeKo": "높이 1–3m",
+    "behaviorKo": "빈터, 길가, 숲 가장자리의 햇빛을 좋아하는 선구 식물로, 대부분의 해에 걸쳐 꽃을 피우고 열매를 맺습니다.",
+    "adaptationsKo": [
+      "꽃에 두 종류의 수술이 있어 하나는 찾아오는 벌을 먹이고 다른 하나는 꽃가루를 묻힙니다",
+      "벌이 꽃을 진동시킬 때만 꽃가루가 방출됩니다",
+      "다른 많은 식물을 독살하는 알루미늄이 풍부한 산성 토양을 견딥니다"
+    ],
+    "ecologicalRoleKo": "꽃가루로 벌을, 열매로 새를 먹이고, 교란된 땅의 회복을 돕습니다.",
+    "interestingFactsKo": [
+      "익은 열매는 입을 검게 물들입니다. Melastoma는 '검은 입'이라는 뜻입니다.",
+      "산성 토양의 지표 식물로 쓰이기도 합니다."
+    ]
   },
   {
     "id": "dicranopteris-linearis",
@@ -196,20 +525,58 @@
     "commonNameEn": "Old World forked fern",
     "commonNameVi": "Guột (Tế)",
     "scientificName": "Dicranopteris linearis",
-    "kingdom": "Plantae", "phylum": "Tracheophyta", "className": "Polypodiopsida", "order": "Gleicheniales", "family": "Gleicheniaceae", "genus": "Dicranopteris",
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "className": "Polypodiopsida",
+    "order": "Gleicheniales",
+    "family": "Gleicheniaceae",
+    "genus": "Dicranopteris",
     "descriptionEn": "A scrambling fern whose wiry stalks fork again and again, each fork ending in a pair of comb-like leafy segments.",
     "descriptionVi": "Loài dương xỉ mọc bò lan, cuống cứng như dây thép chia đôi nhiều lần, mỗi nhánh kết thúc bằng một cặp lá hình răng lược.",
-    "habitats": ["rainforest", "mountain", "ruins"],
-    "size": "Thickets 1–3 m deep", "sizeVi": "Mọc thành thảm dày 1–3 m",
+    "habitats": [
+      "rainforest",
+      "mountain",
+      "ruins"
+    ],
+    "size": "Thickets 1–3 m deep",
+    "sizeVi": "Mọc thành thảm dày 1–3 m",
     "behaviorEn": "Spreads by creeping underground stems and forms dense, tangled thickets on sunny slopes, landslips and forest edges.",
     "behaviorVi": "Lan rộng nhờ thân ngầm bò và tạo thành những thảm dày, chằng chịt trên sườn dốc nhiều nắng, nơi sạt lở và bìa rừng.",
-    "adaptationsEn": ["A resting bud in each fork lets the frond keep growing outwards for years", "It thrives on poor, acidic, eroded soil", "Old dead fronds build up into a thick mat that shades out competitors"],
-    "adaptationsVi": ["Chồi ngủ ở mỗi chạc giúp lá tiếp tục vươn dài trong nhiều năm", "Sống tốt trên đất nghèo, chua và bị xói mòn", "Lá già chết tích lại thành lớp thảm dày che lấp cây cạnh tranh"],
+    "adaptationsEn": [
+      "A resting bud in each fork lets the frond keep growing outwards for years",
+      "It thrives on poor, acidic, eroded soil",
+      "Old dead fronds build up into a thick mat that shades out competitors"
+    ],
+    "adaptationsVi": [
+      "Chồi ngủ ở mỗi chạc giúp lá tiếp tục vươn dài trong nhiều năm",
+      "Sống tốt trên đất nghèo, chua và bị xói mòn",
+      "Lá già chết tích lại thành lớp thảm dày che lấp cây cạnh tranh"
+    ],
     "ecologicalRoleEn": "A pioneer that quickly covers bare slopes and protects them from erosion.",
     "ecologicalRoleVi": "Cây tiên phong nhanh chóng phủ kín sườn dốc trống và bảo vệ đất khỏi xói mòn.",
-    "interestingFactsEn": ["Ferns reproduce with spores, not seeds.", "The tough stalks have traditionally been woven into baskets and mats."],
-    "interestingFactsVi": ["Dương xỉ sinh sản bằng bào tử chứ không bằng hạt.", "Cuống guột dai, từ lâu được dùng để đan giỏ và chiếu."],
-    "model": "dicranopteris-linearis"
+    "interestingFactsEn": [
+      "Ferns reproduce with spores, not seeds.",
+      "The tough stalks have traditionally been woven into baskets and mats."
+    ],
+    "interestingFactsVi": [
+      "Dương xỉ sinh sản bằng bào tử chứ không bằng hạt.",
+      "Cuống guột dai, từ lâu được dùng để đan giỏ và chiếu."
+    ],
+    "model": "dicranopteris-linearis",
+    "commonNameKo": "갈래고사리",
+    "descriptionKo": "철사 같은 자루가 계속 갈라지고 각 갈래가 빗 모양의 잎 조각 쌍으로 끝나는 기어가는 고사리입니다.",
+    "sizeKo": "1–3m 깊이의 덤불",
+    "behaviorKo": "기어가는 지하 줄기로 퍼지며 햇볕 드는 비탈, 산사태 자국, 숲 가장자리에 빽빽하고 얽힌 덤불을 만듭니다.",
+    "adaptationsKo": [
+      "각 갈래의 휴면 눈 덕에 잎이 몇 년이고 계속 바깥으로 자랍니다",
+      "척박하고 산성인 침식 토양에서 잘 자랍니다",
+      "죽은 오래된 잎이 두꺼운 덮개가 되어 경쟁 식물을 가립니다"
+    ],
+    "ecologicalRoleKo": "벌거벗은 비탈을 빠르게 덮고 침식으로부터 보호하는 선구 식물입니다.",
+    "interestingFactsKo": [
+      "고사리는 씨앗이 아니라 포자로 번식합니다.",
+      "질긴 자루는 전통적으로 바구니와 자리를 짜는 데 쓰였습니다."
+    ]
   },
   {
     "id": "asplenium-nidus",
@@ -217,20 +584,57 @@
     "commonNameEn": "Bird's-nest fern",
     "commonNameVi": "Tổ điểu (Dương xỉ tổ chim)",
     "scientificName": "Asplenium nidus",
-    "kingdom": "Plantae", "phylum": "Tracheophyta", "className": "Polypodiopsida", "order": "Polypodiales", "family": "Aspleniaceae", "genus": "Asplenium",
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "className": "Polypodiopsida",
+    "order": "Polypodiales",
+    "family": "Aspleniaceae",
+    "genus": "Asplenium",
     "descriptionEn": "A fern with a rosette of long, glossy, undivided fronds radiating from a central 'nest'.",
     "descriptionVi": "Loài dương xỉ có các lá dài, bóng, không xẻ thùy, tỏa tròn từ một 'tổ' ở giữa.",
-    "habitats": ["rainforest", "ruins"],
-    "size": "Fronds 0.5–1.5 m long", "sizeVi": "Lá dài 0,5–1,5 m",
+    "habitats": [
+      "rainforest",
+      "ruins"
+    ],
+    "size": "Fronds 0.5–1.5 m long",
+    "sizeVi": "Lá dài 0,5–1,5 m",
     "behaviorEn": "Usually grows as an epiphyte perched on tree trunks and branches, and also on mossy rocks, fallen logs and old stonework, as it does here.",
     "behaviorVi": "Thường sống phụ sinh trên thân và cành cây, đôi khi trên đá phủ rêu, thân cây đổ và tường đá cổ như ở đây.",
-    "adaptationsEn": ["The funnel of fronds catches falling leaves and rainwater, building its own compost", "A sponge-like mass of roots stores water between showers", "Spores form in narrow parallel lines under the fronds and drift on the wind"],
-    "adaptationsVi": ["Phễu lá hứng lá rụng và nước mưa, tự tạo ra lớp mùn cho mình", "Khối rễ xốp như bọt biển trữ nước giữa các cơn mưa", "Bào tử hình thành theo những đường song song hẹp ở mặt dưới lá và phát tán theo gió"],
+    "adaptationsEn": [
+      "The funnel of fronds catches falling leaves and rainwater, building its own compost",
+      "A sponge-like mass of roots stores water between showers",
+      "Spores form in narrow parallel lines under the fronds and drift on the wind"
+    ],
+    "adaptationsVi": [
+      "Phễu lá hứng lá rụng và nước mưa, tự tạo ra lớp mùn cho mình",
+      "Khối rễ xốp như bọt biển trữ nước giữa các cơn mưa",
+      "Bào tử hình thành theo những đường song song hẹp ở mặt dưới lá và phát tán theo gió"
+    ],
     "ecologicalRoleEn": "The trapped litter becomes a miniature habitat high in the canopy for insects, earthworms, frogs and other small animals.",
     "ecologicalRoleVi": "Lớp lá mục tích tụ trở thành một sinh cảnh thu nhỏ trên tán rừng cho côn trùng, giun đất, ếch nhái và các động vật nhỏ khác.",
-    "interestingFactsEn": ["A large fern and its soaked compost can weigh a great deal, yet it takes nothing from the host tree.", "It is a popular houseplant around the world."],
-    "interestingFactsVi": ["Một cây lớn cùng khối mùn ngậm nước có thể rất nặng, nhưng nó không lấy chất gì từ cây chủ.", "Đây là loài cây cảnh trồng trong nhà phổ biến khắp thế giới."],
-    "model": "asplenium-nidus"
+    "interestingFactsEn": [
+      "A large fern and its soaked compost can weigh a great deal, yet it takes nothing from the host tree.",
+      "It is a popular houseplant around the world."
+    ],
+    "interestingFactsVi": [
+      "Một cây lớn cùng khối mùn ngậm nước có thể rất nặng, nhưng nó không lấy chất gì từ cây chủ.",
+      "Đây là loài cây cảnh trồng trong nhà phổ biến khắp thế giới."
+    ],
+    "model": "asplenium-nidus",
+    "commonNameKo": "새둥지고사리",
+    "descriptionKo": "중앙의 '둥지'에서 길고 윤기 나며 갈라지지 않은 잎이 방사형으로 뻗어 나오는 고사리입니다.",
+    "sizeKo": "잎 길이 0.5–1.5m",
+    "behaviorKo": "주로 나무줄기와 가지에 얹혀 사는 착생 식물로 자라며, 여기서처럼 이끼 낀 바위, 쓰러진 통나무, 오래된 석조물에서도 자랍니다.",
+    "adaptationsKo": [
+      "깔때기 모양의 잎이 떨어지는 잎과 빗물을 모아 스스로 퇴비를 만듭니다",
+      "스펀지 같은 뿌리 덩어리가 소나기 사이에 물을 저장합니다",
+      "포자는 잎 아래 좁고 평행한 줄로 생겨 바람에 날아갑니다"
+    ],
+    "ecologicalRoleKo": "모인 낙엽이 수관 높은 곳에서 곤충, 지렁이, 개구리 등 작은 동물의 미니어처 서식지가 됩니다.",
+    "interestingFactsKo": [
+      "큰 고사리와 젖은 퇴비는 꽤 무겁지만 숙주 나무에서 아무것도 빼앗지 않습니다.",
+      "전 세계적으로 인기 있는 실내 식물입니다."
+    ]
   },
   {
     "id": "alocasia-macrorrhizos",
@@ -238,20 +642,57 @@
     "commonNameEn": "Giant taro",
     "commonNameVi": "Ráy voi",
     "scientificName": "Alocasia macrorrhizos",
-    "kingdom": "Plantae", "phylum": "Tracheophyta", "className": "Liliopsida", "order": "Alismatales", "family": "Araceae", "genus": "Alocasia",
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "className": "Liliopsida",
+    "order": "Alismatales",
+    "family": "Araceae",
+    "genus": "Alocasia",
     "descriptionEn": "A huge herb with thick stems and enormous arrow-shaped leaves held upright on long stalks.",
     "descriptionVi": "Cây thân thảo khổng lồ, thân mập và những chiếc lá hình mũi tên rất lớn dựng đứng trên cuống dài.",
-    "habitats": ["rainforest", "ruins"],
-    "size": "Leaf blades 1–2 m long; plants up to 4 m tall", "sizeVi": "Phiến lá dài 1–2 m; cây cao tới 4 m",
+    "habitats": [
+      "rainforest",
+      "ruins"
+    ],
+    "size": "Leaf blades 1–2 m long; plants up to 4 m tall",
+    "sizeVi": "Phiến lá dài 1–2 m; cây cao tới 4 m",
     "behaviorEn": "Grows in damp, shady places such as stream banks and forest gaps, spreading into clumps from offsets.",
     "behaviorVi": "Mọc ở nơi ẩm, rợp bóng như bờ suối và khoảng trống trong rừng, lan thành bụi nhờ chồi bên.",
-    "adaptationsEn": ["Very large leaves capture the dim light of the forest floor", "Needle-like calcium oxalate crystals in the sap make the plant painful to eat raw", "Upward-pointing leaves funnel rain towards the roots"],
-    "adaptationsVi": ["Lá rất lớn thu được ánh sáng yếu ở nền rừng", "Tinh thể canxi oxalat hình kim trong nhựa khiến cây gây đau rát nếu ăn sống", "Lá hướng lên trên dẫn nước mưa về phía rễ"],
+    "adaptationsEn": [
+      "Very large leaves capture the dim light of the forest floor",
+      "Needle-like calcium oxalate crystals in the sap make the plant painful to eat raw",
+      "Upward-pointing leaves funnel rain towards the roots"
+    ],
+    "adaptationsVi": [
+      "Lá rất lớn thu được ánh sáng yếu ở nền rừng",
+      "Tinh thể canxi oxalat hình kim trong nhựa khiến cây gây đau rát nếu ăn sống",
+      "Lá hướng lên trên dẫn nước mưa về phía rễ"
+    ],
     "ecologicalRoleEn": "Gives shade and shelter to frogs, insects and other small animals of the forest floor.",
     "ecologicalRoleVi": "Tạo bóng mát và nơi trú ẩn cho ếch nhái, côn trùng và các động vật nhỏ khác ở nền rừng.",
-    "interestingFactsEn": ["Its leaves point upwards, while those of true taro hang downwards.", "People have long used the giant leaves as makeshift umbrellas."],
-    "interestingFactsVi": ["Lá ráy voi hướng lên trên, còn lá khoai môn thật thì rủ xuống.", "Từ lâu người ta đã dùng những chiếc lá khổng lồ này làm ô che mưa tạm."],
-    "model": "alocasia-macrorrhizos"
+    "interestingFactsEn": [
+      "Its leaves point upwards, while those of true taro hang downwards.",
+      "People have long used the giant leaves as makeshift umbrellas."
+    ],
+    "interestingFactsVi": [
+      "Lá ráy voi hướng lên trên, còn lá khoai môn thật thì rủ xuống.",
+      "Từ lâu người ta đã dùng những chiếc lá khổng lồ này làm ô che mưa tạm."
+    ],
+    "model": "alocasia-macrorrhizos",
+    "commonNameKo": "거대토란",
+    "descriptionKo": "두꺼운 줄기와 긴 자루 위에 곧게 선 거대한 화살촉 모양 잎을 지닌 거대한 풀입니다.",
+    "sizeKo": "잎 길이 1–2m; 식물 높이 최대 4m",
+    "behaviorKo": "개울가와 숲 틈 같은 축축하고 그늘진 곳에서 자라며 빨판으로 덤불을 이룹니다.",
+    "adaptationsKo": [
+      "매우 큰 잎이 숲 바닥의 희미한 빛을 포착합니다",
+      "수액 속 바늘 모양 옥살산칼슘 결정이 날로 먹으면 아프게 만듭니다",
+      "위를 향한 잎이 빗물을 뿌리 쪽으로 모읍니다"
+    ],
+    "ecologicalRoleKo": "숲 바닥의 개구리, 곤충, 기타 작은 동물에게 그늘과 은신처를 줍니다.",
+    "interestingFactsKo": [
+      "잎이 위를 향하는 반면 진짜 토란 잎은 아래로 처집니다.",
+      "사람들은 오래전부터 이 거대한 잎을 임시 우산으로 썼습니다."
+    ]
   },
   {
     "id": "colocasia-esculenta",
@@ -259,21 +700,57 @@
     "commonNameEn": "Taro",
     "commonNameVi": "Khoai môn (Khoai nước)",
     "scientificName": "Colocasia esculenta",
-    "kingdom": "Plantae", "phylum": "Tracheophyta", "className": "Liliopsida", "order": "Alismatales", "family": "Araceae", "genus": "Colocasia",
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "className": "Liliopsida",
+    "order": "Alismatales",
+    "family": "Araceae",
+    "genus": "Colocasia",
     "descriptionEn": "A waterside herb with velvety, heart-shaped leaves that hang point-downwards from long stalks.",
     "descriptionVi": "Cây thân thảo ven nước, lá hình tim mịn như nhung, rủ mũi xuống dưới trên cuống dài.",
-    "habitats": ["freshwater"],
-    "size": "Usually 1–1.5 m tall", "sizeVi": "Thường cao 1–1,5 m",
+    "habitats": [
+      "freshwater"
+    ],
+    "size": "Usually 1–1.5 m tall",
+    "sizeVi": "Thường cao 1–1,5 m",
     "conservationStatus": "LC",
     "behaviorEn": "Grows in wet soil and shallow water along banks and ditches, spreading by runners and underground corms.",
     "behaviorVi": "Mọc trên đất ướt và vùng nước nông dọc bờ sông, mương, lan rộng nhờ thân bò và củ dưới đất.",
-    "adaptationsEn": ["The leaf stalk joins the blade near its centre, like a shield", "Water beads up and rolls off the leaf surface", "Air spaces in the stalks let the roots survive in waterlogged mud"],
-    "adaptationsVi": ["Cuống lá đính gần giữa phiến lá, giống như chiếc khiên", "Nước vo thành giọt và lăn khỏi mặt lá", "Khoang khí trong cuống giúp rễ sống được trong bùn ngập nước"],
+    "adaptationsEn": [
+      "The leaf stalk joins the blade near its centre, like a shield",
+      "Water beads up and rolls off the leaf surface",
+      "Air spaces in the stalks let the roots survive in waterlogged mud"
+    ],
+    "adaptationsVi": [
+      "Cuống lá đính gần giữa phiến lá, giống như chiếc khiên",
+      "Nước vo thành giọt và lăn khỏi mặt lá",
+      "Khoang khí trong cuống giúp rễ sống được trong bùn ngập nước"
+    ],
     "ecologicalRoleEn": "Stabilises muddy banks and provides cover for frogs, dragonfly larvae and young fish.",
     "ecologicalRoleVi": "Giữ ổn định bờ bùn và là nơi ẩn náu của ếch nhái, ấu trùng chuồn chuồn và cá con.",
-    "interestingFactsEn": ["Taro is one of the oldest cultivated crops in the world.", "The corm must be cooked before eating to break down its irritating crystals."],
-    "interestingFactsVi": ["Khoai môn là một trong những cây trồng lâu đời nhất thế giới.", "Củ phải được nấu chín trước khi ăn để phá hủy các tinh thể gây ngứa."],
-    "model": "colocasia-esculenta"
+    "interestingFactsEn": [
+      "Taro is one of the oldest cultivated crops in the world.",
+      "The corm must be cooked before eating to break down its irritating crystals."
+    ],
+    "interestingFactsVi": [
+      "Khoai môn là một trong những cây trồng lâu đời nhất thế giới.",
+      "Củ phải được nấu chín trước khi ăn để phá hủy các tinh thể gây ngứa."
+    ],
+    "model": "colocasia-esculenta",
+    "commonNameKo": "토란",
+    "descriptionKo": "긴 자루에서 하트 모양의 부드러운 잎이 끝을 아래로 향해 처지는 물가 풀입니다.",
+    "sizeKo": "보통 높이 1–1.5m",
+    "behaviorKo": "강둑과 수로를 따라 젖은 흙과 얕은 물에서 자라며, 뻗는 줄기와 지하 구근으로 퍼집니다.",
+    "adaptationsKo": [
+      "잎자루가 잎 중앙 근처에 붙어 방패처럼 보입니다",
+      "물이 잎 표면에서 방울져 흘러내립니다",
+      "자루 속 공기 공간이 물에 잠긴 진흙에서 뿌리를 살아 있게 합니다"
+    ],
+    "ecologicalRoleKo": "진흙 강둑을 안정시키고 개구리, 잠자리 유충, 어린 물고기의 은신처가 됩니다.",
+    "interestingFactsKo": [
+      "토란은 세계에서 가장 오래된 재배 작물 중 하나입니다.",
+      "구근은 자극성 결정을 분해하기 위해 반드시 익혀 먹어야 합니다."
+    ]
   },
   {
     "id": "imperata-cylindrica",
@@ -281,19 +758,57 @@
     "commonNameEn": "Cogon grass",
     "commonNameVi": "Cỏ tranh",
     "scientificName": "Imperata cylindrica",
-    "kingdom": "Plantae", "phylum": "Tracheophyta", "className": "Liliopsida", "order": "Poales", "family": "Poaceae", "genus": "Imperata",
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "className": "Liliopsida",
+    "order": "Poales",
+    "family": "Poaceae",
+    "genus": "Imperata",
     "descriptionEn": "A tall grass with stiff, sharp-edged blades and fluffy, silvery-white cylindrical flower heads.",
     "descriptionVi": "Loài cỏ cao, lá cứng, mép sắc, cụm hoa hình trụ màu trắng bạc mượt như bông.",
-    "habitats": ["grassland", "mountain", "freshwater"],
-    "size": "Usually 0.6–1.5 m tall", "sizeVi": "Thường cao 0,6–1,5 m",
+    "habitats": [
+      "grassland",
+      "mountain",
+      "freshwater"
+    ],
+    "size": "Usually 0.6–1.5 m tall",
+    "sizeVi": "Thường cao 0,6–1,5 m",
     "behaviorEn": "Covers open ground in dense stands. It resprouts within days after burning and spreads by sharp-tipped underground stems.",
     "behaviorVi": "Phủ kín đất trống thành những bãi dày. Cỏ tranh mọc lại chỉ vài ngày sau khi bị đốt và lan rộng nhờ thân ngầm đầu nhọn.",
-    "adaptationsEn": ["Most of the plant's mass is underground, safe from fire and grazing", "Feathery seeds are carried long distances by wind", "Blade edges are armed with tiny silica teeth"],
-    "adaptationsVi": ["Phần lớn sinh khối nằm dưới đất, an toàn trước lửa và động vật gặm cỏ", "Hạt có lông tơ được gió mang đi rất xa", "Mép lá có những răng silic nhỏ li ti"],
+    "adaptationsEn": [
+      "Most of the plant's mass is underground, safe from fire and grazing",
+      "Feathery seeds are carried long distances by wind",
+      "Blade edges are armed with tiny silica teeth"
+    ],
+    "adaptationsVi": [
+      "Phần lớn sinh khối nằm dưới đất, an toàn trước lửa và động vật gặm cỏ",
+      "Hạt có lông tơ được gió mang đi rất xa",
+      "Mép lá có những răng silic nhỏ li ti"
+    ],
     "ecologicalRoleEn": "Dominates fire-prone grasslands, binds the soil and gives cover to hares, ground birds and insects.",
     "ecologicalRoleVi": "Chiếm ưu thế ở đồng cỏ hay cháy, giữ đất và là nơi ẩn nấp của thỏ rừng, chim sống trên mặt đất và côn trùng.",
-    "interestingFactsEn": ["Its leaves are the traditional thatch for house roofs in rural Vietnam.", "Outside its native range it is considered one of the world's worst weeds."],
-    "interestingFactsVi": ["Lá cỏ tranh là vật liệu lợp mái nhà truyền thống ở nông thôn Việt Nam.", "Ngoài vùng phân bố tự nhiên, cỏ tranh bị coi là một trong những loài cỏ dại nguy hại nhất thế giới."],
-    "model": "imperata-cylindrica"
+    "interestingFactsEn": [
+      "Its leaves are the traditional thatch for house roofs in rural Vietnam.",
+      "Outside its native range it is considered one of the world's worst weeds."
+    ],
+    "interestingFactsVi": [
+      "Lá cỏ tranh là vật liệu lợp mái nhà truyền thống ở nông thôn Việt Nam.",
+      "Ngoài vùng phân bố tự nhiên, cỏ tranh bị coi là một trong những loài cỏ dại nguy hại nhất thế giới."
+    ],
+    "model": "imperata-cylindrica",
+    "commonNameKo": "띠 (코곤 풀)",
+    "descriptionKo": "뻣뻣하고 날카로운 가장자리의 잎과 솜털 같은 은백색 원통형 꽃이삭을 지닌 키 큰 풀입니다.",
+    "sizeKo": "보통 높이 0.6–1.5m",
+    "behaviorKo": "탁 트인 땅을 빽빽한 군락으로 덮습니다. 불에 탄 뒤 며칠 안에 다시 돋아나고 뾰족한 끝의 지하 줄기로 퍼집니다.",
+    "adaptationsKo": [
+      "식물 대부분의 질량이 지하에 있어 불과 초식 동물로부터 안전합니다",
+      "솜털 씨앗이 바람에 멀리 날아갑니다",
+      "잎 가장자리에 작은 규소 이빨이 있습니다"
+    ],
+    "ecologicalRoleKo": "불이 잦은 초원을 지배하고 흙을 묶어주며 토끼, 땅새, 곤충에게 은신처가 됩니다.",
+    "interestingFactsKo": [
+      "잎은 베트남 시골 가옥 지붕의 전통 이엉 재료입니다.",
+      "원산지 밖에서는 세계 최악의 잡초 중 하나로 여겨집니다."
+    ]
   }
 ]

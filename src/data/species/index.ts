@@ -31,6 +31,7 @@ export interface SpeciesRecord {
   category: Category;
   commonNameEn: string;
   commonNameVi: string;
+  commonNameKo: string;
   scientificName: string;
   kingdom: string;
   phylum: string;
@@ -40,23 +41,31 @@ export interface SpeciesRecord {
   genus: string;
   descriptionEn: string;
   descriptionVi: string;
+  descriptionKo: string;
   habitats: string[];
   diet?: string[];
   dietVi?: string[];
+  dietKo?: string[];
   lifespan?: string;
   lifespanVi?: string;
+  lifespanKo?: string;
   size?: string;
   sizeVi?: string;
+  sizeKo?: string;
   /** IUCN Red List category code (LC, NT, VU, EN, CR). Omitted when not claimed. */
   conservationStatus?: string;
   behaviorEn?: string;
   behaviorVi?: string;
+  behaviorKo?: string;
   adaptationsEn?: string[];
   adaptationsVi?: string[];
+  adaptationsKo?: string[];
   ecologicalRoleEn?: string;
   ecologicalRoleVi?: string;
+  ecologicalRoleKo?: string;
   interestingFactsEn?: string[];
   interestingFactsVi?: string[];
+  interestingFactsKo?: string[];
   /** Key of the procedural model. */
   model: string;
   modelAsset?: string;
@@ -102,7 +111,7 @@ export function searchSpecies(query: string): SpeciesRecord[] {
   const q = query.trim().toLowerCase();
   if (!q) return [...SPECIES];
   return SPECIES.filter((s) =>
-    [s.commonNameEn, s.commonNameVi, s.scientificName, s.family, s.order].some((v) => v.toLowerCase().includes(q)),
+    [s.commonNameEn, s.commonNameVi, s.commonNameKo, s.scientificName, s.family, s.order].some((v) => v.toLowerCase().includes(q)),
   );
 }
 
@@ -116,7 +125,7 @@ export function validateSpecies(s: SpeciesRecord): string[] {
     const v = s[key];
     if (typeof v !== 'string' || v.trim() === '') errors.push(`${s.id}: missing ${String(key)}`);
   };
-  (['id', 'commonNameEn', 'commonNameVi', 'scientificName', 'kingdom', 'phylum', 'className', 'order', 'family', 'genus', 'descriptionEn', 'descriptionVi', 'model'] as const).forEach(need);
+  (['id', 'commonNameEn', 'commonNameVi', 'commonNameKo', 'scientificName', 'kingdom', 'phylum', 'className', 'order', 'family', 'genus', 'descriptionEn', 'descriptionVi', 'descriptionKo', 'model'] as const).forEach(need);
   if (!CATEGORIES.includes(s.category)) errors.push(`${s.id}: bad category`);
   if (!BINOMIAL.test(s.scientificName)) errors.push(`${s.id}: scientificName is not a binomial`);
   if (s.scientificName.split(' ')[0] !== s.genus) errors.push(`${s.id}: genus does not match scientificName`);
@@ -126,6 +135,9 @@ export function validateSpecies(s: SpeciesRecord): string[] {
     ['adaptationsEn', 'adaptationsVi'],
     ['interestingFactsEn', 'interestingFactsVi'],
     ['diet', 'dietVi'],
+    ['adaptationsEn', 'adaptationsKo'],
+    ['interestingFactsEn', 'interestingFactsKo'],
+    ['diet', 'dietKo'],
   ];
   for (const [a, b] of pairs) {
     const x = s[a] as string[] | undefined;
@@ -137,18 +149,21 @@ export function validateSpecies(s: SpeciesRecord): string[] {
   return errors;
 }
 
-export type Lang = 'en' | 'vi';
+export type Lang = 'en' | 'vi' | 'ko';
 
 /** Localised field helpers so UI code never branches on language itself. */
+const pick = <T>(l: Lang, en: T, vi: T, ko: T): T => (l === 'ko' ? ko : l === 'vi' ? vi : en);
+
 export const speciesText = {
-  name: (s: SpeciesRecord, l: Lang): string => (l === 'vi' ? s.commonNameVi : s.commonNameEn),
-  altName: (s: SpeciesRecord, l: Lang): string => (l === 'vi' ? s.commonNameEn : s.commonNameVi),
-  description: (s: SpeciesRecord, l: Lang): string => (l === 'vi' ? s.descriptionVi : s.descriptionEn),
-  behavior: (s: SpeciesRecord, l: Lang): string | undefined => (l === 'vi' ? s.behaviorVi : s.behaviorEn),
-  role: (s: SpeciesRecord, l: Lang): string | undefined => (l === 'vi' ? s.ecologicalRoleVi : s.ecologicalRoleEn),
-  adaptations: (s: SpeciesRecord, l: Lang): string[] => (l === 'vi' ? s.adaptationsVi : s.adaptationsEn) ?? [],
-  facts: (s: SpeciesRecord, l: Lang): string[] => (l === 'vi' ? s.interestingFactsVi : s.interestingFactsEn) ?? [],
-  diet: (s: SpeciesRecord, l: Lang): string[] => (l === 'vi' ? s.dietVi : s.diet) ?? [],
-  size: (s: SpeciesRecord, l: Lang): string | undefined => (l === 'vi' ? s.sizeVi : s.size),
-  lifespan: (s: SpeciesRecord, l: Lang): string | undefined => (l === 'vi' ? s.lifespanVi : s.lifespan),
+  name: (s: SpeciesRecord, l: Lang): string => pick(l, s.commonNameEn, s.commonNameVi, s.commonNameKo),
+  /** The original-language name shown alongside the localised one (English for Korean players). */
+  altName: (s: SpeciesRecord, l: Lang): string => pick(l, s.commonNameVi, s.commonNameEn, s.commonNameEn),
+  description: (s: SpeciesRecord, l: Lang): string => pick(l, s.descriptionEn, s.descriptionVi, s.descriptionKo),
+  behavior: (s: SpeciesRecord, l: Lang): string | undefined => pick(l, s.behaviorEn, s.behaviorVi, s.behaviorKo),
+  role: (s: SpeciesRecord, l: Lang): string | undefined => pick(l, s.ecologicalRoleEn, s.ecologicalRoleVi, s.ecologicalRoleKo),
+  adaptations: (s: SpeciesRecord, l: Lang): string[] => pick(l, s.adaptationsEn, s.adaptationsVi, s.adaptationsKo) ?? [],
+  facts: (s: SpeciesRecord, l: Lang): string[] => pick(l, s.interestingFactsEn, s.interestingFactsVi, s.interestingFactsKo) ?? [],
+  diet: (s: SpeciesRecord, l: Lang): string[] => pick(l, s.diet, s.dietVi, s.dietKo) ?? [],
+  size: (s: SpeciesRecord, l: Lang): string | undefined => pick(l, s.size, s.sizeVi, s.sizeKo),
+  lifespan: (s: SpeciesRecord, l: Lang): string | undefined => pick(l, s.lifespan, s.lifespanVi, s.lifespanKo),
 };

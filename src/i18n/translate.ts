@@ -2,12 +2,14 @@
 import type { Lang } from '../data/species';
 import { en, type TextKey } from './en';
 import { vi } from './vi';
+import { ko } from './ko';
 
 export type { TextKey } from './en';
 export type Params = Record<string, string | number>;
 
-export const DICTIONARIES: Record<Lang, Record<TextKey, string>> = { en, vi };
+export const DICTIONARIES: Record<Lang, Record<TextKey, string>> = { en, vi, ko };
 export const LANGUAGES: { id: Lang; label: string }[] = [
+  { id: 'ko', label: '한국어' },
   { id: 'vi', label: 'Tiếng Việt' },
   { id: 'en', label: 'English' },
 ];
@@ -32,7 +34,7 @@ export function translateDynamic(lang: Lang, key: string, params?: Params): stri
 
 export function formatDate(ts: number, lang: Lang): string {
   try {
-    return new Intl.DateTimeFormat(lang === 'vi' ? 'vi-VN' : 'en-GB', { dateStyle: 'medium', timeStyle: 'short' }).format(new Date(ts));
+    return new Intl.DateTimeFormat(lang === 'ko' ? 'ko-KR' : lang === 'vi' ? 'vi-VN' : 'en-GB', { dateStyle: 'medium', timeStyle: 'short' }).format(new Date(ts));
   } catch {
     return new Date(ts).toISOString();
   }
