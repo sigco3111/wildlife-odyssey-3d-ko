@@ -1,142 +1,70 @@
-# Wildlife Odyssey 3D — The Living World
+# Wildlife Odyssey 3D — 살아 있는 세계 (한국어판)
 
-![version](https://img.shields.io/badge/version-0.1.0-2f6f4f) ![license](https://img.shields.io/badge/license-MIT-3da638) ![Node.js](https://img.shields.io/badge/Node.js-%E2%89%A5%2020.19-339933?logo=nodedotjs&logoColor=white) ![languages](https://img.shields.io/badge/languages-Ti%E1%BA%BFng%20Vi%E1%BB%87t%20%7C%20English-d99432) ![backend](https://img.shields.io/badge/backend-none-555555) ![art and audio](https://img.shields.io/badge/art%20and%20audio-procedural-34513a)
+![version](https://img.shields.io/badge/version-0.1.0-2f6f4f) ![license](https://img.shields.io/badge/license-MIT-3da638) ![languages](https://img.shields.io/badge/languages-%ED%95%9C%EA%B5%AD%EC%96%B4%20%7C%20Ti%E1%BA%BFng%20Vi%E1%BB%87t%20%7C%20English-d99432) ![backend](https://img.shields.io/badge/backend-none-555555) ![art and audio](https://img.shields.io/badge/art%20and%20audio-procedural-34513a)
 
-A browser-based 3D wildlife exploration and scientific discovery game. Explore Emerald Valley Research Reserve, observe 36 real Southeast Asian species, photograph and film them, and build a field journal. Vietnamese and English.
+브라우저에서 바로 실행되는 3D 야생 탐험·과학 관찰 게임입니다. 에메랄드 밸리 연구 보호구를 탐험하면서 동남아시아의 실제 동식물 36종을 관찰하고, 사진과 영상으로 기록하고, 야생 일지를 채워 보세요. 이 저장소는 [quanap5/wildlife-odyssey-3d](https://github.com/quanap5/wildlife-odyssey-3d)(MIT 라이선스)의 한국어판입니다. 한국어, 베트남어, 영어를 지원합니다.
 
-![Walking out of the research camp towards the forest edge](docs/media/demo-explore.gif)
+**플레이:** https://sigco3111.github.io/wildlife-odyssey-3d-ko/
 
-Everything you see and hear is generated procedurally at run time: terrain, plants, animals, textures and sound. There are no model, texture or audio files, and there is no backend.
+지형, 식물, 동물, 텍스처, 사운드까지 보이고 들리는 모든 것이 실행 시점에 절차적으로 생성됩니다. 외부 모델·텍스처·오디오 파일이 없고 서버도 필요 없습니다.
 
-## A look at the game
+## 실행 화면
 
-### Photograph wildlife
+![메인 메뉴](docs/media/screenshot-menu.png)
 
-![Raising the camera on a sambar deer, zooming in, waiting for focus and taking a scored photograph](docs/media/demo-photo.gif)
+![야생 도감](docs/media/screenshot-field-guide.png)
 
-Raise the camera, zoom, wait for focus lock, release the shutter. Each photograph is scored on seven criteria and identifies its subject.
+![탐험 중 화면](docs/media/screenshot-in-game.png)
 
-### Identify species and fill the field journal
+![설정](docs/media/screenshot-settings.png)
 
-![Scanning a sambar deer, the discovery card, then its page in the field journal](docs/media/demo-journal.gif)
+## 주요 기능
 
-Hold a species in the scanner to identify it, then read its entry: names in both languages, taxonomy, habitat, diet, conservation status.
+- **오픈 월드 탐험**: 초원, 열대 우림, 강과 호수, 산과 폭포, 고대 유적의 다섯 생태계를 걸어서(그리고 헤엄쳐서) 탐험
+- **야생 사진 촬영**: 줌, 초점 잠금, 노출, 심도를 조절해 촬영. 사진은 7개 기준으로 채점되고 촬영한 종이 식별됨
+- **생물 스캐너와 야생 일지**: 종을 스캔해 식별하면 분류, 서식지, 먹이, 보전 등급(IUCN)이 담긴 도감 항목이 열림
+- **영상 녹화**: 행동을 녹화하고 슬로 모션으로 다시 보기
+- **연구 역할과 탐험 임무**: 야생동물 생물학자 또는 고고학자로 시작해 5개의 탐험 임무와 배지 완성
+- **3D 과학 관찰**: 매크로 렌즈로 작은 생물을 확대하고 부위별 해부학 노트 확인
+- **저장**: IndexedDB에 탐험 진행 상황, 사진, 영상 저장 (서버 없이 브라우저 안에서)
 
-The clips are the real game, played by a script and captured frame by frame (see `qa/demo/`). They were recorded in a software renderer on the Medium preset at reduced resolution, with shadows off and a short draw distance, so they are smaller and plainer than the game on a graphics card.
+## 설치와 실행
 
-## Tech stack
-
-| Layer | Stack | Used for |
-|---|---|---|
-| App | ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-6%20strict-3178C6?logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white) | Interface, type safety, dev server and static build |
-| 3D | ![Three.js](https://img.shields.io/badge/Three.js-r187-000000?logo=threedotjs&logoColor=white) ![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-9-20232a?logo=react&logoColor=61DAFB) ![Drei](https://img.shields.io/badge/Drei-10-20232a) ![WebGL](https://img.shields.io/badge/WebGL-2-990000?logo=webgl&logoColor=white) | Rendering the world, the camera rigs and the inspection view |
-| State and physics | ![Zustand](https://img.shields.io/badge/Zustand-5-443E38) ![Rapier](https://img.shields.io/badge/Rapier-0.21%20WASM-4f46a5) | Game and UI state; player collision and ground following |
-| Browser APIs | ![IndexedDB](https://img.shields.io/badge/IndexedDB-saves%20and%20media-1e63b8) ![Web Audio](https://img.shields.io/badge/Web%20Audio-synthesised%20sound-8a4fbf) ![MediaRecorder](https://img.shields.io/badge/MediaRecorder-video%20capture-c2452d) ![Pointer Lock](https://img.shields.io/badge/Pointer%20Lock-mouse%20look-555555) | Saving, sound, video recording and mouse look, with no server |
-| Quality | ![Vitest](https://img.shields.io/badge/Vitest-5-6E9F18?logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-1.65-2EAD33) ![ESLint](https://img.shields.io/badge/ESLint-10-4B32C3?logo=eslint&logoColor=white) | Unit tests, browser tests in real Chrome, linting |
-| Fonts | ![Chakra Petch](https://img.shields.io/badge/Chakra%20Petch-OFL%201.1-a14b2b) ![Be Vietnam Pro](https://img.shields.io/badge/Be%20Vietnam%20Pro-OFL%201.1-a14b2b) ![JetBrains Mono](https://img.shields.io/badge/JetBrains%20Mono-OFL%201.1-a14b2b) | Bundled typefaces with full Vietnamese coverage |
-
-**Status:** version 0.1.0. The full acceptance scenario passes in automated browser tests. Frame rate on a real GPU, audio, and browsers other than Chrome have not been tested; see [`docs/implementation-status.md`](docs/implementation-status.md) for what was verified and how.
-
-Developed and tested with Node.js 22 (Vite 8 needs Node.js 20.19 or newer, or 22.12 or newer). The browser tests also need Google Chrome installed.
-
-## Run
+Node.js 20.19 이상(또는 22.12 이상)이 필요합니다.
 
 ```bash
 npm install
 npm run dev        # http://127.0.0.1:5173
 ```
 
-Production build (static files in `dist/`, relocatable — `base: './'`):
+프로덕션 빌드 (`dist/`에 정적 파일 생성, `base: './'`라 어떤 경로에서도 서빙 가능):
 
 ```bash
 npm run build
 npm run preview    # http://127.0.0.1:4173
 ```
 
-Deploy by copying `dist/` to any static host. No server-side code or environment variables are required.
+배포는 `dist/`를 아무 정적 호스트에나 복사하면 됩니다. 서버 코드나 환경 변수가 필요 없습니다.
 
-## Checks
+검사:
 
 ```bash
 npm run lint       # ESLint
-npm run typecheck  # tsc --noEmit (strict)
-npm run test       # Vitest unit tests
-npm run test:e2e   # Playwright, runs against `npm run preview` in system Chrome
-npm run check      # lint + typecheck + unit tests + build
+npm run test       # Vitest 단위 테스트 (153개)
+npm run test:e2e   # Playwright 브라우저 테스트 (Chrome 필요)
 ```
 
-`npm run build` must have been run before `npm run test:e2e`. The browser tests use software WebGL (SwiftShader) so they work without a GPU; on such machines the three tests take about 15 minutes in total.
+## 기술 노트
 
-## Controls
+- **스택**: React 19 + TypeScript(strict) + Vite 8, Three.js + React Three Fiber + Drei, Zustand(상태), Rapier(WASM 물리), Web Audio API(합성 사운드), IndexedDB(저장)
+- **한국어화**: 기존 베트남어/영어 이중언어 구조(`src/i18n/`, 종 도감 JSON)에 한국어를 제3언어로 추가. UI 문자열 전체와 36종 도감(이름·설명·행동·적응·생태 역할·흥미로운 사실 등)을 번역했고, 언어 키 일치·플레이스홀더 일치를 단위 테스트로 검증합니다. 기본 언어는 한국어이며 설정에서 변경 가능합니다.
+- **한국어 폰트**: Noto Sans KR(OFL 1.1)을 한국어판에서 실제 사용하는 글리프만 서브셋으로 만들어 번들(약 132KB). 기존 Chakra Petch / Be Vietnam Pro / JetBrains Mono(OFL)와 함께 `src/fonts.css`에 선언되어 있습니다.
+- **배포**: `gh-pages` 브랜치에 빌드 산출물을 올려 GitHub Pages로 서빙합니다.
 
-| Input | Action |
-|---|---|
-| W A S D | Move |
-| Mouse (click to capture) / arrow keys | Look around |
-| Shift | Sprint |
-| Ctrl | Crouch; dive while swimming |
-| Space | Jump |
-| E | Interact / inspect |
-| F | Bio scanner |
-| C | Camera (T switches photo / video, 1-4 or wheel zoom, [ ] exposure, R size, O depth of field, - = aperture, G composition guides, H hide UI) |
-| B | Binoculars |
-| X | Macro lens |
-| Z | Slow motion 1.0 / 0.5 / 0.25x |
-| V | First / third person |
-| M | Map (click to set a waypoint) |
-| J | Field journal |
-| I | Inventory |
-| Tab | Equipment wheel |
-| F3 | Performance overlay |
-| Esc | Pause and settings |
+## 라이선스와 크레딧
 
-If the browser refuses pointer capture (for example inside a sandboxed frame), drag with the mouse or use the arrow keys to look.
-
-## Repository layout
-
-```
-src/
-  app/          application shell and the 3D canvas
-  engine/       rendering loop, input, physics, audio, camera maths
-  world/        terrain, vegetation, water, weather, structures
-  entities/     player and wildlife (models, behaviour, animation)
-  systems/      photography, video, identification, quests, persistence, interaction
-  ui/           HUD, tool overlays, journal, map, menus
-  data/         species, biomes and quests (JSON and typed tables)
-  i18n/         Vietnamese and English strings
-  store/        game state (Zustand) and per-frame runtime state
-  assets/fonts/ bundled typefaces
-  tests/        unit tests (Vitest)
-e2e/            browser tests (Playwright)
-qa/harness/     exploratory QA scripts behind docs/qa-report.md
-qa/demo/        scripts that record and encode the README clips
-scripts/        maintenance scripts
-docs/           design, architecture, status, QA report, handbook, prompts, media
-public/         files copied as-is into the build (font licence)
-```
-
-## Documentation
-
-- `docs/game-design.md` — design, biomes, tools, expeditions
-- `docs/architecture.md` — module layout and decisions
-- `docs/implementation-status.md` — feature checklist, test results, known issues
-- `docs/performance.md` — budgets, measurements, settings
-- `docs/qa-report.md` — end-to-end QA pass: verified checklist, defects found and fixed, what was not executed
-- `docs/handbook.html` — sổ tay cho người mới (tiếng Việt): tech stack, kiến trúc, bảy sơ đồ, roadmap học lập trình game
-- `docs/species-sources.md` — species list with verification state and sources
-- `docs/asset-licenses.md` — asset provenance, bundled fonts and dependency licences
-- `docs/prompts/` — the prompts each work pass started from
-- `CHANGELOG.md` — what changed in each pass
-
-The interface fonts (Chakra Petch, Be Vietnam Pro, JetBrains Mono; SIL Open Font License 1.1) are bundled in `src/assets/fonts/`, so the game needs no network access for them. Their licence text is in `public/licenses/FONTS-OFL.txt` and must stay with any copy of the build.
-
-## Adding a species
-
-1. Add a record to `src/data/species/animals.json` or `plants.json`.
-2. Animals: add a behaviour profile and a habitat group in `src/entities/wildlife/profiles.ts` and a parameter recipe in `src/entities/wildlife/models.ts`. Plants: add metadata and a builder in `src/world/vegetation/plantModels.ts` and list the plant in a biome in `src/data/biomes/biomes.ts`.
-3. Add its sources to `src/data/species/verification.json` once checked, then run `node scripts/species-report.mjs`.
-4. `npm run test` — the catalog tests check schema, wiring and localisation.
-
-## Licence
-
-Code: MIT, see [`LICENSE`](LICENSE). Bundled fonts: SIL Open Font License 1.1, see `public/licenses/FONTS-OFL.txt`. Dependency licences are listed in `docs/asset-licenses.md`.
+- **원작**: [quanap5/wildlife-odyssey-3d](https://github.com/quanap5/wildlife-odyssey-3d) by quanap5, MIT License (원문: `LICENSE`)
+- 이 한국어판도 동일한 MIT License를 따릅니다.
+- 번들 폰트(Chakra Petch, Be Vietnam Pro, JetBrains Mono, Noto Sans KR)는 SIL Open Font License 1.1이며 전문은 `public/licenses/FONTS-OFL.txt`에 있습니다. 에셋 라이선스 정리는 `docs/asset-licenses.md` 참고.
+- 종 정보 출처와 검증 내역은 각 종 도감 페이지와 `docs/species-sources.md`에 있습니다.
+- 원작의 개발 문서(영문): `docs/` (아키텍처, 게임 디자인, 구현 상태 등). 원본 README는 `docs/README-original.md`에 보존되어 있습니다.
